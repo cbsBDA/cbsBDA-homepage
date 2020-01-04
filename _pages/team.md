@@ -8,6 +8,5 @@ author_profile: true
 
 
 
-# Raghava Rao Mukkamala
-
-<img src="/images/raghava-passport.png" alt='Raghava Mukkamala'/>
+# Raghava Mukkamala
+<div class="avatar"><img src="/images/raghava-passport.png" alt='Raghava Mukkamala'/> </div>
