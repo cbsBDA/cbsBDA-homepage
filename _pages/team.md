@@ -7,6 +7,7 @@ author_profile: true
 
 
 
-# People
 
 # Raghava Rao Mukkamala
+
+<img src="images/raghava-passport.png" alt='Raghava Mukkamala'/>
