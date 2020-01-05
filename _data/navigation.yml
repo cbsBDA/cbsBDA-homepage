@@ -16,5 +16,5 @@ main:
   - title: "CV"
     url: cv/
 
-    - title: "Contact Us"
-      url: contactus/
+  - title: "Contact Us"
+    url: contactus/
