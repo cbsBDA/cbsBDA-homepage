@@ -8,7 +8,9 @@ author_profile: true
 
 
 
-# Raghava Mukkamala
+# Team
+{: .title }
+
 <div class="avatar">
 <img src="/images/teams/raghava1.jpg" alt='Raghava Mukkamala'/>
 
