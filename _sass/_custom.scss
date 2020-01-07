@@ -8,16 +8,20 @@
   display: none;
 }
 // Team Iamge
+.title{
+  text-align: center;
+  margin-bottom: 10px;
+}
 .avatar img{
   border-radius: 50%;
   border: 1px solid #929292;
   width:100%;
 }
 .avatar{
-  width:23%;
+  width:21%;
   float: left;
   padding: 0px 5px;
-  margin: 0px 1%;
+  margin: 0px 2%;
 }
 .avatar a{
   text-decoration: none;
