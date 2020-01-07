@@ -1,3 +1,13 @@
+// Nave style
+.masthead__menu-item:hover{
+  background: #4967aa;
+  border-radius: 4pxl
+  color:#ffffff;
+}
+.greedy-nav .visible-links a:hover:before{
+  display: none;
+}
+// Team Iamge
 .avatar img{
   border-radius: 50%;
   border: 1px solid #929292;
