@@ -12,7 +12,7 @@ author_profile: true
 <div class="avatar">
 <img src="/images/raghava-passport.png" alt='Raghava Mukkamala'/>
 
-<h3 class="t-name">Raghava Mukkamala</h3>
+<a href="#"><h3 class="t-name">Raghava Mukkamala</h3></a>
 
 <p class="designation">SW</p>
  </div>
