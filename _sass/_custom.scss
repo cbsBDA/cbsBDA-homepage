@@ -19,11 +19,28 @@
   border: 1px solid #929292;
   width:100%;
 }
+.col-md-3, .col-sm-3{
+  width:25%;
+  padding: 0px 10px;
+}
+.col-xs-6{
+  width:50%;
+  padding: 0px 10px;
+}
+.box-gray{
+  background: #f9f9f9;
+  padding: 20px;
+  min-height: 365px;
+}
 .avatar{
-  width:21%;
-  float: left;
-  padding: 0px 5px;
-  margin: 0px 2%;
+  margin-bottom: 20px;
+}
+.team h5 {
+    margin-bottom: 10px;
+    color: #4967aa;
+}
+.team p.subtitle {
+    margin-bottom: 0px;
 }
 .avatar a{
   text-decoration: none;
