@@ -9,7 +9,10 @@ author_profile: true
 
 
 # Raghava Mukkamala
-<div class="avatar"><img src="/images/raghava-passport.png" alt='Raghava Mukkamala'/> <p>Raghava Mukkamala</p> </div>
+<div class="avatar">
+<img src="/images/raghava-passport.png" alt='Raghava Mukkamala'/>
+Raghava Mukkamala
+ </div>
 <div class="avatar"><img src="/images/raghava-passport.png" alt='Raghava Mukkamala'/> </div>
 <div class="avatar"><img src="/images/raghava-passport.png" alt='Raghava Mukkamala'/> </div>
 <div class="avatar"><img src="/images/raghava-passport.png" alt='Raghava Mukkamala'/> </div>
