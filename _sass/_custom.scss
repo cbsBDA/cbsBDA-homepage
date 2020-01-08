@@ -40,6 +40,9 @@ img {
     display: table;
     content: " ";
 }
+.row:after {
+    clear:both;
+}
 .mb-15{
   margin-bottom: 15px;
 }
