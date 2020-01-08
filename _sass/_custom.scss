@@ -39,7 +39,13 @@ img {
 // Nave style
 .masthead__menu-item:hover{
   background: #4967aa;
-  border-radius: 4pxl;
+  border-radius: 4px;
+  color:#ffffff;
+}
+.masthead__menu-item:hover a{
+  color:#ffffff;
+}
+.masthead__menu-item a:hover {
   color:#ffffff;
 }
 .greedy-nav .visible-links a:hover:before{
