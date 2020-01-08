@@ -11,20 +11,56 @@ author_profile: true
 # Team
 {: .title }
 <div class="row">
-<div class="col-xs-6 col-sm-3 col-md-3">
-<div class="wow bounceInUp animated animated">
-
-
-<div class="team boxed-grey text-center">
-
-<div class="inner">
-<div class="avatar">
-<img src="/images/teams/raghava1.jpg" alt='Raghava Mukkamala' class="img-responsive img-circle table-bordered himg" />
-</div>
-<h5><a class="t-name" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Dr. Raghava Rao Mukkamala</a></h5>
-<p class="subtitle">Associate Professor</p>
-</div>
-</div>
-</div>
-</div>
+  <div class="col-xs-6 col-sm-3 col-md-3">
+    <div class="wow bounceInUp animated animated">
+      <div class="team boxed-grey text-center">
+        <div class="inner">
+          <div class="avatar">
+          <img src="/images/teams/raghava1.jpg" alt='img-responsive img-circle table-bordered himg' class="img-responsive img-circle table-bordered himg" />
+          </div>
+          <h5><a class="t-name" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Prof. Ravi Vatrapu</a></h5>
+          <p class="subtitle">Director</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-3 col-md-3">
+    <div class="wow bounceInUp animated animated">
+      <div class="team boxed-grey text-center">
+        <div class="inner">
+          <div class="avatar">
+          <img src="/images/teams/raghava1.jpg" alt='Raghava Mukkamala' class="img-responsive img-circle table-bordered himg" />
+          </div>
+          <h5><a class="t-name" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Dr. Raghava Rao Mukkamala</a></h5>
+          <p class="subtitle">Associate Professor</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-3 col-md-3">
+    <div class="wow bounceInUp animated animated">
+      <div class="team boxed-grey text-center">
+        <div class="inner">
+          <div class="avatar">
+          <img src="/images/teams/raghava1.jpg" alt='Raghava Mukkamala' class="img-responsive img-circle table-bordered himg" />
+          </div>
+          <h5><a class="t-name" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Dr. Raghava Rao Mukkamala</a></h5>
+          <p class="subtitle">Associate Professor</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-3 col-md-3">
+    <div class="wow bounceInUp animated animated">
+      <div class="team boxed-grey text-center">
+        <div class="inner">
+          <div class="avatar">
+          <img src="/images/teams/raghava1.jpg" alt='Raghava Mukkamala' class="img-responsive img-circle table-bordered himg" />
+          </div>
+          <h5><a class="t-name" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Dr. Raghava Rao Mukkamala</a></h5>
+          <p class="subtitle">Associate Professor</p>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
