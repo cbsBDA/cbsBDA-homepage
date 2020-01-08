@@ -33,8 +33,12 @@ a:hover, a:focus {
 img {
     vertical-align: middle;
 }
+.row{
+  display: flex;
+}
 .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
     float: left;
+    display: flex;
 }
 .row:before, .row:after {
     display: table;
@@ -79,7 +83,7 @@ img {
 .boxed-grey{
   background: #f9f9f9;
   padding: 20px;
-  min-height: 275px;
+  height: 100%;
 }
 .avatar{
   margin-bottom: 20px;
