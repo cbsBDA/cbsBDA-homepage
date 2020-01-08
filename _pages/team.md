@@ -21,7 +21,7 @@ author_profile: true
 <div class="avatar">
 <img src="/images/teams/raghava1.jpg" alt='Raghava Mukkamala' class="img-responsive img-circle table-bordered himg" />
 </div>
-<h4><a class="t-name" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Dr. Raghava Rao Mukkamala</a></h4>
+<h5><a class="t-name" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Dr. Raghava Rao Mukkamala</a></h5>
 <p class="subtitle">Associate Professor</p>
 </div>
 </div>
