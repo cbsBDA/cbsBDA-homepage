@@ -19,7 +19,7 @@ author_profile: true
 
 <div class="inner">
 <div class="avatar">
-<img src="/images/teams/raghava1.jpg" alt='Raghava Mukkamala'/>
+<img src="/images/teams/raghava1.jpg" alt='Raghava Mukkamala' class="img-responsive img-circle table-bordered himg" />
 </div>
 <h4><a href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Dr. Raghava Rao Mukkamala</a></h4>
 <p class="subtitle">Associate Professor</p>
