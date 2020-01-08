@@ -64,6 +64,7 @@ author_profile: true
     </div>
   </div>
 </div>
+
 <div class="row">
   <div class="col-xs-6 col-sm-3 col-md-3">
     <div class="wow bounceInUp animated animated">
