@@ -10,7 +10,7 @@ author_profile: true
 
 # Team
 {: .title }
-<div class="row">
+<div class="row mb-15">
   <div class="col-xs-6 col-sm-3 col-md-3">
     <div class="wow bounceInUp animated animated">
       <div class="team boxed-grey text-center">
@@ -65,8 +65,7 @@ author_profile: true
   </div>
 </div>
 
-<br/>
-<div class="row">
+<div class="row mb-15">
   <div class="col-xs-6 col-sm-3 col-md-3">
     <div class="wow bounceInUp animated animated">
       <div class="team boxed-grey text-center">
