@@ -18,7 +18,7 @@ author_profile: true
           <div class="avatar">
           <img src="/images/teams/bm0108_nr3_ravi_vatrapu_5405.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
           </div>
-          <h5><a class="t-name" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Prof. Ravi Vatrapu</a></h5>
+          <h5><a class="t-name" target="blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Prof. Ravi Vatrapu</a></h5>
           <p class="subtitle">Director</p>
         </div>
       </div>
