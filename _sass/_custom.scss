@@ -19,6 +19,20 @@ a:hover, a:focus {
 .text-center {
     text-align: center;
 }
+.table-bordered {
+    border: 1px solid #ddd;
+}
+.img-circle {
+    border-radius: 50%;
+}
+.img-responsive {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+img {
+    vertical-align: middle;
+}
 // Nave style
 .masthead__menu-item:hover{
   background: #4967aa;
@@ -34,11 +48,6 @@ a:hover, a:focus {
   margin-bottom: 50px;
   text-transform: uppercase;
   color: #668bdd;
-}
-.avatar img{
-  border-radius: 50%;
-  border: 1px solid #929292;
-  width:100%;
 }
 .team h5 {
     margin-bottom: 10px;
