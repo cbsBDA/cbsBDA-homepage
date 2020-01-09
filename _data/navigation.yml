@@ -7,10 +7,10 @@ main:
   - title: "ABOUT"
     url: About/
 
-  - title: "Team"
+  - title: "TEAM"
     url: team/
 
-  - title: "Publications"
+  - title: "PUBLICATIONS"
     url: publications/
 
   - title: "AWARDS"
