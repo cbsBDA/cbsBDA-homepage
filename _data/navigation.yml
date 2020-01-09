@@ -1,20 +1,35 @@
 # main links links
 main:
 
+  - title: "HOME"
+    url: home/
+
+  - title: "ABOUT"
+    url: About/
+
   - title: "Team"
     url: team/
 
   - title: "Publications"
     url: publications/
 
-  - title: "Teaching"
+  - title: "AWARDS"
+    url: Awards/
+
+  - title: "SOFTWARE"
+    url: Software/
+
+  - title: "RESEARCH THEMES"
+    url: Researchthemes/
+
+  - title: "TEACHING"
     url: teaching/
 
-  - title: "Research Projects"
-    url: supervision/
+  - title: "RESEARCH PROJECTS"
+    url: ResearchProjects/
 
-  - title: "CV"
-    url: cv/
+  - title: "INFRASTRUCTURE"
+    url: Infrastructure/
 
-  - title: "Contact Us"
+  - title: "CONTACT US"
     url: contactus/
