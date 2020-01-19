@@ -5,7 +5,7 @@ main:
     url: home/
 
   - title: "ABOUT"
-    url: About/
+    url: about/
 
   - title: "TEAM"
     url: team/
@@ -14,19 +14,19 @@ main:
     url: publications/
 
   - title: "AWARDS"
-    url: Awards/
+    url: awards/
 
   - title: "SOFTWARE"
-    url: Software/
+    url: software/
 
   - title: "RESEARCH THEMES"
-    url: Researchthemes/
+    url: researchthemes/
 
   - title: "TEACHING"
     url: teaching/
 
   - title: "RESEARCH PROJECTS"
-    url: ResearchProjects/
+    url: researchProjects/
 
   - title: "INFRASTRUCTURE"
     url: Infrastructure/
