@@ -1,11 +1,11 @@
 # main links links
 main:
 
-  - title: "HOME"
+  - title: "Home1"
     url: home/
 
   - title: "ABOUT"
-    url: about/
+    url: About/
 
   - title: "TEAM"
     url: team/
@@ -14,19 +14,19 @@ main:
     url: publications/
 
   - title: "AWARDS"
-    url: awards/
+    url: Awards/
 
   - title: "SOFTWARE"
-    url: software/
+    url: Software/
 
   - title: "RESEARCH THEMES"
-    url: researchthemes/
+    url: Researchthemes/
 
   - title: "TEACHING"
     url: teaching/
 
   - title: "RESEARCH PROJECTS"
-    url: researchProjects/
+    url: ResearchProjects/
 
   - title: "INFRASTRUCTURE"
     url: Infrastructure/
