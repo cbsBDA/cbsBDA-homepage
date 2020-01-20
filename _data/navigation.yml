@@ -14,7 +14,7 @@ main:
     url: awards/
 
   - title: "SOFTWARE"
-    url: Software/
+    url: software/
 
   - title: "PROJECTS"
     url: Projects/
