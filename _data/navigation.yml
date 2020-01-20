@@ -3,7 +3,7 @@ main:
 
   - title: "ABOUT"
     url: about/
-    
+
   - title: "TEAM"
     url: team/
 
@@ -11,7 +11,7 @@ main:
     url: publications/
 
   - title: "AWARDS"
-    url: Awards/
+    url: awards/
 
   - title: "SOFTWARE"
     url: Software/
