@@ -1,11 +1,18 @@
----
+<!-- ---
 permalink: /
 title: "Center Profile"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
-  - /about.html
+  - /about.html -->
+
+  layout: archive
+  permalink: /about/
+  author_profile: true
+  ---
+
+  {% include base_path %}
 ---
 
 
