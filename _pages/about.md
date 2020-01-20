@@ -6,12 +6,23 @@ author_profile: true
 
 
 {% include base_path %}
-# ABOUT cbsBDA
-{: .title }
 
 
 <!-- Section: about -->
 <section id="about" class="home-section text-center">
+  <div class="heading-about">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          <div class="wow bounceInDown" data-wow-delay="0.4s">
+            <div class="section-heading">
+              <h2>ABOUT cbsBDA</h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="container">
     <div class="row">
       <div class="col-lg-2 col-lg-offset-5"> <br>
