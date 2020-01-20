@@ -17,13 +17,13 @@ main:
     url: software/
 
   - title: "PROJECTS"
-    url: Projects/
+    url: projects/
 
   - title: "TEACHING"
     url: teaching/
 
   - title: "INFRASTRUCTURE"
-    url: Infrastructure/
+    url: infrastructure/
 
   - title: "CONTACT US"
     url: contactus/
