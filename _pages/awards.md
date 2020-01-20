@@ -13,10 +13,10 @@ author_profile: true
   <div class="heading-about">
     <div class="container">
       <div class="row">
-        <div class="col-lg-8 col-lg-offset-2">
+        <div class="col-lg-8 col-lg-offset-2 m-auto">
           <div class="wow bounceInDown" data-wow-delay="0.4s">
             <div class="section-heading">
-              <h2>AWARDS AND HONOURS</h2>
+              <h2 class="mb-0">AWARDS AND HONOURS</h2>
             </div>
           </div>
         </div>
