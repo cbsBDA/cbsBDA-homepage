@@ -2,7 +2,7 @@
 main:
 
   - title: "ABOUT"
-    url: About/
+    url: about/
 
   - title: "TEAM"
     url: team/
