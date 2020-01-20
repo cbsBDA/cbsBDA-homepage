@@ -1,9 +1,6 @@
 # main links links
 main:
 
-  - title: "Home1"
-    url: home/
-
   - title: "ABOUT"
     url: About/
 
@@ -19,14 +16,11 @@ main:
   - title: "SOFTWARE"
     url: Software/
 
-  - title: "RESEARCH THEMES"
-    url: Researchthemes/
+  - title: "PROJECTS"
+    url: Projects/
 
   - title: "TEACHING"
     url: teaching/
-
-  - title: "RESEARCH PROJECTS"
-    url: ResearchProjects/
 
   - title: "INFRASTRUCTURE"
     url: Infrastructure/
