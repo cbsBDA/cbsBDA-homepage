@@ -6,7 +6,8 @@ author_profile: true
 
 
 {% include base_path %}
-
+#ABOUT cbsBDA
+{: .title }
 Center for Business Data Analytics(cbsBDA) at the Department of Digitalization of the Copenhagen Business School conducts transdisciplinary basic research at the socio-technical intersections of computer science and social science with specific applications to managers in companies, teachers in schools and residents in cities.
 
 cbsBDA's basic research program is aimed at modelling and explaining socio-technical interactions using set theory. Our applied research program seeks to design, develop and evaluate big data analytics applications for managers (descriptive, predictive, and prescriptive analytics), teachers (teaching analytics and learning analytics), and citizens (public health analytics).
