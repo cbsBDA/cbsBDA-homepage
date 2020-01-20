@@ -4,6 +4,9 @@ main:
   - title: "ABOUT"
     url: about/
 
+  - title: "ABOUTS"
+    url: abouts/
+    
   - title: "TEAM"
     url: team/
 
