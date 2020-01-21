@@ -148,6 +148,12 @@ a, .tp-caption a.btn:hover {
 /*************************
 ********* Software CSS ******
 **************************/
+.portfolio-item {
+    margin: 0;
+    padding: 0;
+    border-right: 1px solid #f1f1f1;
+    border-bottom: 1px solid #f1f1f1;
+}
 .recent-work-wrap .overlay {
   position: absolute;
   top: 0;
