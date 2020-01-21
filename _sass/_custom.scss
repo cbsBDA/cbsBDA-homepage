@@ -160,6 +160,9 @@ a, .tp-caption a.btn:hover {
 .recent-work-wrap img {
     width: 100%;
 }
+.recent-work-wrap {
+    position: relative;
+}
 .recent-work-wrap .overlay {
     position: absolute;
     top: 0;
