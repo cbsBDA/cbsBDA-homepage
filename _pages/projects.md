@@ -28,11 +28,11 @@ author_profile: true
       </div>
     </div>
     <div class="row">
-      <div class="col-xs-12 col-sm-12 col-md-12">
+      <div class="col-xs-12 col-sm-12 col-md-12 m-auto">
         <div class="wow bounceInUp" data-wow-delay="0.2s">
           <div class="team">
             <div class="inner">
-              <ul class="lists">
+              <ul class="lists ml-0 pl-0">
                 <li>Social Media & Society, Carlsberg Foundation, (PI, 2018, 65,000 DKK)</li>
 				<li>Online Review Analytics: <a href="https://www.jabra.dk/" target="blank">Jabra</a> (PI, 2017-2018, 100,000 DKK)</li>
                 <li>Big Social Data Analytics for Public Health: <a href="http://copenhagenhealthinnovation.dk/" target="blank">Copenhagen Health Innovation: ReVUS</a> (PI, 2016-2018,  3,042,000 DKK)</li>
