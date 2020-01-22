@@ -9,21 +9,21 @@ author_profile: true
 
 
 <!-- Section: contact -->
-<section id="contact" class="home-section text-center parallax-window4">
+<section id="contact" class="home-section parallax-window4">
   <div class="heading-contact">
-    <div class="container">
+    <div class="container w-100 p-0 m-0">
       <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 m-auto">
+        <div class="col-lg-8 col-lg-offset-2 m-0">
           <div class="wow bounceInDown" data-wow-delay="0.4s">
             <div class="section-heading">
-              <h2 class="mb-0">CONTACT US</h2>
+              <h2 class="text-left">CONTACT US</h2>
             </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <div class="container">
+  <div class="container p-0 m-0">
     <div class="row">
       <div class="col-lg-2 col-lg-offset-5"> <br>
       </div>
