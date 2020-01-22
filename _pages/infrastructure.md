@@ -14,7 +14,7 @@ author_profile: true
         <div class="col-lg-8 col-lg-offset-2 m-0">
           <div class="wow bounceInDown" data-wow-delay="0.4s">
             <div class="section-heading">
-              <h2 class="text-left">INFRASTRUCTURE AND INSTRUMENTATION</h2>
+              <h2 class="text-left m-0">INFRASTRUCTURE AND INSTRUMENTATION</h2>
             </div>
           </div>
         </div>
@@ -26,8 +26,6 @@ author_profile: true
       <div class="col-lg-2 col-lg-offset-5"> <br>
       </div>
     </div>
-    <br>
-    <br>
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-12">
         <p>Physical infrastructure of cbsBDA is in the form of one large room that houses on-premises servers and the eye-tracking equipment. Meeting rooms and open spaces for research purposes are available from the Department of Digitalization and the central building facilities of CBS. </p>
