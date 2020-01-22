@@ -8,27 +8,27 @@ author_profile: true
 
 
 <!-- Section: about -->
-<section id="search" class="home-section text-center parallax-window bg2" data-parallax="scroll">
+<section id="search" class="home-section parallax-window bg2" data-parallax="scroll">
   <div class="heading-about">
-    <div class="container">
+    <div class="container w-100 p-0 m-0">
       <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 m-auto">
+        <div class="col-lg-8 col-lg-offset-2 m-0">
           <div class="wow bounceInDown" data-wow-delay="0.4s">
             <div class="section-heading">
-              <h2 class="mb-0">EXTERNALLY FUNDED RESEARCH PROJECTS</h2>
+              <h2 class="text-left">EXTERNALLY FUNDED RESEARCH PROJECTS</h2>
             </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <div class="container">
+  <div class="container p-0 m-0">
     <div class="row">
       <div class="col-lg-2 col-lg-offset-5"> <br>
       </div>
     </div>
     <div class="row">
-      <div class="col-xs-12 col-sm-12 col-md-12 m-auto">
+      <div class="col-xs-12 col-sm-12 col-md-12 m-0">
         <div class="wow bounceInUp" data-wow-delay="0.2s">
           <div class="team">
             <div class="inner">
