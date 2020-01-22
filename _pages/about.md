@@ -23,7 +23,7 @@ author_profile: true
       </div>
     </div>
   </div>
-  <div class="container">
+  <div class="container w-100 p-0 m-0">
     <div class="row">
       <div class="col-lg-2 col-lg-offset-5"> <br>
       </div>
