@@ -11,12 +11,12 @@ author_profile: true
 <!-- Section: about -->
 <section id="about" class="home-section text-center">
   <div class="heading-about">
-    <div class="container">
+    <div class="container w-100 p-0 m-0">
       <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 m-auto">
-          <div class="wow bounceInDown" data-wow-delay="0.4s">
+        <div class="col-lg-8 col-lg-offset-2">
+          <div class="wow bounceInDown m-0" data-wow-delay="0.4s">
             <div class="section-heading">
-              <h2 class="mb-0">ABOUT cbsBDA</h2>
+              <h2 class="text-left">ABOUT cbsBDA</h2>
             </div>
           </div>
         </div>
