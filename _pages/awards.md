@@ -33,7 +33,7 @@ author_profile: true
         <div class="wow bounceInUp" data-wow-delay="0.2s">
           <div class="team">
             <div class="inner">
-              <ul class="lists">                
+              <ul class="lists p-0">                
 			          <li>Best Paper Award & Best Student Paper Award <a href="http://hicss.hawaii.edu/" target="blank">HICSS 2018</a>, Hawaii, USA</li>
 		            <li>Best Paper Nomination, <a href="http://ldic-conference.org/" target="blank">LDIC 2016</a>, Bremen, Germany</li>
                 <li>Best Paper Award, <a href="http://cabs.acm.org/2014/" target="blank">ACM CABS 2014</a>, Kyoto, Japan</li>
