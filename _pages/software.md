@@ -40,7 +40,7 @@ author_profile: true
       <div class="row">
        <div class="portfolio-itemsa">
           <div class="portfolio-item wordpress html apps col-xs-12 col-sm-4 col-md-4">
-            <div class="recent-work-wrap"> <img class="img-responsive" src="img/portfolio/recent/item6.png" alt="">
+            <div class="recent-work-wrap"> <img class="img-responsive" src="img/portfolio/item6.png" alt="">
               <div class="overlay">
                 <div class="recent-work-inner">
                   <h3><a href="#">Social Data Analytics Tool</a></h3>
@@ -54,7 +54,7 @@ author_profile: true
 
 
           <div class="portfolio-item apps col-xs-12 col-sm-4 col-md-4">
-            <div class="recent-work-wrap"> <img class="img-responsive" src="img/portfolio/recent/item1.png" alt="">
+            <div class="recent-work-wrap"> <img class="img-responsive" src="img/portfolio/item1.png" alt="">
               <div class="overlay">
                 <div class="recent-work-inner">
                   <h3><a href="#">Social Set Visualiser</a></h3>
@@ -67,7 +67,7 @@ author_profile: true
 
 
           <div class="portfolio-item wordpress html col-xs-12 col-sm-4 col-md-4">
-            <div class="recent-work-wrap"> <img class="img-responsive" src="img/portfolio/recent/item7.png" alt="">
+            <div class="recent-work-wrap"> <img class="img-responsive" src="img/portfolio/item7.png" alt="">
               <div class="overlay">
                 <div class="recent-work-inner">
                   <h3><a href="#">Multi-Dimensional Text Analytics Tool (MUTATO)</a></h3>
@@ -80,7 +80,7 @@ author_profile: true
 
 
           <div class="portfolio-item bootstrap wordpress col-xs-12 col-sm-4 col-md-4">
-            <div class="recent-work-wrap"> <img class="img-responsive" src="img/portfolio/recent/item3.png" alt="">
+            <div class="recent-work-wrap"> <img class="img-responsive" src="img/portfolio/item3.png" alt="">
               <div class="overlay">
                 <div class="recent-work-inner">
                   <h3><a href="#">Repertory Grids for Formative Assessment</a></h3>
@@ -92,7 +92,7 @@ author_profile: true
           <!--/.portfolio-item-->
 
             <div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-4">
-            <div class="recent-work-wrap"> <img class="img-responsive" src="img/portfolio/recent/item2.png" alt="">
+            <div class="recent-work-wrap"> <img class="img-responsive" src="img/portfolio/item2.png" alt="">
               <div class="overlay">
                 <div class="recent-work-inner">
                   <h3><a href="#">Communication and Negotiation Tool</a></h3>
@@ -107,7 +107,7 @@ author_profile: true
           <!--/.portfolio-item-->
 
           <div class="portfolio-item joomla html bootstrap col-xs-12 col-sm-4 col-md-4">
-            <div class="recent-work-wrap"> <img class="img-responsive" src="img/portfolio/recent/item5.png" alt="">
+            <div class="recent-work-wrap"> <img class="img-responsive" src="img/portfolio/item5.png" alt="">
               <div class="overlay">
                 <div class="recent-work-inner">
                   <h3><a href="#">iKlassroom</a></h3>
