@@ -328,3 +328,24 @@ a, .tp-caption a.btn:hover {
 .recent-work-wrap:hover .overlay {
   opacity: 1;
 }
+.accordion h3.accHeader {
+    background-color: #4867aa !important;
+    cursor: pointer;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 30px;
+    padding: 3px 10px;
+    position: relative;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    border-radius: 4px;
+}
+
+.accHeader {
+    margin-bottom: 0px !important;
+    margin-top: 30px !important;
+}
+.accordion .accDetail {
+    padding: 5px 15px;
+    margin-bottom: 5px;
+}
