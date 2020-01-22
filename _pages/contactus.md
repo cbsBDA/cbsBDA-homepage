@@ -48,7 +48,7 @@ author_profile: true
           </address>
           <address>
           <strong>We're on social networks</strong><br>
-          <ul class="company-social">
+          <ul class="company-social p-0">
             <li class="social-facebook"><a href="https://www.facebook.com/CBSBDA/?fref=ts" target="blank"><i class="fa fa-facebook"></i></a></li>
             <li class="social-twitter"><a href="https://twitter.com/search?q=socialsetanalysis&amp;src=typd" target="blank"><i class="fa fa-twitter"></i></a></li>
           </ul>
