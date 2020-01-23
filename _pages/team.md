@@ -180,7 +180,7 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
-                        <img src="/images/teams/bm0108_nr3_ravi_vatrapu_5405.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/chriszimmerman.jpg" alt='chriszimmerman' class="img-responsive img-circle table-bordered himg" />
                     </div>
                     <h5><a class="t-name" target="blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rvitm">Chris Zimmerman</a></h5>
                     <p class="subtitle">Industrial PhD Student<br />(Mindjumpers)</p>
@@ -193,7 +193,7 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
-                        <img src="/images/teams/raghava1.jpg" alt='Raghava Mukkamala' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/Mikkel.jpg" alt='Mikkel Harlev' class="img-responsive img-circle table-bordered himg" />
                     </div>
                     <h5><a class="t-name" target="blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Mikkel Harlev</a></h5>
                     <p class="subtitle">Research Assistant</p>
@@ -206,7 +206,7 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
-                        <img src="/images/teams/abid_hussain_cropped_322.jpg" alt='Dr. Abid Hussain' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/.jpg" alt='Dr. Abid Hussain' class="img-responsive img-circle table-bordered himg" />
                     </div>
                     <h5><a class="t-name" target="blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/ahitm"></a></h5>
                     <p class="subtitle"></p>
@@ -219,7 +219,7 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
-                        <img src="/images/teams/katrine_kunst_0.jpg" alt='Katrine Kunst' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/Rene_Madsen3.png" alt='Rene_Madsen3' class="img-responsive img-circle table-bordered himg" />
                     </div>
                     <h5><a class="t-name" target="blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/kalkitm">Rene Madsen</a></h5>
                     <p class="subtitle">Research Assistant</p>
