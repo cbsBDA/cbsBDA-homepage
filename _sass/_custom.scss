@@ -81,6 +81,9 @@ img {
 .word-break{
   word-break: break-all;
 }
+.row {
+  display: flex;
+}
 // Nave style
 .masthead__menu ul.visible-links{
   margin: auto;
