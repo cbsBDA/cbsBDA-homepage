@@ -31,10 +31,10 @@ author_profile: true
       <div class="col-xs-12 col-sm-12 col-md-12">
         <div class="wow bounceInUp" data-wow-delay="0.2s">
           <div class="team">
+          <h3 class="accHeader active" headerindex="0h"><span class="accordprefix">
             <div class="inner">
               <p>Please see <a href="http://research.cbs.dk/en/persons/ravi-vatrapu(93ba7069-df22-46b2-bf4f-5eb53175ef75)/publications.html?pageSize=500&amp;page=0" target="blank">CBS Research</a> for the complete list of publications from the <a href="http://cssl.cbs.dk/" target="blank">Center for Business Data Analytics(cbsBDA)</a>.</p>
               <div class="accordion">
-                <h3 class="accHeader active" headerindex="0h"><span class="accordprefix">
 <i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
 </span><i class="fa fa-book"></i> Books</h3>
                 <div class="accDetail" style="display:block !important;" contentindex="0c">
