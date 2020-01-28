@@ -23,10 +23,6 @@ author_profile: true
   </div>
   <div class="container p-0 m-0">
     <div class="row">
-      <div class="col-lg-2 col-lg-offset-5"> <br>
-      </div>
-    </div>
-    <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-12">
         <p>Physical infrastructure of cbsBDA is in the form of one large room that houses on-premises servers and the eye-tracking equipment. Meeting rooms and open spaces for research purposes are available from the Department of Digitalization and the central building facilities of CBS. </p>
         <p>cbsBDA's IT infrastructure comprises of an on-premises High-Performance Computing (HPC) cluster consisting of  256 CPU cores, 1792 GB RAM, and 332  TB  storage on the 1Gbps Danish Research Network with an additional Microsoft Azure HPC cloud solution. Further, there are several standalone virtual servers provisioned by CBS IT, and custom AWS cloud solutions for ongoing research and student projects. </p>
