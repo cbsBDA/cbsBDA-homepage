@@ -31,7 +31,7 @@ author_profile: true
             <div class="inner">
               <p>Please see <a href="http://research.cbs.dk/en/persons/ravi-vatrapu(93ba7069-df22-46b2-bf4f-5eb53175ef75)/publications.html?pageSize=500&amp;page=0" target="blank">CBS Research</a> for the complete list of publications from the <a href="http://cssl.cbs.dk/" target="blank">Center for Business Data Analytics(cbsBDA)</a>.</p>
               <div class="accordion">
-<i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
+<h3 class="accHeader"><i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
 </span><i class="fa fa-book"></i> Books</h3>
                 <div class="accDetail" style="display:block !important;" contentindex="0c">
                   <p>Vatrapu, R., Mukkamala, R., Hussain, A., Flesch, B., & Lasrado, L. (in press/2019). Social Set Analysis.<a href="http://link.springer.com/bookseries/11784" target="blank">Springer Series on Computational Social Sciences, New York</a>. </p>
