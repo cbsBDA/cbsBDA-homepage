@@ -275,7 +275,7 @@ author_profile: true
         <div class="col-lg-8 col-lg-offset-2 m-0">
           <div class="wow bounceInDown m-0" data-wow-delay="0.4s">
             <div class="section-heading">
-              <h2 class="text-left">cbsBDA Aluminia</h2>
+              <h2 class="text-left mt-15">cbsBDA Aluminia</h2>
             </div>
           </div>
         </div>
