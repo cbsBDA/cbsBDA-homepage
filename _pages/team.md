@@ -8,7 +8,7 @@ author_profile: true
 
 
 
-<section id="software" class="home-section parallax-window1">
+<section id="team" class="home-section parallax-window1">
   <div class="heading-about">
   <div class="container  w-100 p-0 m-0">
     <div class="row">
