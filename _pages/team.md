@@ -138,7 +138,7 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
-                        <img src="/images/teams/niels.jpg" alt='Niels Buus Lassen' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/niels.jpeg" alt='Niels Buus Lassen' class="img-responsive img-circle table-bordered himg" />
                     </div>
                     <h5><a class="t-name" target="blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Niels Buus Lassen</a></h5>
                     <p class="subtitle">PhD Student</p>
@@ -317,7 +317,7 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
-                        <img src="/images/teams/paul.jpg" alt='Paul Mihai Stolniceanu' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/Paul.jpg" alt='Paul Mihai Stolniceanu' class="img-responsive img-circle table-bordered himg" />
                     </div>
                     <h5><a class="t-name" target="blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/ahitm">Paul Mihai Stolniceanu</a></h5>
                     <p class="subtitle">Research Assistant</p>
