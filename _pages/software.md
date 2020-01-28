@@ -22,8 +22,8 @@ author_profile: true
       </div>
     </div>
   </div>
-  <div class="container w-100 m-0">
-     <div class="col-lg-10 col-lg-offset-1 m-0">
+  <div class="container w-100 m-0 p-0">
+     <div class="col-lg-10 col-lg-offset-1 p-0 w-100">
     <div id="portfolio">
       <!-- <ul class="portfolio-filter text-center">
         <li><a class="btn btn-default active" href="#" data-filter="*">All Works</a></li>
