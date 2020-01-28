@@ -204,13 +204,13 @@ author_profile: true
     <div class="col-xs-6 col-sm-3 col-md-3">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
-                <div class="inner">
-                    <div class="avatar">
-                        <img src="/images/teams/.jpg" alt='Dr. Abid Hussain' class="img-responsive img-circle table-bordered himg" />
-                    </div>
-                    <h5><a class="t-name" target="blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/ahitm"></a></h5>
-                    <p class="subtitle"></p>
-                </div>
+              <div class="inner">
+                  <div class="avatar">
+                      <img src="/images/teams/bm0108_nr3_ravi_vatrapu_5405.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
+                  </div>
+                  <h5><a class="t-name" target="blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rvitm">Prof. Ravi Vatrapu</a></h5>
+                  <p class="subtitle">Founder Director</p>
+              </div>
             </div>
         </div>
     </div>
