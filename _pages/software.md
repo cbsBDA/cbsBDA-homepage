@@ -23,10 +23,6 @@ author_profile: true
     </div>
   </div>
   <div class="container">
-    <div class="row">
-      <div class="col-lg-2 col-lg-offset-5"> <br>
-      </div>
-    </div>
      <div class="col-lg-10 col-lg-offset-1">
     <div id="portfolio">
       <!-- <ul class="portfolio-filter text-center">
