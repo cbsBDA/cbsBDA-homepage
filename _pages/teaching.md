@@ -40,7 +40,7 @@ author_profile: true
         <div class="wow bounceInRight" data-wow-delay="0.2s">
           <div class="team">
             <div class="inner">
-              <ul class="lists">
+              <ul class="lists pl-0 pr-50">
                 <li><a href="http://kursuskatalog.cbs.dk/2017-2018/BA-BINTV1050U.aspx" target="blank"> Social Media Management</a></li>  
                 <li><a href="http://kursuskatalog.cbs.dk/2017-2018/KAN-CCMVV2556U.aspx" target="blank">Big Data Analytics</a></li>                             
               </ul>
@@ -52,7 +52,7 @@ author_profile: true
         <div class="wow bounceInRight" data-wow-delay="0.2s">
           <div class="team">
             <div class="inner">
-              <ul class="lists">
+              <ul class="lists pl-0 pr-50">
                 <li><a href="http://kursuskatalog.cbs.dk/2017-2018/KAN-CEBUV2031U.aspx" target="blank">Big Social Data Analytics</a></li>
 				<li><a href="http://kursuskatalog.cbs.dk/2017-2018/BA-BINTV1051U.aspx" target="blank">Big Data Analytics for Managers</a></li>                         
               </ul>
