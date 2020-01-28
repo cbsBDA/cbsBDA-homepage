@@ -24,10 +24,6 @@ author_profile: true
   </div>
   <div class="container">
     <div class="row">
-      <div class="col-lg-2 col-lg-offset-5"> <br>
-      </div>
-    </div>
-    <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-12">
         <div class="wow bounceInUp" data-wow-delay="0.2s">
           <div class="team">
