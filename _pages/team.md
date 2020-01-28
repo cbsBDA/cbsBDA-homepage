@@ -8,8 +8,20 @@ author_profile: true
 
 
 
-# Team
-{: .title }
+<section id="software" class="home-section parallax-window1">
+  <div class="heading-about">
+  <div class="container  w-100 p-0 m-0">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 m-0">
+        <div class="wow bounceInDown m-0" data-wow-delay="0.4s">
+            <div class="section-heading">
+              <h2 class="mb-0">Team</h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 <div class="row mb-15">
     <div class="col-xs-6 col-sm-3 col-md-3">
         <div class="wow bounceInUp animated animated">
@@ -257,9 +269,19 @@ author_profile: true
         </div>
     </div>
   </div>
-
-# cbsBDA Aluminia staff
-{: .title }
+  <div class="heading-about">
+    <div class="container  w-100 p-0 m-0">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 m-0">
+          <div class="wow bounceInDown m-0" data-wow-delay="0.4s">
+            <div class="section-heading">
+              <h2 class="mb-0">cbsBDA Aluminia</h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <div class="row mb-15">
     <div class="col-xs-6 col-sm-3 col-md-3">
@@ -372,3 +394,4 @@ author_profile: true
         </div>
     </div>
 </div>
+</section>
