@@ -28,7 +28,7 @@ author_profile: true
         <div class="wow bounceInLeft" data-wow-delay="0.2s">
           <div class="team">
             <div class="inner">
-              <ul class="lists p-0 pr-50">
+              <ul class="lists pl-0 pr-50">
                 <li><a href="https://www.cbs.dk/en/study/graduate/msc-in-business-administration-and-information-systems/msc-in-business-administration-and-information-systems-data-science" target="blank"> New: MSc in Business Data Science</a></li>
                 <li><a href="http://studieordninger.cbs.dk/2015/minor/140" target="blank"> Data-in-Business Minor at CBS</a></li>                                            
               </ul>
