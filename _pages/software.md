@@ -10,12 +10,12 @@ author_profile: true
 <!-- Section: about -->
 <section id="software" class="home-section parallax-window1">
   <div class="heading-about">
-    <div class="container text-center">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 m-auto">
-          <div class="wow bounceInDown" data-wow-delay="0.4s">
-            <div class="section-heading">
-              <h2 class="mb-0">SOFTWARE</h2>
+  <div class="container w-100 p-0 m-0">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 m-0">
+        <div class="wow bounceInDown m-0" data-wow-delay="0.4s">
+          <div class="section-heading">
+              <h2 class="text-left">SOFTWARE</h2>
             </div>
           </div>
         </div>
