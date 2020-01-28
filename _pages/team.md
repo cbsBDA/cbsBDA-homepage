@@ -283,7 +283,7 @@ author_profile: true
     </div>
   </div>
 
-  <div class="row mb-20 mt-5">
+  <div class="row mb-15 mt-5">
     <div class="col-xs-6 col-sm-3 col-md-3">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
