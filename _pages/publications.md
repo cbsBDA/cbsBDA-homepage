@@ -32,8 +32,9 @@ author_profile: true
               <div class="accordion">
                 <h3 class="accHeader"><i class="fa fa-paperclip"></i> Journals+Conference Proceedings+Book Chapters</h3>
                 <div class="accDetail">
-                  <p><strong>61. [J]</strong>. Xiaochen Zheng; Shengjing Sun; Raghava Rao Mukkamala; Ravi Vatrapu; Joaquín Ordieres-Meré / <strong>Accelerating Health Data Sharing : A Solution Based on the Internet of Things and Distributed Ledger Technologies.</strong> In: Journal of Medical Internet Research, Vol. 21, No. 6, 2019. (<a href="https://raghavamukkamala.github.io/files/pubs/2019-JMIR-IOTA-Health-Data-Sharing.pdf" target="_blank" rel="noopener">PDF</a>)</p>
-                </div>
+                  <p><strong>61. [J]</strong>. Xiaochen Zheng; Shengjing Sun; Raghava Rao Mukkamala; Ravi Vatrapu; Joaquín Ordieres-Meré. <strong>Accelerating Health Data Sharing : A Solution Based on the Internet of Things and Distributed Ledger Technologies.</strong> In: Journal of Medical Internet Research, Vol. 21, No. 6, 2019. (<a href="https://raghavamukkamala.github.io/files/pubs/2019-JMIR-IOTA-Health-Data-Sharing.pdf" target="_blank" rel="noopener">PDF</a>)</p>
+                  
+                  <p><strong>58. [C]</strong>. Benedict Faber; Georg Michelet; Niklas Weidmann; Raghava Rao Mukkamala; Ravi Vatrapu / <strong>BPDIMS : A Blockchain-based Personal Data and Identity Management System.</strong> In: Proceedings of the 52nd Hawaii International Conference on System SciencesHonolulu : Hawaii International Conference on System Sciences (HICSS) 2019, p. 6855-6864 (Proceedings of the Annual Hawaii International Conference on System Sciences) (<a href="https://raghavamukkamala.github.io/files/pubs/2019_HICSS_Blockchian_Personal_data.pdf" target="_blank">PDF</a>)</p>
               </div>
             </div>
           </div>
