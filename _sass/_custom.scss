@@ -113,8 +113,9 @@ img {
 .masthead__menu-item.logo{
   max-width: 150px;
 }
-.masthead__menu ul.visible-links{
-      width: 98%;
+.masthead__menu ul.visible-links.lg{
+      width: 100%;
+      display: block;
 }
 .masthead__menu ul div:last-child{
   height: 50px;
