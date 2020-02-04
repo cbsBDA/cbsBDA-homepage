@@ -30,7 +30,7 @@ author_profile: true
                                 <h3 class="accHeader" headerindex="0h">
                                     <span class="accordprefix">
                                         <i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
-                                    </span> 2019<a class="pull-right icon-collapse" data-toggle="collapse" data-parent="#accordion" href="#publication2019">Collapsible Group 1</a>
+                                    </span> 2019<a class="pull-right icon-collapse" data-toggle="collapse" data-parent="#accordion" href="#publication2019"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></a>
                                 </h3>
                                 <div class="accDetail panel-collapse collapse" id="publication2019">
                                     <p>
