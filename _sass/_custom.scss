@@ -84,6 +84,15 @@ img {
   padding-left: 0px;
   padding-right: 0px;
 }
+.icon-collapse.collapsed .fa-minus {
+  display:none;
+}
+.icon-collapse:not(.collapsed) .fa-minus {
+  display:înline-block;
+}
+.icon-collapse:not(.collapsed) .fa-plus {
+  display:none;
+}
 .word-break{
   word-break: break-all;
 }
