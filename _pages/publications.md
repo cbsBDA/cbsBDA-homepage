@@ -30,7 +30,9 @@ author_profile: true
                                 <h3 class="accHeader" headerindex="0h">
                                     <span class="accordprefix">
                                         <i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
-                                    </span> 2019<a class="pull-right icon-collapse collapsed font-fff" data-toggle="collapse" data-parent="#accordion" href="#publication2019"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></a>
+                                    </span> <a class="icon-collapse collapsed font-fff" data-toggle="collapse" data-parent="#accordion" href="#publication2019"><i class="pull-right fa fa-plus"></i><i class="pull-right fa fa-minus"></i>
+                                    2019
+                                    </a>
                                 </h3>
                                 <div class="accDetail panel-collapse collapse" id="publication2019">
                                     <p>
@@ -113,7 +115,9 @@ author_profile: true
                                     <h3 class="accHeader" headerindex="0h">
                                         <span class="accordprefix">
                                             <i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
-                                        </span> 2018<a class="pull-right icon-collapse font-fff collapsed" data-toggle="collapse" data-parent="#accordion" href="#publication2018"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></a>
+                                        </span> <a class="icon-collapse font-fff collapsed" data-toggle="collapse" data-parent="#accordion" href="#publication2018"><i class="pull-right fa fa-plus"></i><i class="pull-right fa fa-minus"></i>
+                                        2018
+                                        </a>
                                     </h3>
                                     <div class="accDetail panel-collapse collapse" id="publication2018">
 
@@ -225,7 +229,9 @@ author_profile: true
                                     <h3 class="accHeader" headerindex="0h">
                                         <span class="accordprefix">
                                             <i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
-                                        </span> 2017<a class="pull-right icon-collapse font-fff collapsed" data-toggle="collapse" data-parent="#accordion" href="#publication2017"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></a>
+                                        </span> <a class="icon-collapse font-fff collapsed" data-toggle="collapse" data-parent="#accordion" href="#publication2017"><i class="pull-right fa fa-plus"></i><i class="pull-right fa fa-minus"></i>
+                                        2017
+                                        </a>
                                     </h3>
                                     <div class="accDetail panel-collapse collapse" id="publication2017">
 
