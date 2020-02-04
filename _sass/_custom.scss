@@ -117,6 +117,9 @@ img {
       width: 100%;
       display: block;
 }
+.greedy-nav .visible-link{
+  position: relative;
+}
 .greedy-nav .visible-link a:hover:before {
     -webkit-transform: scaleX(1);
     -ms-transform: scaleX(1);
@@ -126,7 +129,7 @@ img {
     content: "";
     position: absolute;
     left: 0;
-    bottom: 0;
+    bottom: 15px;
     height: 4px;
     background: #bdc1c4;
     width: 100%;
