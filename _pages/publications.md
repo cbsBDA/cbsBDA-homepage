@@ -29,9 +29,9 @@ author_profile: true
                                 <h3 class="accHeader active" headerindex="0h">
                                     <span class="accordprefix">
                                         <i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
-                                    </span> 2019
+                                    </span> <a data-toggle="collapse" data-parent="#accordion" href="#publication2019">2019</a>
                                 </h3>
-                                <div class="accDetail">
+                                <div class="accDetail" id="publication2019">
                                     <p>
                                         <strong>65. [J]</strong>. Zheng, Xiaochen ; Sun, Shengjing ; Mukkamala, Raghava Rao ; Vatrapu, Ravi ; Ordieres-Meré, Joaquín.
                                         <strong>Accelerating Health Data Sharing : A Solution Based on the Internet of Things and Distributed Ledger Technologies.</strong>
