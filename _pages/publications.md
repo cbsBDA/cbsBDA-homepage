@@ -25,25 +25,14 @@ author_profile: true
                     <div class="team">
 
                         <div class="inner">
-                        <div class="accordion">
-                          <div class="panel-heading">
-                            <h4 class="panel-title">
-                              <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Collapsible Group 1</a>
-                            </h4>
-                          </div>
-                          <div id="collapse1" class="panel-collapse collapse">
-                            <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
-                          </div>
-                        </div>
+                        
                             <div class="accordion">
                                 <h3 class="accHeader" headerindex="0h">
                                     <span class="accordprefix">
                                         <i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
-                                    </span> <a data-toggle="collapse" data-parent="#accordion" href="#publication2019">2019</a>
+                                    </span> 2019<a class="pull-right icon-collapse" data-toggle="collapse" data-parent="#accordion" href="#publication2019">Collapsible Group 1</a>
                                 </h3>
-                                <div class="accDetail" id="publication2019">
+                                <div class="accDetail panel-collapse collapse" id="publication2019">
                                     <p>
                                         <strong>65. [J]</strong>. Zheng, Xiaochen ; Sun, Shengjing ; Mukkamala, Raghava Rao ; Vatrapu, Ravi ; Ordieres-Meré, Joaquín.
                                         <strong>Accelerating Health Data Sharing : A Solution Based on the Internet of Things and Distributed Ledger Technologies.</strong>
@@ -120,7 +109,13 @@ author_profile: true
                                         In:  In: Electronic Markets. 2019 ; Vol. 29, No. 3. pp. 323-336.
                                         (<a href="https://raghavamukkamala.github.io/files/pubs/2019_HICSS_Blockchian_Personal_data.pdf" target="_blank">PDF</a>)
                                     </p>
-
+                                    </div>
+                                    <h3 class="accHeader" headerindex="0h">
+                                        <span class="accordprefix">
+                                            <i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
+                                        </span> 2019<a class="pull-right icon-collapse" data-toggle="collapse" data-parent="#accordion" href="#publication2018">Collapsible Group 1</a>
+                                    </h3>
+                                    <div class="accDetail panel-collapse collapse" id="publication2018">
                                     <h1 id="2019">2018</h1>
 
                                     <p>
