@@ -6,7 +6,6 @@ author_profile: true
 
 {% include base_path %}
 
-<div class="archive"><h1 class="page__title"></h1><h1 id="peer-reviewed-publications">Selected Publication</h1>
 <!-- Section: about -->
 <section id="publications" class="home-section  bg1">
     <div class="archive"><h1 class="page__title"></h1><h1 id="peer-reviewed-publications">Selected Publication</h1>
