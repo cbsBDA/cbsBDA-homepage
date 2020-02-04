@@ -23,7 +23,6 @@ author_profile: true
             </div>
         </div>
     </div>
-
     <div class="container w-100 p-0 m-0">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12">
@@ -32,9 +31,12 @@ author_profile: true
 
                         <div class="inner">
                             <div class="accordion">
-                                <h3 class="accHeader"><i class="fa fa-paperclip"></i> Journals+Conference Proceedings+Book Chapters</h3>
+                                <h3 class="accHeader active" headerindex="0h">
+                                    <span class="accordprefix">
+                                        <i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
+                                    </span> 2019
+                                </h3>
                                 <div class="accDetail">
-                                    <h1 id="2019">2019</h1>
                                     <p>
                                         <strong>65. [J]</strong>. Zheng, Xiaochen ; Sun, Shengjing ; Mukkamala, Raghava Rao ; Vatrapu, Ravi ; Ordieres-Meré, Joaquín.
                                         <strong>Accelerating Health Data Sharing : A Solution Based on the Internet of Things and Distributed Ledger Technologies.</strong>
