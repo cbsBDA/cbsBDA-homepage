@@ -6,6 +6,7 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links pull-right">
+          <li class="masthead__menu-item logo"><img src="/images/logo/logo.png" alt=""></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
