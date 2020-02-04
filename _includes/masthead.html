@@ -7,11 +7,11 @@
         <button><div class="navicon"></div></button>
 
         <ul class="visible-link lg">
-          <div class="pull-left">
+          <div class="pull-left flex">
             <li class="masthead__menu-item logo"><a href="{{ domain }}home"><img src="/images/logo/cbs-logo.png" alt="ogo"></a></li>
             <li class="masthead__menu-item logo"><a href="{{ domain }}home"><img src="/images/logo/logo2.png" alt="ogo"></a></li>
           </div>
-          <div class="pull-right">
+          <div class="pull-right flex">
             {% for link in site.data.navigation.main %}
               {% if link.url contains 'http' %}
                 {% assign domain = '' %}
