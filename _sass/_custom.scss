@@ -84,6 +84,10 @@ img {
   padding-left: 0px;
   padding-right: 0px;
 }
+.icon-collapse{
+  display: block;
+  cursor: pointer;
+}
 .icon-collapse.collapsed .fa-minus {
   display:none;
 }
