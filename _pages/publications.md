@@ -26,7 +26,7 @@ author_profile: true
 
                         <div class="inner">
                             <div class="accordion">
-                                <h3 class="accHeader active" headerindex="0h">
+                                <h3 class="accHeader" headerindex="0h">
                                     <span class="accordprefix">
                                         <i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
                                     </span> <a data-toggle="collapse" data-parent="#accordion" href="#publication2019">2019</a>
