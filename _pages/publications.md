@@ -25,7 +25,7 @@ author_profile: true
                     <div class="team">
 
                         <div class="inner">
-                        
+
                             <div class="accordion">
                                 <h3 class="accHeader" headerindex="0h">
                                     <span class="accordprefix">
@@ -113,10 +113,9 @@ author_profile: true
                                     <h3 class="accHeader" headerindex="0h">
                                         <span class="accordprefix">
                                             <i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
-                                        </span> 2019<a class="pull-right icon-collapse" data-toggle="collapse" data-parent="#accordion" href="#publication2018">Collapsible Group 1</a>
+                                        </span> 2018<a class="pull-right icon-collapse" data-toggle="collapse" data-parent="#accordion" href="#publication2018">Collapsible Group 1</a>
                                     </h3>
                                     <div class="accDetail panel-collapse collapse" id="publication2018">
-                                    <h1 id="2019">2018</h1>
 
                                     <p>
                                         <strong>54. [C]</strong>.Sternberg, Fie ; Hedegaard Pedersen, Kasper ; Ryelund, Niklas Klve ; Mukkamala, Raghava Rao ; Vatrapu, Ravi.
@@ -222,8 +221,13 @@ author_profile: true
                                         In : Big Data – BigData 2018: 7th International Congress, Held as Part of the Services Conference Federation, SCF 2018, Seattle, WA, USA, June 25–30, 2018, Proceedings. editor / Francis Y. L. Chin ; C. L. Philip Chen ; Latifur Khan ; Kisung Lee ; Liang-Jie Zhang. Cham : Springer, 2018. pp. 260-276 (Lecture Notes in Computer Science, Vol. 10968).
                                         (<a href="https://raghavamukkamala.github.io/files/pubs/2019_HICSS_Blockchian_Personal_data.pdf" target="_blank">PDF</a>)
                                     </p>
-
-                                    <h1 id="2019">2017</h1>
+                                    </div>
+                                    <h3 class="accHeader" headerindex="0h">
+                                        <span class="accordprefix">
+                                            <i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
+                                        </span> 2017<a class="pull-right icon-collapse" data-toggle="collapse" data-parent="#accordion" href="#publication2017">Collapsible Group 1</a>
+                                    </h3>
+                                    <div class="accDetail panel-collapse collapse" id="publication2017">
 
                                     <p>
                                         <strong>39. [C]</strong>.Flesch, Benjamin ; Vatrapu, Ravi ; Mukkamala, Raghava Rao.
