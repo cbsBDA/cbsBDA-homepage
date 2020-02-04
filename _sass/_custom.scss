@@ -88,6 +88,9 @@ img {
   display: block;
   cursor: pointer;
 }
+.icon-collapse .fa{
+  line-height: 30px;
+}
 .icon-collapse.collapsed .fa-minus {
   display:none;
 }
