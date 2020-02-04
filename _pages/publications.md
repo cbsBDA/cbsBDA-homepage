@@ -10,14 +10,19 @@ author_profile: true
 <!-- Section: about -->
 <section id="publications" class="home-section  bg1">
     <div class="heading-about">
-        <div class="container w-100 p-0 m-0">
+        <div class="container  w-100 p-0 m-0">
             <div class="row">
-                <div class="archive mb-0">
-                  <h1 class="mb-0" id="peer-reviewed-publications">Selected Publication</h1>
+                <div class="col-lg-8 col-lg-offset-2 m-0">
+                    <div class="wow bounceInDown m-0" data-wow-delay="0.4s">
+                        <div class="section-heading">
+                            <h2 class="text-left">Selected Publication</h2>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
+    
     <div class="container w-100 p-0 m-0">
         <div class="row display-block">
             <div class="col-xs-12 col-sm-12 col-md-12 p-0">
