@@ -207,7 +207,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/Mikkel.jpg" alt='Mikkel Harlev' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" >Mikkel Harlev</a></h5>
+                    <h5>Mikkel Harlev</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
             </div>
@@ -220,7 +220,7 @@ author_profile: true
                   <div class="avatar">
                       <img src="/images/teams/bm0108_nr3_ravi_vatrapu_5405.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
                   </div>
-                  <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rvitm">Prof. Ravi Vatrapu</a></h5>
+                  <h5>Prof. Ravi Vatrapu</h5>
                   <p class="subtitle">Founder Director</p>
               </div>
             </div>
@@ -233,7 +233,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/Rene_Madsen3.png" alt='Rene_Madsen3' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/kalkitm">Rene Madsen</a></h5>
+                    <h5>Rene Madsen</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
             </div>
@@ -249,7 +249,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/kiran-1.jpg" alt='Kiran Kocherla' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rvitm">Kiran Kocherla</a></h5>
+                    <h5>Kiran Kocherla</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
             </div>
@@ -304,7 +304,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/Benjamin-Flesch.jpg" alt='Benjamin Flesch' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/kalkitm">Benjamin Flesch</a></h5>
+                    <h5>Benjamin Flesch</h5>
                     <p class="subtitle">Privatist PhD Student</p>
                 </div>
             </div>
@@ -317,7 +317,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/HelgiWaag.jpg" alt='Helgi Waag' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rvitm">Helgi Waag</a></h5>
+                    <h5>Helgi Waag</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
             </div>
@@ -330,7 +330,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/Michele.jpg" alt='Alessandro Michele Colombo' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Alessandro Michele Colombo</a></h5>
+                    <h5>Alessandro Michele Colombo</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
             </div>
@@ -348,7 +348,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/Paul.jpg" alt='Paul Mihai Stolniceanu' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/ahitm">Paul Mihai Stolniceanu</a></h5>
+                    <h5>Paul Mihai Stolniceanu</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
             </div>
