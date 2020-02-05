@@ -73,7 +73,13 @@
     line-height: 20px;
     min-width: 200px;
 }
-.masthead__menu ul div li:hover{
-  cursor: pointer;
+.masthead__menu ul div li,
+.masthead__menu ul div li:hover,
+.masthead__menu ul div li a,
+.masthead__menu ul div li a:hover{
+  cursor: pointer !important;
+}
+.greedy-nav .visible-link a:before {
+  bottom: 0px;
 }
 }
