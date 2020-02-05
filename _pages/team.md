@@ -374,7 +374,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/Dharani.jpg" alt='Dharanidaran' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rvitm">Dharanidaran</a></h5>
+                    <h5>Dharanidaran</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
             </div>
@@ -387,7 +387,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/Hao.jpg" alt='Hao Hua Sun Yin' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5> <a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Hao Hua Sun Yin</a></h5>
+                    <h5> <a class="t-name" target="_blank" >Hao Hua Sun Yin</a></h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
             </div>
