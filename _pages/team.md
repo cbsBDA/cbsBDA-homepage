@@ -69,7 +69,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/bm0108_nr3_ravi_vatrapu_5405.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rvitm">Prof. Ravi Vatrapu</a></h5>
+                    <h5>Prof. Ravi Vatrapu</h5>
                     <p class="subtitle">Founder Director</p>
                 </div>
             </div>
@@ -84,8 +84,8 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/bm0108_nr3_ravi_vatrapu_5405.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5>Nadiya Straton</h5>
-                    <p class="subtitle">Director</p>
+                    <h5>Prof. Ravi Vatrapu</h5>
+                    <p class="subtitle">Founder Director</p>
                 </div>
             </div>
         </div>
@@ -97,8 +97,8 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/bm0108_nr3_ravi_vatrapu_5405.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5>Nadiya Straton</h5>
-                    <p class="subtitle">Director</p>
+                    <h5>Prof. Ravi Vatrapu</h5>
+                    <p class="subtitle">Founder Director</p>
                 </div>
             </div>
         </div>
@@ -110,8 +110,8 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/bm0108_nr3_ravi_vatrapu_5405.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" >Nadiya Straton</a></h5>
-                    <p class="subtitle">Director</p>
+                    <h5>Prof. Ravi Vatrapu</h5>
+                    <p class="subtitle">Founder Director</p>
                 </div>
             </div>
         </div>
@@ -123,8 +123,8 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/bm0108_nr3_ravi_vatrapu_5405.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" >Nadiya Straton</a></h5>
-                    <p class="subtitle">Director</p>
+                    <h5>Prof. Ravi Vatrapu</h5>
+                    <p class="subtitle">Founder Director</p>
                 </div>
             </div>
         </div>
@@ -165,7 +165,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/Nadia.jpg" alt='Nadiya Straton' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" >Nadiya Straton</a></h5>
+                    <h5>Nadiya Straton</h5>
                     <p class="subtitle">PhD Student</p>
                 </div>
             </div>
