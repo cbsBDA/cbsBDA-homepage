@@ -32,7 +32,7 @@ author_profile: true
                         <div class="inner">
 
                             <div class="accordion">
-                                <h3 class="accHeader" headerindex="0h">
+                                <h3 class="accHeader mt-0" headerindex="0h">
                                     <span class="accordprefix">
                                         <i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
                                     </span> <a class="icon-collapse collapsed font-fff" data-toggle="collapse" data-parent="#accordion" href="#publication2019"><i class="pull-right fa fa-plus"></i><i class="pull-right fa fa-minus"></i>
