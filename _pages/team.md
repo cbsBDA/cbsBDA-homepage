@@ -262,7 +262,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/laster.jpg" alt='Lester Lasrado' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank"  href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/lalitm">Lester Lasrado</a></h5>
+                    <h5>Lester Lasrado</h5>
                     <p class="subtitle">Research Associate</p>
                 </div>
             </div>
@@ -291,7 +291,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/katrine_kunst_0.jpg" alt='Katrine Kunst' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/kalkitm">Katrine Kunst</a></h5>
+                    <h5>Katrine Kunst</h5>
                     <p class="subtitle">Postdoc</p>
                 </div>
             </div>
