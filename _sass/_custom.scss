@@ -129,6 +129,8 @@ img {
 .greedy-nav .visible-link a{
   position: relative;
   text-transform: capitalize;
+  font-size: 13px;
+  margin: 0 0.5rem;
 }
 .greedy-nav .visible-link a:hover:before {
     -webkit-transform: scaleX(1);
