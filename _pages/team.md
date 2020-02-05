@@ -152,7 +152,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/niels.jpeg" alt='Niels Buus Lassen' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Niels Buus Lassen</a></h5>
+                    <h5><a class="t-name" target="_blank" href="https://scholar.google.com/citations?user=zC39DhsAAAAJ&hl=en">Niels Buus Lassen</a></h5>
                     <p class="subtitle">PhD Student</p>
                 </div>
             </div>
