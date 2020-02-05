@@ -23,7 +23,7 @@ author_profile: true
       </div>
     </div>
   </div>
-  <div class="container p-0 m-0">
+  <div class="container p-0 m-0 w-100">
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-12">
         <div class="wow bounceInUp" data-wow-delay="0.2s">
