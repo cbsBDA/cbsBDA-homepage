@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $("button.visivle").click(function(){
+  $("button.visible").click(function(){
     $(".visible-link").toggleClass("hidden");
   });
 });
