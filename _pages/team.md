@@ -123,7 +123,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/bm0108_nr3_ravi_vatrapu_5405.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rvitm">Nadiya Straton</a></h5>
+                    <h5><a class="t-name" target="_blank" >Nadiya Straton</a></h5>
                     <p class="subtitle">Director</p>
                 </div>
             </div>
@@ -165,7 +165,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/Nadia.jpg" alt='Nadiya Straton' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/ahitm">Nadiya Straton</a></h5>
+                    <h5><a class="t-name" target="_blank" >Nadiya Straton</a></h5>
                     <p class="subtitle">PhD Student</p>
                 </div>
             </div>
@@ -207,7 +207,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/Mikkel.jpg" alt='Mikkel Harlev' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Mikkel Harlev</a></h5>
+                    <h5><a class="t-name" target="_blank" >Mikkel Harlev</a></h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
             </div>
