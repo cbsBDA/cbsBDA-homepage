@@ -387,7 +387,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/Hao.jpg" alt='Hao Hua Sun Yin' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5> <a class="t-name" target="_blank" >Hao Hua Sun Yin</a></h5>
+                    <h5>Hao Hua Sun Yin</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
             </div>
