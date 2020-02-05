@@ -21,7 +21,7 @@ author_profile: true
       </div>
     </div>
   </div>
-  <div class="container p-0 m-0">
+  <div class="container p-0 m-0 w-100">
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-12">
         <p>Physical infrastructure of cbsBDA is in the form of one large room that houses on-premises servers and the eye-tracking equipment. Meeting rooms and open spaces for research purposes are available from the Department of Digitalization and the central building facilities of CBS. </p>
