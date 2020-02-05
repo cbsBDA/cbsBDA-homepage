@@ -139,7 +139,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/Povl.jpg" alt='Povl' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rvitm">Povl</a></h5>
+                    <h5><a class="t-name" target="_blank"  href="http://gametools.squarespace.com/">Povl Heiberg Gad</a></h5>
                     <p class="subtitle">Industrial PhD Student</p>
                 </div>
             </div>
@@ -178,7 +178,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/kjeld.jpg" alt='Kjeld Hansen' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/kalkitm">Kjeld Hansen</a></h5>
+                    <h5><a class="t-name" target="_blank" href="https://www.researchgate.net/profile/Kjeld_Hansen">Kjeld Hansen</a></h5>
                     <p class="subtitle">Privatist PhD Student<br>(Westerdals Oslo ACT)</p>
                 </div>
             </div>
@@ -194,7 +194,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/chriszimmerman.jpg" alt='chriszimmerman' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rvitm">Chris Zimmerman</a></h5>
+                    <h5><a class="t-name" target="_blank"  href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/czitm">Chris Zimmerman</a></h5>
                     <p class="subtitle">Industrial PhD Student<br />(Mindjumpers)</p>
                 </div>
             </div>
@@ -262,7 +262,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/laster.jpg" alt='Lester Lasrado' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Lester Lasrado</a></h5>
+                    <h5><a class="t-name" target="_blank"  href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/lalitm">Lester Lasrado</a></h5>
                     <p class="subtitle">Research Associate</p>
                 </div>
             </div>
@@ -291,7 +291,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/katrine_kunst_0.jpg" alt='Katrine Kunst' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/ahitm">Katrine Kunst</a></h5>
+                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/kalkitm">Katrine Kunst</a></h5>
                     <p class="subtitle">Postdoc</p>
                 </div>
             </div>
