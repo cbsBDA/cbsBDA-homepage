@@ -39,8 +39,15 @@
     margin: 0 0.4rem;
   }
   #site-nav button.visible.hidden{
-    display: inline-block;
-    height: 30px;
-    width: 30px;
+    .greedy-nav button {
+    position: absolute;
+    height: 100%;
+    right: 0;
+    padding: 0 0.5rem;
+    border: 0;
+    outline: none;
+    background-color: #7a8288;
+    color: #fff;
+    cursor: pointer;
   }
 }
