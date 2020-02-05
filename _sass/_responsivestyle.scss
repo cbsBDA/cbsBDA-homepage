@@ -31,6 +31,9 @@
   #site-nav button.visible.hidden{
     display: none;
   }
+  .mobile{
+  display: none;
+  }
 }
 
 @media (max-width: 80em){
@@ -65,4 +68,8 @@
     box-shadow: -8px 5px 14px #888888;
     top: 40px;
   }
+  .masthead__menu ul div:last-child {
+    height: 50px;
+    line-height: 20px;
+}
 }
