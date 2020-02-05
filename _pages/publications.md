@@ -22,10 +22,10 @@ author_profile: true
             </div>
         </div>
     </div>
-    
+
     <div class="container w-100 p-0 m-0">
         <div class="row display-block">
-            <div class="col-xs-12 col-sm-12 col-md-12 p-0">
+            <div class="col-xs-12 col-sm-12 col-md-12">
                 <div class="wow bounceInUp" data-wow-delay="0.2s">
                     <div class="team">
 
