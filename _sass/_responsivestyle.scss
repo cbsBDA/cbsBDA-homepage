@@ -41,6 +41,10 @@
     font-size: 12.5px;
     margin: 0 0.4rem;
   }
+
+}
+@media (max-width: 1024px)
+{
   #site-nav button.visible.hidden{
     position: absolute;
     height: 100%;
