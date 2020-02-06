@@ -67,10 +67,10 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
-                        <img src="/images/teams/bm0108_nr3_ravi_vatrapu_5405.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/laster.jpg" alt='Lester Lasrado' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5>Prof. Ravi Vatrapu</h5>
-                    <p class="subtitle">Founder Director</p>
+                    <h5>Lester Lasrado</h5>
+                    <p class="subtitle">Research Associate</p>
                 </div>
             </div>
         </div>
@@ -82,9 +82,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
-                        <img src="/images/teams/bm0108_nr3_ravi_vatrapu_5405.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/Sonath.jpg" alt='Sonath Mazumdar' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5>Prof. Ravi Vatrapu</h5>
+                    <h5>Somnath Mazumdar</h5>
                     <p class="subtitle">Founder Director</p>
                 </div>
             </div>
@@ -95,9 +95,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
-                        <img src="/images/teams/bm0108_nr3_ravi_vatrapu_5405.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/Monica.jpg" alt='Monica Mundada' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5>Prof. Ravi Vatrapu</h5>
+                    <h5>Monica Mundada</h5>
                     <p class="subtitle">Founder Director</p>
                 </div>
             </div>
@@ -108,9 +108,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
-                        <img src="/images/teams/bm0108_nr3_ravi_vatrapu_5405.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/Rajani_Sigh.jpg" alt='Rajani Singh' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5>Prof. Ravi Vatrapu</h5>
+                    <h5>Rajani Singh</h5>
                     <p class="subtitle">Founder Director</p>
                 </div>
             </div>
