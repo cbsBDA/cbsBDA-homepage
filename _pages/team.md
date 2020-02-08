@@ -266,19 +266,7 @@ author_profile: true
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15">
-        <div class="wow bounceInUp animated animated">
-            <div class="team boxed-grey text-center">
-                <div class="inner">
-                    <div class="avatar">
-                        <img src="/images/teams/laster.jpg" alt='Lester Lasrado' class="img-responsive img-circle table-bordered himg" />
-                    </div>
-                    <h5>Lester Lasrado</h5>
-                    <p class="subtitle">Research Associate</p>
-                </div>
-            </div>
-        </div>
-    </div>
+    
 </div>
 <div class="heading-about">
   <div class="container  w-100 p-0 m-0">
