@@ -113,7 +113,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a href="#">
                         <img src="/images/teams/Rajani_Sigh.jpg" alt='Rajani Singh' class="img-responsive img-circle table-bordered himg" />
+                        </a>
                     </div>
                     <h5>Rajani Singh</h5>
                     <p class="subtitle">Postdoc</p>
