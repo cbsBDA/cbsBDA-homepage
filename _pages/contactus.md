@@ -28,9 +28,9 @@ author_profile: true
       <div class="col-lg-5 col-md-5">
         <div class="widget-contact">
           <address>
-          <strong><img src="/images/contact/bm0108_nr3_ravi_vatrapu_5405.jpg" width="80" class="img-circle table-bordered" > &nbsp;<span style="font-size:16px">Prof. Ravi Vatrapu</span></strong><br>
+          <strong><img src="/images/teams/raghava1.jpg" alt='Raghava Mukkamala' width="80" class="img-circle table-bordered" > &nbsp;<span style="font-size:16px">Dr. Raghava Rao Mukkamala</span></strong><br>
           Director, Centre for Business Data Analytics(cbsBDA)<br>
-          Professor, Department of Digitalization<br>
+          <!-- Professor, Department of Digitalization<br> -->
           Copenhagen Business School<br>
           Howitzvej 60; 2.14<br>
           Frederiksberg, DK-2000, Denmark<br>
