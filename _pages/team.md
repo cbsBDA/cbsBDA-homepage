@@ -449,7 +449,7 @@ author_profile: true
                     <h5>Hao Hua Sun Yin</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
-                <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
+                <span class="tooltiptext">Hao Hua Sun Yin<br/>Research Assistant </span>
             </div>
         </div>
     </div>
