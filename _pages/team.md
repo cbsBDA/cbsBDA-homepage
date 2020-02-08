@@ -50,6 +50,7 @@ author_profile: true
                     <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Dr. Raghava Rao Mukkamala</a></h5>
                     <p class="subtitle">Director</p>
                 </div>
+                <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
             </div>
         </div>
     </div>
