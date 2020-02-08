@@ -264,7 +264,7 @@ author_profile: true
                   <h5>Prof. Ravi Vatrapu</h5>
                   <p class="subtitle">Founder Director</p>
               </div>
-              <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
+              <span class="tooltiptext">Prof. Ravi Vatrapu<br/>Founder Director </span>
             </div>
         </div>
     </div>
@@ -280,7 +280,7 @@ author_profile: true
                     <h5>Rene Madsen</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
-                <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
+                <span class="tooltiptext">Rene Madsen<br/>Research Assistant </span>
             </div>
         </div>
     </div>
@@ -299,7 +299,7 @@ author_profile: true
                     <h5>Kiran Kocherla</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
-                <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
+                <span class="tooltiptext">Kiran Kocherla<br/>Research Assistant </span>
             </div>
         </div>
     </div>
@@ -332,7 +332,7 @@ author_profile: true
                     <h5>Katrine Kunst</h5>
                     <p class="subtitle">Postdoc</p>
                 </div>
-                <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
+                <span class="tooltiptext">Katrine Kunst<br/>Postdoc </span>
             </div>
         </div>
     </div>
@@ -348,7 +348,7 @@ author_profile: true
                     <h5>Benjamin Flesch</h5>
                     <p class="subtitle">Privatist PhD Student</p>
                 </div>
-                <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
+                <span class="tooltiptext">Benjamin Flesch<br/>Privatist PhD Student </span>
             </div>
         </div>
     </div>
@@ -364,7 +364,7 @@ author_profile: true
                     <h5>Helgi Waag</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
-                <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
+                <span class="tooltiptext">Helgi Waag<br/>Research Assistant </span>
             </div>
         </div>
     </div>
@@ -380,7 +380,7 @@ author_profile: true
                     <h5>Alessandro Michele Colombo</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
-                <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
+                <span class="tooltiptext">Alessandro Michele Colombo<br/>Research Assistant </span>
             </div>
         </div>
     </div>
@@ -401,7 +401,7 @@ author_profile: true
                     <h5>Paul Mihai Stolniceanu</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
-                <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
+                <span class="tooltiptext">Paul Mihai Stolniceanu<br/>Research Assistant </span>
             </div>
         </div>
     </div>
@@ -417,7 +417,7 @@ author_profile: true
                     <h5>Klaus Langenheldt</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
-                <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
+                <span class="tooltiptext">Klaus Langenheldt<br/>Research Assistant </span>
             </div>
         </div>
     </div>
@@ -433,7 +433,7 @@ author_profile: true
                     <h5>Dharanidaran</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
-                <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
+                <span class="tooltiptext">Dharanidaran<br/>Research Assistant </span>
             </div>
         </div>
     </div>
