@@ -241,6 +241,12 @@ img {
 .designation{
   text-align: center;
 }
+.team.boxed-grey.text-center:hover .team-des{
+  display: block;
+}
+.team-des{
+  display: none;
+}
 //awards Page
 .lists{
   list-style: none;
