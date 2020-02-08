@@ -30,7 +30,7 @@ author_profile: true
           <address>
           <strong><img src="/images/teams/raghava1.jpg" alt='Raghava Mukkamala' width="80" class="img-circle table-bordered" > &nbsp;<span style="font-size:16px">Dr. Raghava Rao Mukkamala</span></strong><br>
           Director, Centre for Business Data Analytics(cbsBDA)<br>
-          <!-- Professor, Department of Digitalization<br> -->
+          Director, Department of Digitalization<br>
           Copenhagen Business School<br>
           Howitzvej 60; 2.14<br>
           Frederiksberg, DK-2000, Denmark<br>
