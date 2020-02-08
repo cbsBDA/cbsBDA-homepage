@@ -39,7 +39,7 @@ author_profile: true
           <address>
           <strong>Web:</strong> <a href="http://www.cbs.dk/en/staff/rrmitm" target="blank">CBS Faculty Page</a></li>
           </address>
-          address>
+          <address>
           <strong>Research Profile:</strong> <a href=" https://raghavamukkamala.github.io" target="blank">Research Profile</a></li>
           </address>
 
