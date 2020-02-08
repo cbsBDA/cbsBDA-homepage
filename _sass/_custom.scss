@@ -217,10 +217,6 @@ img {
     margin-bottom: 10px;
     color: #52adc8;
 }
-// .col-md-3, .col-sm-3{
-//   width:25%;
-//   padding: 0px 10px;
-// }
 .boxed-grey{
   background: #f9f9f9;
   padding: 20px;
@@ -236,15 +232,9 @@ img {
 .team p.subtitle {
     margin-bottom: 0px;
 }
-// .inner a{
-//   text-decoration: none;
-// }
-// .inner a:hover{
-//   text-decoration: none;
-// }
-// a.t-name{
-//   color: #4967aa;
-// }
+.archive a:hover img {
+    box-shadow: none;
+}
 .designation{
   text-align: center;
 }
@@ -256,9 +246,7 @@ img {
     list-style: none;
     margin-bottom: 20px;
 }
-// a, .tp-caption a.btn:hover {
-//     color: #4967aa;
-// }
+
 /*************************
 ********* Portfolio CSS ******
 **************************/
