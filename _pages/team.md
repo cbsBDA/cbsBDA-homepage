@@ -87,7 +87,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a href="#">
                         <img src="/images/teams/Sonath.jpg" alt='Sonath Mazumdar' class="img-responsive img-circle table-bordered himg" />
+                        </a>
                     </div>
                     <h5>Somnath Mazumdar</h5>
                     <p class="subtitle">Postdoc</p>
@@ -100,7 +102,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a href="#">
                         <img src="/images/teams/Monica.jpg" alt='Monica Mundada' class="img-responsive img-circle table-bordered himg" />
+                        </a>
                     </div>
                     <h5>Monica Mundada</h5>
                     <p class="subtitle">Postdoc</p>
@@ -128,7 +132,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a href="#">
                         <img src="/images/teams/bm0108_nr3_ravi_vatrapu_5405.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
+                        </a>
                     </div>
                     <h5>Prof. Ravi Vatrapu</h5>
                     <p class="subtitle">Founder Director</p>
@@ -144,7 +150,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a href="#">
                         <img src="/images/teams/Povl.jpg" alt='Povl' class="img-responsive img-circle table-bordered himg" />
+                        </a>
                     </div>
                     <h5>Povl Heiberg Gad</h5>
                     <p class="subtitle">Industrial PhD Student</p>
@@ -172,7 +180,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a href="#">
                         <img src="/images/teams/Nadia.jpg" alt='Nadiya Straton' class="img-responsive img-circle table-bordered himg" />
+                        </a>
                     </div>
                     <h5>Nadiya Straton</h5>
                     <p class="subtitle">PhD Student</p>
@@ -218,7 +228,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a href="#">
                         <img src="/images/teams/Mikkel.jpg" alt='Mikkel Harlev' class="img-responsive img-circle table-bordered himg" />
+                        </a>
                     </div>
                     <h5>Mikkel Harlev</h5>
                     <p class="subtitle">Research Assistant</p>
@@ -231,7 +243,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
               <div class="inner">
                   <div class="avatar">
+                  <a href="#">
                       <img src="/images/teams/bm0108_nr3_ravi_vatrapu_5405.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
+                      </a>
                   </div>
                   <h5>Prof. Ravi Vatrapu</h5>
                   <p class="subtitle">Founder Director</p>
@@ -244,7 +258,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a href="#">
                         <img src="/images/teams/Rene_Madsen3.png" alt='Rene_Madsen3' class="img-responsive img-circle table-bordered himg" />
+                        </a>
                     </div>
                     <h5>Rene Madsen</h5>
                     <p class="subtitle">Research Assistant</p>
@@ -260,7 +276,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a href="#">
                         <img src="/images/teams/kiran-1.jpg" alt='Kiran Kocherla' class="img-responsive img-circle table-bordered himg" />
+                        </a>
                     </div>
                     <h5>Kiran Kocherla</h5>
                     <p class="subtitle">Research Assistant</p>
@@ -290,7 +308,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a href="#">
                         <img src="/images/teams/katrine_kunst_0.jpg" alt='Katrine Kunst' class="img-responsive img-circle table-bordered himg" />
+                        </a>
                     </div>
                     <h5>Katrine Kunst</h5>
                     <p class="subtitle">Postdoc</p>
@@ -303,7 +323,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a href="#">
                         <img src="/images/teams/Benjamin-Flesch.jpg" alt='Benjamin Flesch' class="img-responsive img-circle table-bordered himg" />
+                        </a>
                     </div>
                     <h5>Benjamin Flesch</h5>
                     <p class="subtitle">Privatist PhD Student</p>
@@ -316,7 +338,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a href="#">
                         <img src="/images/teams/HelgiWaag.jpg" alt='Helgi Waag' class="img-responsive img-circle table-bordered himg" />
+                        </a>
                     </div>
                     <h5>Helgi Waag</h5>
                     <p class="subtitle">Research Assistant</p>
@@ -329,7 +353,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a href="#">
                         <img src="/images/teams/Michele.jpg" alt='Alessandro Michele Colombo' class="img-responsive img-circle table-bordered himg" />
+                        </a>
                     </div>
                     <h5>Alessandro Michele Colombo</h5>
                     <p class="subtitle">Research Assistant</p>
@@ -347,7 +373,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a href="#">
                         <img src="/images/teams/Paul.jpg" alt='Paul Mihai Stolniceanu' class="img-responsive img-circle table-bordered himg" />
+                        </a>
                     </div>
                     <h5>Paul Mihai Stolniceanu</h5>
                     <p class="subtitle">Research Assistant</p>
@@ -360,7 +388,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a href="#">
                         <img src="/images/teams/klaus.jpg" alt='Klaus Langenheldt' class="img-responsive img-circle table-bordered himg" />
+                        </a>
                     </div>
                     <h5>Klaus Langenheldt</h5>
                     <p class="subtitle">Research Assistant</p>
@@ -373,7 +403,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a href="#">
                         <img src="/images/teams/Dharani.jpg" alt='Dharanidaran' class="img-responsive img-circle table-bordered himg" />
+                        </a>
                     </div>
                     <h5>Dharanidaran</h5>
                     <p class="subtitle">Research Assistant</p>
@@ -386,7 +418,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a href="#">
                         <img src="/images/teams/Hao.jpg" alt='Hao Hua Sun Yin' class="img-responsive img-circle table-bordered himg" />
+                        </a>
                     </div>
                     <h5>Hao Hua Sun Yin</h5>
                     <p class="subtitle">Research Assistant</p>
