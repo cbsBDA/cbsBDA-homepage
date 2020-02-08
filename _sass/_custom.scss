@@ -232,9 +232,9 @@ img {
 .team p.subtitle {
     margin-bottom: 0px;
 }
-// .archive a:hover img {
-//     box-shadow: none;
-// }
+.archive a:hover .team.boxed-grey.text-center {
+  box-shadow: 0 0 10px rgba(0,0,0,0.25);
+}
 .designation{
   text-align: center;
 }
