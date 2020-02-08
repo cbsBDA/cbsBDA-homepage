@@ -26,13 +26,15 @@ author_profile: true
     <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
+              <a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rvitm">
                 <div class="inner">
                     <div class="avatar">
                         <img src="/images/teams/bm0108_nr3_ravi_vatrapu_5405.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rvitm">Prof. Ravi Vatrapu</a></h5>
+                    <h5>Prof. Ravi Vatrapu</h5>
                     <p class="subtitle">Founder Director</p>
                 </div>
+              </a>
             </div>
         </div>
     </div>
