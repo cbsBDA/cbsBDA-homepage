@@ -66,6 +66,7 @@ author_profile: true
                     <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/ahitm">Dr. Abid Hussain</a></h5>
                     <p class="subtitle">Associate Professor</p>
                 </div>
+                <span class="tooltiptext">Dr. Abid Hussain<br/>Associate Professor </span>
             </div>
         </div>
     </div>
@@ -79,6 +80,7 @@ author_profile: true
                     <h5>Lester Lasrado</h5>
                     <p class="subtitle">Research Associate</p>
                 </div>
+                <span class="tooltiptext">Lester Lasrado<br/>Research Associate </span>
             </div>
         </div>
     </div>
@@ -96,6 +98,7 @@ author_profile: true
                     <h5>Somnath Mazumdar</h5>
                     <p class="subtitle">Postdoc</p>
                 </div>
+                <span class="tooltiptext">Somnath Mazumdar<br/>Postdoc </span>
             </div>
         </div>
     </div>
@@ -111,6 +114,7 @@ author_profile: true
                     <h5>Monica Mundada</h5>
                     <p class="subtitle">Postdoc</p>
                 </div>
+                <span class="tooltiptext">Monica Mundada<br/>Postdoc </span>
             </div>
         </div>
     </div>
@@ -126,6 +130,7 @@ author_profile: true
                     <h5>Rajani Singh</h5>
                     <p class="subtitle">Postdoc</p>
                 </div>
+                <span class="tooltiptext">Rajani Singh<br/>Postdoc </span>
             </div>
         </div>
     </div>
@@ -141,6 +146,7 @@ author_profile: true
                     <h5>Prof. Ravi Vatrapu</h5>
                     <p class="subtitle">Founder Director</p>
                 </div>
+                <span class="tooltiptext">Prof. Ravi Vatrapu <br/> Founder Director </span>
             </div>
         </div>
     </div>
@@ -159,6 +165,7 @@ author_profile: true
                     <h5>Povl Heiberg Gad</h5>
                     <p class="subtitle">Industrial PhD Student</p>
                 </div>
+                <span class="tooltiptext">Povl Heiberg Gad<br/>Industrial PhD Student </span>
             </div>
         </div>
     </div>
@@ -174,6 +181,7 @@ author_profile: true
                     <h5><a class="t-name" target="_blank" href="https://scholar.google.com/citations?user=zC39DhsAAAAJ&hl=en">Niels Buus Lassen</a></h5>
                     <p class="subtitle">PhD Student</p>
                 </div>
+                <span class="tooltiptext">Niels Buus Lassen<br/>PhD Student </span>
             </div>
         </div>
     </div>
@@ -189,6 +197,7 @@ author_profile: true
                     <h5>Nadiya Straton</h5>
                     <p class="subtitle">PhD Student</p>
                 </div>
+                <span class="tooltiptext">Nadiya Straton<br/>PhD Student </span>
             </div>
         </div>
     </div>
@@ -204,6 +213,7 @@ author_profile: true
                     <h5><a class="t-name" target="_blank" href="https://www.researchgate.net/profile/Kjeld_Hansen">Kjeld Hansen</a></h5>
                     <p class="subtitle">Privatist PhD Student<br>(Westerdals Oslo ACT)</p>
                 </div>
+                <span class="tooltiptext">Kjeld Hansen<br/>DirPrivatist PhD Student<br>(Westerdals Oslo ACT)ector </span>
             </div>
         </div>
     </div>
@@ -222,6 +232,7 @@ author_profile: true
                     <h5><a class="t-name" target="_blank"  href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/czitm">Chris Zimmerman</a></h5>
                     <p class="subtitle">Industrial PhD Student<br />(Mindjumpers)</p>
                 </div>
+                <span class="tooltiptext">Chris Zimmerman<br/>Industrial PhD Student<br />(Mindjumpers) </span>
             </div>
         </div>
     </div>
@@ -237,6 +248,7 @@ author_profile: true
                     <h5>Mikkel Harlev</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
+                <span class="tooltiptext">Mikkel Harlev<br/>Research Assistant </span>
             </div>
         </div>
     </div>
@@ -252,6 +264,7 @@ author_profile: true
                   <h5>Prof. Ravi Vatrapu</h5>
                   <p class="subtitle">Founder Director</p>
               </div>
+              <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
             </div>
         </div>
     </div>
@@ -267,6 +280,7 @@ author_profile: true
                     <h5>Rene Madsen</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
+                <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
             </div>
         </div>
     </div>
@@ -285,6 +299,7 @@ author_profile: true
                     <h5>Kiran Kocherla</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
+                <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
             </div>
         </div>
     </div>
@@ -317,6 +332,7 @@ author_profile: true
                     <h5>Katrine Kunst</h5>
                     <p class="subtitle">Postdoc</p>
                 </div>
+                <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
             </div>
         </div>
     </div>
@@ -332,6 +348,7 @@ author_profile: true
                     <h5>Benjamin Flesch</h5>
                     <p class="subtitle">Privatist PhD Student</p>
                 </div>
+                <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
             </div>
         </div>
     </div>
@@ -347,6 +364,7 @@ author_profile: true
                     <h5>Helgi Waag</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
+                <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
             </div>
         </div>
     </div>
@@ -362,6 +380,7 @@ author_profile: true
                     <h5>Alessandro Michele Colombo</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
+                <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
             </div>
         </div>
     </div>
@@ -382,6 +401,7 @@ author_profile: true
                     <h5>Paul Mihai Stolniceanu</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
+                <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
             </div>
         </div>
     </div>
@@ -397,6 +417,7 @@ author_profile: true
                     <h5>Klaus Langenheldt</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
+                <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
             </div>
         </div>
     </div>
@@ -412,6 +433,7 @@ author_profile: true
                     <h5>Dharanidaran</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
+                <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
             </div>
         </div>
     </div>
@@ -427,6 +449,7 @@ author_profile: true
                     <h5>Hao Hua Sun Yin</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
+                <span class="tooltiptext">Dr. Raghava Rao Mukkamala<br/>Director </span>
             </div>
         </div>
     </div>
