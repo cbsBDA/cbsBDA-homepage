@@ -37,10 +37,10 @@ author_profile: true
           <abbr title="Phone">P:</abbr> +45-4185-2299
           </address>
           <address>
-          <strong>Web:</strong> <a href="http://www.cbs.dk/en/staff/rrmitm" target="blank">CBS Faculty Page</a></li>
+          <strong>Web:</strong> <a href="http://www.cbs.dk/en/staff/rrmitm" target="blank">CBS Faculty Page</a>
           </address>
           <address>
-          <strong>Research Profile:</strong> <a href=" https://raghavamukkamala.github.io" target="blank">Research Profile</a></li>
+          <strong>Research Profile:</strong> <a href=" https://raghavamukkamala.github.io" target="blank">Research Profile</a>
           </address>
 
           <address>
