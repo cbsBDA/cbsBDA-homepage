@@ -90,7 +90,7 @@ author_profile: true
                         <img src="/images/teams/Sonath.jpg" alt='Sonath Mazumdar' class="img-responsive img-circle table-bordered himg" />
                     </div>
                     <h5>Somnath Mazumdar</h5>
-                    <p class="subtitle">Founder Director</p>
+                    <p class="subtitle">Postdoc</p>
                 </div>
             </div>
         </div>
@@ -103,7 +103,7 @@ author_profile: true
                         <img src="/images/teams/Monica.jpg" alt='Monica Mundada' class="img-responsive img-circle table-bordered himg" />
                     </div>
                     <h5>Monica Mundada</h5>
-                    <p class="subtitle">Founder Director</p>
+                    <p class="subtitle">Postdoc</p>
                 </div>
             </div>
         </div>
@@ -116,7 +116,7 @@ author_profile: true
                         <img src="/images/teams/Rajani_Sigh.jpg" alt='Rajani Singh' class="img-responsive img-circle table-bordered himg" />
                     </div>
                     <h5>Rajani Singh</h5>
-                    <p class="subtitle">Founder Director</p>
+                    <p class="subtitle">Postdoc</p>
                 </div>
             </div>
         </div>
@@ -266,7 +266,7 @@ author_profile: true
             </div>
         </div>
     </div>
-    
+
 </div>
 <div class="heading-about">
   <div class="container  w-100 p-0 m-0">
