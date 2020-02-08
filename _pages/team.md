@@ -34,6 +34,7 @@ author_profile: true
                     <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rvitm">Prof. Ravi Vatrapu</a></h5>
                     <p class="subtitle">Founder Director</p>
                 </div>
+                <span class="tooltiptext">Prof. Ravi Vatrapu<br/>Founder Director </span>
             </div>
         </div>
     </div>
