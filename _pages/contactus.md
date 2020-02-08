@@ -34,13 +34,20 @@ author_profile: true
           Copenhagen Business School<br>
           Howitzvej 60; 2.14<br>
           Frederiksberg, DK-2000, Denmark<br>
-          <abbr title="Phone">P:</abbr> +45-2479-4315
+          <abbr title="Phone">P:</abbr> +45-4185-2299
           </address>
           <address>
-          <strong>Web:</strong> <a href="https://www.cbs.dk/en/staff/rvdigi" target="blank">CBS Faculty Page</a></li>
+          <strong>Web:</strong> <a href="http://www.cbs.dk/en/staff/rrmitm" target="blank">CBS Faculty Page</a></li>
+          </address>
+          address>
+          <strong>Research Profile:</strong> <a href=" https://raghavamukkamala.github.io" target="blank">Research Profile</a></li>
+          </address>
+
+          <address>
+          <strong>Skype:</strong> <a href="mailto:#">raomukkamala</a>
           </address>
           <address>
-          <strong>Email:</strong> <a href="mailto:#">vatrapu@cbs.dk</a>
+          <strong>Email:</strong> <a href="mailto:#">rrm.digi@cbs.dk</a>
           </address>
           <address>
           <strong>We're on social networks</strong><br>
