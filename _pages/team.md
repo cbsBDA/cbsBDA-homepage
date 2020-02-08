@@ -42,7 +42,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">
                         <img src="/images/teams/raghava1.jpg" alt='Raghava Mukkamala' class="img-responsive img-circle table-bordered himg" />
+                        </a>
                     </div>
                     <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Dr. Raghava Rao Mukkamala</a></h5>
                     <p class="subtitle">Director</p>
@@ -55,7 +57,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/ahitm">
                         <img src="/images/teams/abid_hussain_cropped_322.jpg" alt='Dr. Abid Hussain' class="img-responsive img-circle table-bordered himg" />
+                        </a>
                     </div>
                     <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/ahitm">Dr. Abid Hussain</a></h5>
                     <p class="subtitle">Associate Professor</p>
@@ -151,7 +155,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a class="t-name" target="_blank" href="https://scholar.google.com/citations?user=zC39DhsAAAAJ&hl=en">
                         <img src="/images/teams/niels.jpeg" alt='Niels Buus Lassen' class="img-responsive img-circle table-bordered himg" />
+                        </a>
                     </div>
                     <h5><a class="t-name" target="_blank" href="https://scholar.google.com/citations?user=zC39DhsAAAAJ&hl=en">Niels Buus Lassen</a></h5>
                     <p class="subtitle">PhD Student</p>
@@ -177,7 +183,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a class="t-name" target="_blank" href="https://www.researchgate.net/profile/Kjeld_Hansen">
                         <img src="/images/teams/kjeld.jpg" alt='Kjeld Hansen' class="img-responsive img-circle table-bordered himg" />
+                        </a>
                     </div>
                     <h5><a class="t-name" target="_blank" href="https://www.researchgate.net/profile/Kjeld_Hansen">Kjeld Hansen</a></h5>
                     <p class="subtitle">Privatist PhD Student<br>(Westerdals Oslo ACT)</p>
@@ -193,7 +201,9 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a class="t-name" target="_blank"  href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/czitm">
                         <img src="/images/teams/chriszimmerman.jpg" alt='chriszimmerman' class="img-responsive img-circle table-bordered himg" />
+                        </a>
                     </div>
                     <h5><a class="t-name" target="_blank"  href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/czitm">Chris Zimmerman</a></h5>
                     <p class="subtitle">Industrial PhD Student<br />(Mindjumpers)</p>
