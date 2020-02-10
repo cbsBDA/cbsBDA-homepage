@@ -27,3 +27,6 @@ main:
 
   - title: "CONTACT US"
     url: contactus/
+
+  - title: "homr"
+    url: index/
