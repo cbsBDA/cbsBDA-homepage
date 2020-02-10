@@ -1,5 +1,5 @@
 layout: archive
-permalink: /index/
+permalink: /home/
 author_profile: true
 ---
 
