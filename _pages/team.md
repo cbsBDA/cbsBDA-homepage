@@ -140,7 +140,7 @@ author_profile: true
                 <div class="inner">
                     <div class="avatar">
                     <a href="#">
-                        <img src="/images/teams/" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
+                        <img src="" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
                     <h5>Prof. Ravi Vatrapu</h5>
@@ -258,7 +258,7 @@ author_profile: true
               <div class="inner">
                   <div class="avatar">
                   <a href="#">
-                      <img src="/images/teams/" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
+                      <img src="" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
                       </a>
                   </div>
                   <h5>Prof. Ravi Vatrapu</h5>
