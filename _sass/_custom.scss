@@ -89,6 +89,7 @@ img {
 .m-0{
   margin: 0px !important
 }
+
 .icon-collapse{
   display: block;
   cursor: pointer;
@@ -240,6 +241,9 @@ img {
 }
 .archive a:hover img {
   box-shadow: none;
+}
+a{
+  text: none !important;
 }
 .team.boxed-grey.text-center:hover {
   box-shadow: 0 0 10px rgba(0,0,0,0.25);
