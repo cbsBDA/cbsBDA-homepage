@@ -17,6 +17,9 @@
   .masthead__menu-item.logo {
     max-width: 140px;
   }
+  .pull-right .greedy-nav .visible-link a{
+    margin: 0 2rem;
+  }
 }
 @media (min-width: 48em)
 {
@@ -40,7 +43,7 @@
 }
 
 @media (max-width: 80em){
-  .pull-right .greedy-nav .visible-link a{
+  .greedy-nav .visible-link a{
     font-size: 12.5px;
     margin: 0 2rem;
   }
