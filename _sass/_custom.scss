@@ -89,10 +89,6 @@ img {
 .m-0{
   margin: 0px !important
 }
-.accordion .accDetail{
-  padding-left: 0px;
-  padding-right: 0px;
-}
 .icon-collapse{
   display: block;
   cursor: pointer;
@@ -484,6 +480,7 @@ img {
 .accordion .accDetail{
   padding: 5px 0px;
 }
+
 .accordion h3.accHeader {
     background-color: #bdc1c4 !important;
     cursor: pointer;
@@ -505,7 +502,6 @@ img {
   margin-top: 0px !important;
 }
 .accordion .accDetail {
-    padding: 5px 15px;
     margin-bottom: 5px;
 }
 .company-social{
