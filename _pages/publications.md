@@ -377,7 +377,6 @@ author_profile: true
                                 </h3>
                                 <div class="accDetail panel-collapse collapse" id="publication2016">
 
-                                    <h1 id="2019">2016</h1>
 
                                     <p>
                                         <strong>21. [C]</strong>.Lasrado, Lester Allan ; Vatrapu, Ravi ; Andersen, Kim Normann.
