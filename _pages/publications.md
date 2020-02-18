@@ -31,7 +31,7 @@ author_profile: true
 
                         <div class="inner">
 
-                            <div class="accordion">
+                            <div class="accordion" id="accordion">
                                 <h3 class="accHeader mt-0" headerindex="0h">
                                     <span class="accordprefix">
                                         <i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
