@@ -363,7 +363,7 @@ author_profile: true
                                         <strong>22. [C]</strong>.Lasrado, Lester Allan ; Vatrapu, Ravi ; Mukkamala, Raghava Rao.
                                         <strong> Whose Maturity is it Anyway? The Influence of Different Quantitative Methods on the Design and Assessment of Maturity Models.</strong>
                                         In : ECIS 2017 Proceedings. Atlanta, GA : Association for Information Systems. AIS Electronic Library (AISeL), 2017. pp. 2918-2927 (Proceedings of the European Conference on Information Systems).
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2017_ECIS_Whose_Maturity_Is_It_Anyway.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <h1 id="2019">2016</h1>
