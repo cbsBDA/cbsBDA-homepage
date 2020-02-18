@@ -151,7 +151,7 @@ author_profile: true
                                         <strong>51. [C]</strong>.Zheng, Xiaochen ; Mukkamala, Raghava Rao ; Vatrapu, Ravi ; Ordieres-Mere, Joaqun.
                                         <strong>Blockchain-based Personal Health Data Sharing System Using Cloud Storage.</strong>
                                         In: 2018 IEEE 20th International Conference on E-Health Networking, Applications and Services (Healthcom). editor / Jan Kubicek. Los Alamos, CA : IEEE, 2018.
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2018-Healthcom-blockchain-publichealth-data.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
@@ -165,7 +165,7 @@ author_profile: true
                                         <strong>49. [C]</strong>.Harlev, Mikkel Alexander ; Sun Yin, Haohua ; Langenheldt, Klaus Christian ; Mukkamala, Raghava Rao ; Vatrapu, Ravi.
                                         <strong>Breaking Bad : De-Anonymising Entity Types on the Bitcoin Blockchain Using Supervised Machine Learning.</strong>
                                         In: Proceedings of the 51st Hawaii International Conference on System Sciences 2018. Honolulu : Hawaii International Conference on System Sciences (HICSS), 2018. pp. 3497-3506 (Proceedings of the Annual Hawaii International Conference on System Sciences).
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2018_HICSS_bitcoin_paper.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
