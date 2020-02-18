@@ -172,7 +172,7 @@ author_profile: true
                                         <strong>48. [C]</strong>.Siikanen, M., Baltakys, K., Kanniainen, J., Vatrapu, R., Mukkamala, R. R. & Hussain, ASiikanen, Milla ; Baltakys, Kęstutis ; Kanniainen, Juho ; Vatrapu, Ravi ; Mukkamala, Raghava Rao ; Hussain, Abid.
                                         <strong>Facebook Drives Behavior of Passive Households in Stock Markets.</strong>
                                         In: Finance Research Letters. 2018 ; Vol. 27. pp. 208-213.
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2018_Finance_Research_letters_Facebook_data_journal.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
@@ -221,14 +221,14 @@ author_profile: true
                                         <strong>41. [C]</strong>.Flesch, Benjamin ; Vatrapu, Ravi ; Mukkamala, Raghava Rao ; Madsen, René.
                                         <strong>Visualization of Crowd Trajectory, Geospatial Sets, and Audience Prediction at Roskilde Festival 2018.</strong>
                                         In :  ICIS 2018 Pre-Conference Workshop Proceedings: Special Interest Group on Geographic Information Systems. Atlanta, GA : Association for Information Systems. AIS Electronic Library (AISeL), 2018.
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2018_Visualization-Crowd-Trajectory-Geospatial-Sets-Audience.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
                                         <strong>40. [C]</strong>.An, Qi ; Grimmig Christensen, Morten ; Ramachandran, Annith ; Mukkamala, Raghava Rao ; Vatrapu, Ravi.
                                         <strong>Volkswagen’s Diesel Emission Scandal : Analysis of Facebook Engagement and Financial Outcomes.</strong>
                                         In : Big Data – BigData 2018: 7th International Congress, Held as Part of the Services Conference Federation, SCF 2018, Seattle, WA, USA, June 25–30, 2018, Proceedings. editor / Francis Y. L. Chin ; C. L. Philip Chen ; Latifur Khan ; Kisung Lee ; Liang-Jie Zhang. Cham : Springer, 2018. pp. 260-276 (Lecture Notes in Computer Science, Vol. 10968).
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2018_Bigdata_Congress_VolkswagenSDieselEmissionScandal.pdf" target="_blank">PDF</a>)
                                     </p>
                                     </div>
                                     <h3 class="accHeader" headerindex="0h">
