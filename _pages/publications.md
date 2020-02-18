@@ -51,7 +51,7 @@ author_profile: true
                                         <strong>64. [C]</strong>. Faber, Benedict ; Michelet, Georg ; Weidmann, Niklas ; Mukkamala, Raghava Rao ; Vatrapu, Ravi.
                                         <strong>BPDIMS : BPDIMS: A Blockchain-based Personal Data and Identity Management System</strong>
                                         In: Proceedings of the 52nd Hawaii International Conference on System Sciences. Honolulu : Hawaii International Conference on System Sciences (HICSS), 2019. pp. 6855-6864 (Proceedings of the Annual Hawaii International Conference on System Sciences).
-                                        (<a href="/files/publication/2019_HICSS_Blockchian_Personal_data" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2019_HICSS_Blockchian_Personal_data.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
