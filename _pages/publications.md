@@ -393,28 +393,28 @@ author_profile: true
                                         <strong>18. [C]</strong>.Straton, Nadiya ; Hansen, Kjeld ; Mukkamala, Raghava Rao ; Hussain, Abid ; Grønli, Tor-Morten ; Langberg, Henning ; Vatrapu, Ravi.
                                         <strong> Big Social Data Analytics for Public Health : Facebook Engagement and Performance.</strong>
                                         In : 2016 IEEE 18th International Conference on e-Health Networking, Applications and Services (Healthcom). editor / Alois Paulin. Los Alamitos, CA : IEEE, 2016. pp. 442-447.
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2016_healthcom-bigsocialdata.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
                                         <strong>17. [C]</strong>.Hennig, Anna ; Åmodt, Anne-Sofie ; Hernes, Henrik ; Nygårdsmoen, Helene Mejer ; Arenfeldt Larsen, Peter ; Mukkamala, Raghava Rao ; Flesch, Benjamin ; Hussain, Abid ; Vatrapu, Ravi.
                                         <strong> Big Social Data Analytics of Changes in Consumer Behaviour and Opinion of a TV Broadcaster.</strong>
                                         In : Proceedings - 2016 IEEE International Conference on Big Data, Big Data 2016. editor / Ronay Ak ; George Karypis ; Yinglong Xia ; Xiaohua Tony Hu ; Philip S. Yu ; James Joshi ; Lyle Ungar ; Ling Liu ; Aki-Hiro Sato ; Toyotaro Suzumura ; Sudarsan Rachuri ; Rama Govindaraju ; Weijia Xu. Piscataway, NJ : IEEE, 2016. pp. 3839-3848.
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2016_IEEE_BigData_TV2_Social_data_main.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
                                         <strong>16. [C]</strong>.Hansen, Kjeld S. ; Mukkamala, Raghava Rao ; Hussain, Abid ; Grønli, Tor-Morten ; Langberg, Henning ; Vatrapu, Ravi.
                                         <strong> Big Social Data in Public Health : A Mixed-Methods Case Study of Sundhed.dk's Facebook Strategy, Engagement, and Performance.</strong>
                                         In : Proceedings of the 7th International Conference on Emerging Ubiquitous Systems and Pervasive Networks (EUSPN 2016)/The 6th International Conference on Current and Future Trends of Information and Communication Technologies in Healthcare (ICTH-2016)/Affiliated Workshops. editor / Ansar-Ul-Haque Yasar ; Nik Bessis. Amsterdam : Elsevier, 2016. pp. 298-307 (Procedia Computer Science, Vol. 98).
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2016_ICTH_public_health_sundhed.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
                                         <strong>15. [C]</strong>.Jussila, Jari ; Menon, Karan ; Mukkamala, Raghava Rao ; Lasrado, Lester Allan ; Hussain, Abid ; Vatrapu, Ravi ; Kärkkäinen, Hannu ; Huhtamäki, Jukka.
                                         <strong> Crowdfunding in the Development of Social Media Fanbase : Case Study of Two Competing Ecosystems.</strong>
                                         In : Proceedings of the 49th Hawaii International Conference on System Sciences (HICSS 2016). editor / Ralph H. Sprague ; Tung X. Bui. Los Alamitos, CA : IEEE, 2016. pp. 4495-4504 (Proceedings of the Annual Hawaii International Conference on System Sciences).
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2016_HICSSC_Crowdfunding.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
@@ -435,21 +435,21 @@ author_profile: true
                                         <strong>12. [C]</strong>.Boldt, Linda Camilla ; Vinayagamoorthy, Vinothan ; Winder, Florian ; Melanie, Schnittger ; Ekram, Mats ; Mukkamala, Raghava Rao ; Buus Lassen, Niels ; Flesch, Benjamin ; Hussain, Abid ; Vatrapu, Ravi.
                                         <strong> Forecasting Nike’s Sales using Facebook Data.</strong>
                                         In : Proceedings - 2016 IEEE International Conference on Big Data, Big Data 2016. editor / Ronay Ak ; George Karypis ; Yinglong Xia ; Xiaohua Tony Hu ; Philip S. Yu ; James Joshi ; Lyle Ungar ; Ling Liu ; Aki-Hiro Sato ; Toyotaro Suzumura ; Sudarsan Rachuri ; Rama Govindaraju ; Weijia Xu. Piscataway, NJ : IEEE, 2016. pp. 2447-2456.
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2016-IEEE-Bigdata-Nike-Socialdata.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
                                         <strong>11. [C]</strong>.Korsholm Poulsen, Lasse ; Dekkers, Daan ; Wagenaar, Nicolaas ; Snijders, Wesley ; Lewinsky, Ben ; Mukkamala, Raghava Rao ; Vatrapu, Ravi.
                                         <strong> Green Cabs vs. Uber in New York City.</strong>
                                         In : Proceedings of the 2016 IEEE International Congress on Big Data. BigData Congress 2016. editor / Calton Pu ; Geoffrey Fox ; Ernesto Damiani. Los Alamitos, CA : IEEE, 2016. pp. 222–229.
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2016_IEEE_Bigdata_NY_Taxi_Rides.pdf#page=1&zoom=auto,-265,792" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
                                         <strong>10. [C]</strong>.Prakash Gupta, Jayesh ; Menon, Karan ; Kärkkäinen, Hannu ; Huhtamäki, Jukka ; Mukkamala, Raghava Rao ; Hussain, Abid ; Vatrapu, Ravi ; Jussila, Jari ; Pirkkalainen, Henri.
                                         <strong>  Identifying Weak Ties from Publicly Available Social Media Data in an Event.</strong>
                                         In : Academic Mindtrek 2016 : Proceedings of the 20th International Academic Mindtrek Conference 2016. New York : Association for Computing Machinery, 2016. pp. 11-19.
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2016_ACM_Mindtrek_Paper.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
@@ -498,7 +498,7 @@ author_profile: true
                                         <strong>3. [C]</strong>.Vatrapu, Ravi ; Mukkamala, Raghava Rao ; Hussain, Abid ; Flesch, Benjamin.
                                         <strong> Social Set Analysis : A Set Theoretical Approach to Big Data Analytics.</strong>
                                         In : IEEE Access. 2016 ; Vol. 4. pp. 2542-2571.
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2016_IEEE_Access_Journal_SSA.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
@@ -512,7 +512,7 @@ author_profile: true
                                         <strong>1. [C]</strong>.Flesch, Benjamin ; Vatrapu, Ravi ; Mukkamala, Raghava Rao ; Hussain, Abid.
                                         <strong> Social Set Visualizer (SoSeVi) II : Interactive Social Set Analysis of Big Data.</strong>
                                         In : Proceedings of the International Workshop on Set Visualization and Reasoning, SetVR 2016. editor / Sven Linker ; Peter Rodgers. Vol. 1655 Aachen : CEUR, 2016. pp. 19-28 (CEUR Workshop Proceedings, Vol. 1655).
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2016_SETVR_SoSeVi-Interactive_Social_Set_Analysis_of_BigData.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                 </div>
