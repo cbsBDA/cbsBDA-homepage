@@ -244,7 +244,7 @@ author_profile: true
                                         <strong>39. [C]</strong>.Flesch, Benjamin ; Vatrapu, Ravi ; Mukkamala, Raghava Rao.
                                         <strong> A Big Social Media Data Study of the 2017 German Federal Election Based on Social Set Analysis of Political Party Facebook Pages with SoSeVi.</strong>
                                         In : Proceedings. 2017 IEEE International Conference on Big Data: IEEE Big Data 2017. editor / Jian-Yun Nie ; Zoran Obradovic ; Toyotaro Suzumura ; Rumi Ghosh ; Raghunath Nambiar ; Chonggang Wang ; Hui Zang ; Ricardo Baeza-Yates ; Xiaohua Hu ; Jeremy Kepner ; Alfredo Cuzzocrea ; Jian Tang ; Masashi Toyoda. Los Alamitos, CA : IEEE, 2017. pp. 2720-2729.
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2017_IEEE_BigData_Sosevi-German-Elections.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
@@ -265,7 +265,7 @@ author_profile: true
                                         <strong>36. [C]</strong>.Reichert, Jonathan-Raphael ; Kristensen, Klaus Langholz ; Mukkamala, Raghava Rao ; Vatrapu, Ravi.
                                         <strong>A Supervised Machine Learning Study of Online Discussion Forums about Type-2 Diabetes.</strong>
                                         In : 2017 IEEE 19th International Conference on e-Health Networking, Applications and Services (Healthcom). editor / Hsi Pin Ma ; Baofeng Wang. Los Alamos, CA : IEEE, 2017. pp. 1-7.
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2017_IEEE-Healthcom-Patient-journey-cam.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
@@ -286,14 +286,14 @@ author_profile: true
                                         <strong>33. [C]</strong>.Straton, Nadiya ; Mukkamala, Raghava Rao ; Vatrapu, Ravi.
                                         <strong>Big Social Data Analytics for Public Health : Predicting Facebook Post Performance Using Artificial Neural Networks and Deep Learning.</strong>
                                         In : Proceedings of the 6th IEEE International Congress on Big Data. BigData Congress 2017. editor / George Karypis ; Jia Zhang. Los Alamitos, CA : IEEE, 2017. pp. 89-96.
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2017-IEEE-BigData-Congress-PH-Neural-networks.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
                                         <strong>32. [C]</strong>.Straton, Nadiya ; Mukkamala, Raghava Rao ; Vatrapu, Ravi.
                                         <strong>Big Social Data Analytics for Public Health : Comparative Methods Study and Performance Indicators of Health Care Content on Facebook.</strong>
                                         In : Proceedings. 2017 IEEE International Conference on Big Data: IEEE Big Data 2017. editor / Jian-Yun Nie ; Zoran Obradovic ; Toyotaro Suzumura ; Rumi Ghosh ; Raghunath Nambiar ; Chonggang Wang ; Hui Zang ; Ricardo Baeza-Yates ; Xiaohua Hu ; Jeremy Kepner ; Alfredo Cuzzocrea ; Jian Tang ; Masashi Toyoda. Los Alamitos, CA : IEEE, 2017. pp. 2772-2777.
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2017_IEEE_BigData_PH_Comparative_study.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
