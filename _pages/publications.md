@@ -300,14 +300,14 @@ author_profile: true
                                         <strong>31. [C]</strong>.Egebjerg, Nicolai H. ; Hedegaard, Niklas ; Kuum, Gerda ; Mukkamala, Raghava Rao ; Vatrapu, Ravi.
                                         <strong>Big Social Data Analytics in Football : Predicting Spectators and TV Ratings from Facebook Data.</strong>
                                         In : Proceedings of the 6th IEEE International Congress on Big Data. BigData Congress 2017. editor / George Karypis ; Jia Zhang. Los Alamitos, CA : IEEE, 2017. pp. 81-88.
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2017-IEEE-Bigdata-congress-Danish-Football.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
                                         <strong>30. [C]</strong>.Komtesse af Rosenborg, Desiree Christina ; Buhl-Andersen, Ida ; Nilsson, Line Bygvrå ; Rebild, Mark Philip ; Mukkamala, Raghava Rao ; Hussain, Abid ; Vatrapu, Ravi.
                                         <strong>Buzz vs. Sales : Big Social Data Analytics of Style Icon Campaigns and Fashion Designer Collaborations on H&M’s Facebook Page.</strong>
                                         In :  Proceedings of the 50th Hawaii International Conference on System Sciences (HICSS) 2017. Honolulu : Hawaii International Conference on System Sciences (HICSS), 2017. pp. 1861-1870.
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2017_HICSS_HM_style_icons.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
@@ -321,21 +321,21 @@ author_profile: true
                                         <strong>28. [C]</strong>.Straton, Nadiya ; Vatrapu, Ravi ; Mukkamala, Raghava Rao.
                                         <strong>Facebook and Public Health : A Study to Understand Facebook Post Performance with Organizations’ Strategy.</strong>
                                         In : Proceedings. 2017 IEEE International Conference on Big Data: IEEE Big Data 2017. editor / Jian-Yun Nie ; Zoran Obradovic ; Toyotaro Suzumura ; Rumi Ghosh ; Raghunath Nambiar ; Chonggang Wang ; Hui Zang ; Ricardo Baeza-Yates ; Xiaohua Hu ; Jeremy Kepner ; Alfredo Cuzzocrea ; Jian Tang ; Masashi Toyoda. Los Alamitos, CA : IEEE, 2017. pp. 3123-3132.
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2017_IEEE_BigData_PH_survey.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
                                         <strong>27. [C]</strong>.Torre, Osku ; Gupta , Jayesh Prakash ; Kärkkäinen, Hannu ; Pirkkalainen, Henri ; Vatrapu, Ravi ; Mukkamala, Raghava Rao ; Hussain, Abid.
                                         <strong> Integrating Micro-level Interactions with Social Network Analysis in Tie Strength Research : The Edge-centered Approach.</strong>
                                         In : Proceedings of the 21st International Academic Mindtrek Conference. editor / Markku Turunen ; Heli Väätäjä ; Janne Paavilainen ; Thomas Olsson. New York : Association for Computing Machinery, 2017. pp. 203-209.
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2017_Mindtrek_p203-torro.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
                                         <strong>26. [C]</strong>.Kinra, Aseem ; Mukkamala, Raghava Rao ; Vatrapu, Ravi.
                                         <strong> Methodological Demonstration of a Text Analytics Approach to Country Logistics System Assessments.</strong>
                                         In : Dynamics in Logistics: Proceedings of the 5th International Conference LDIC, 2016 Bremen, Germany. editor / Michael Freitag ; Herbert Kotzab ; Jürgen Pannek. Cham : Springer, 2017. pp. 119-129 (Lecture Notes in Logistics).
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2017_LDIC_transportation_logistics.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
@@ -356,7 +356,7 @@ author_profile: true
                                         <strong>23. [C]</strong>.Xiao, Xiao ; Hedman, Jonas ; Tan, Felix Ter Chian ; Tan, Chee-Wee ; Lim, Eric T. K. ; Clemmensen, Torkil ; Henningsson, Stefan ; Mukkamala, Raghava Rao ; Vatrapu, Ravi ; Hillegersberg, Jos van.
                                         <strong> Sports Digitalization : An Overview and a Research Agenda.</strong>
                                         In : ICIS 2017 Proceedings. Atlanta, GA : Association for Information Systems. AIS Electronic Library (AISeL), 2017. (Proceedings of the International Conference on Information Systems).
-                                        (<a href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2017_ICIS_Sport_Digitalization.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
