@@ -366,6 +366,17 @@ author_profile: true
                                         (<a href="/files/publication/2017_ECIS_Whose_Maturity_Is_It_Anyway.pdf" target="_blank">PDF</a>)
                                     </p>
 
+
+                                </div>
+                                <h3 class="accHeader" headerindex="0h">
+                                    <span class="accordprefix">
+                                        <i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
+                                    </span> <a class="icon-collapse font-fff collapsed" data-toggle="collapse" data-parent="#accordion" href="#publication2016"><i class="pull-right fa fa-plus"></i><i class="pull-right fa fa-minus"></i>
+                                    2016
+                                    </a>
+                                </h3>
+                                <div class="accDetail panel-collapse collapse" id="publication2016">
+
                                     <h1 id="2019">2016</h1>
 
                                     <p>
@@ -514,7 +525,6 @@ author_profile: true
                                         In : Proceedings of the International Workshop on Set Visualization and Reasoning, SetVR 2016. editor / Sven Linker ; Peter Rodgers. Vol. 1655 Aachen : CEUR, 2016. pp. 19-28 (CEUR Workshop Proceedings, Vol. 1655).
                                         (<a href="/files/publication/2016_SETVR_SoSeVi-Interactive_Social_Set_Analysis_of_BigData.pdf" target="_blank">PDF</a>)
                                     </p>
-
                                 </div>
                             </div>
                         </div>
