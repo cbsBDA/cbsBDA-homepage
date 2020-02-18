@@ -44,7 +44,7 @@ author_profile: true
                                         <strong>65. [J]</strong>. Zheng, Xiaochen ; Sun, Shengjing ; Mukkamala, Raghava Rao ; Vatrapu, Ravi ; Ordieres-Meré, Joaquín.
                                         <strong>Accelerating Health Data Sharing : A Solution Based on the Internet of Things and Distributed Ledger Technologies.</strong>
                                         In: Journal of Medical Internet Research. 2019 ; Vol. 21, No. 6.
-                                        (<a href="https://raghavamukkamala.github.io/files/pubs/2019-JMIR-IOTA-Health-Data-Sharing.pdf" target="_blank" rel="noopener">PDF</a>)
+                                        (<a href="/files/publication/2019-JMIR-IOTA-Health-Data-Sharing.pdf" target="_blank" rel="noopener">PDF</a>)
                                     </p>
 
                                     <p>
