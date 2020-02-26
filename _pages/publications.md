@@ -79,7 +79,7 @@ author_profile: true
                                         <strong>60. [C]</strong>.Gupta , Jayesh Prakash ; Kärkkäinen, Hannu ; Menon, Karan ; Huhtamäki, Jukka ; Mukkamala, Raghava Rao ; Hussain, Abid ; Vatrapu, Ravi ; Jussila, Jari ; Pirkkalainen, Henri ; Olsson, Thomas.
                                         <strong>Identifying Different Types of Social Ties in Events from Publicly Available Social Media Data.</strong>
                                         In: Proceedings of the 11th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K 2019): Volume 3: KMIS. editor / Jorge Bernardino ; Ana Salgado ; Joaquim Filipe. Setúbal : SCITEPRESS Digital Library, 2019. pp. 176-186.
-                                        (<a class="empty_link" href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/60-KMIS_2019_12_CR.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
@@ -114,7 +114,7 @@ author_profile: true
                                         <strong>55. [C]</strong>.Kunst, Katrine ; Vatrapu, Ravi.
                                         <strong>Understanding Electronic Word of Behavior : Conceptualization of the Observable Digital Traces of Consumers’ Behaviors.</strong>
                                         In:  In: Electronic Markets. 2019 ; Vol. 29, No. 3. pp. 323-336.
-                                        (<a class="empty_link" href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/55-katrine_kunst_et_al_understanding_electronic_word_of_behavior_acceptedmanuscript.pdf" target="_blank">PDF</a>)
                                     </p>
                                     </div>
                                     <h3 class="accHeader" headerindex="0h">
@@ -144,7 +144,7 @@ author_profile: true
                                         <strong>52. [C]</strong>.Jensen, Thomas ; Vatrapu, Ravi ; Bjørn-Andersen, Niels.
                                         <strong>Avocados Crossing Borders : The Problem of Runaway Objects and the Solution of a Shipping Information Pipeline for Improving International Trade.</strong>
                                         In:  Information Systems Journal. 2018 ; Vol. 28, No. 2. pp. 408-438.
-                                        (<a class="empty_link" href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/52-thomas_jensen_avocados_crossing_borders_acceptedmanuscript.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
@@ -179,14 +179,14 @@ author_profile: true
                                         <strong>47. [C]</strong>.Gruzd, Anatoliy ; Jacobson, Jenna ; Mai, Philip ; Hemsley, Jeff ; Kwon, K.Hazel ; Vatrapu, Ravi ; Quan-Haase, Anabel ; Sloan, Luke ; Hodson, Jaigris.
                                         <strong>Introduction to the 2018 International Conference on Social Media & Society.</strong>
                                         In: Proceedings of the 9th International Conference on Social Media and Society: SMSociety '18. editor / Anatoliy Gruzd ; Jenna Jacobson ; Philip Mai ; Jeff Hemsley ; K. Hazel Kwon ; Ravi Vatrapu ; Anabel Quan-Haase ; Luke Sloan ; Jaigris Hodson. New York : Association for Computing Machinery, 2018. pp. 1-4 (ACM International Conference Proceeding Series).
-                                        (<a class="empty_link" href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/47-3217804.3217891.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
                                         <strong>46. [C]</strong>.la Cour, Lisbeth ; Milhøj, Anders ; Vatrapu, Ravi ; Buus Lassen, Niels.
                                         <strong>Predicting the Daily Sales of Mikkeller Bars Using Facebook Data.</strong>
                                         In: Symposium i anvendt statistik: 22.-24. januar 2018. editor / Peter Linde. København : Københavns Universitet, 2018. pp. 125-141.
-                                        (<a class="empty_link" href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a class="empty_link" href="/files/publication/46-lisbeth_la_cour_et_al_predicting_the_sales_published_version.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
@@ -214,7 +214,7 @@ author_profile: true
                                         <strong>42. [C]</strong>.Baldin, Andrea ; Bille, Trine ; Mukkamala, Raghava Rao ; Vatrapu, Ravi.
                                         <strong>he Impact of Social Media Activities in Theater Demand.</strong>
                                         In :  Paper presented at The 20th International Conference on Cultural Economics. ACEI 2018, Melbourne, Australia.19 p.
-                                        (<a class="empty_link" href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a class="empty_link" href="/files/publication/42-The impact of social.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
@@ -251,14 +251,14 @@ author_profile: true
                                         <strong>38. [C]</strong>.Sun Yin, Haohua ; Vatrapu, Ravi.
                                         <strong>A First Estimation of the Proportion of Cybercriminal Entities in the Bitcoin Ecosystem using Supervised Machine Learning.</strong>
                                         In : Proceedings. 2017 IEEE International Conference on Big Data: IEEE Big Data 2017. editor / Jian-Yun Nie ; Zoran Obradovic ; Toyotaro Suzumura ; Rumi Ghosh ; Raghunath Nambiar ; Chonggang Wang ; Hui Zang ; Ricardo Baeza-Yates ; Xiaohua Hu ; Jeremy Kepner ; Alfredo Cuzzocrea ; Jian Tang ; Masashi Toyoda. Los Alamitos, CA : IEEE, 2017. pp. 3690-3699.
-                                        (<a class="empty_link" href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a class="empty_link" href="/files/publication/38-Bitcoin_IEEE_BigData_2017S20207.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
                                         <strong>37. [C]</strong>.Mejia, Carolina ; Florian-Gaviria, Beatriz ; Vatrapu, Ravi ; Bull, Susan ; Gómez, Sergio Manuel Madero ; Fabregat, Ramon.
                                         <strong>A Novel Web-based Approach for Visualization and Inspection of Reading Difficulties on University Students.</strong>
                                         In : IEEE Transactions on Learning Technologies. 2017 ; Vol. 10, No. 1. pp. 53-67.
-                                        (<a class="empty_link" href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a class="empty_link" href="/files/publication/37-httptv.ida.dkvideo18030018techtopia-7-big-data-og-kunstig-intelligens.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
@@ -314,7 +314,7 @@ author_profile: true
                                         <strong>29. [C]</strong>.Kunst, Katrine ; Vatrapu, Ravi ; Hussain, Abid.
                                         <strong>Electronic Word of Behavior : Conceptual Framework and Research Design for Analyzing the Effect of Increased Digital Observability of Consumer Behaviors in a Movie Streaming Context.</strong>
                                         In :  Internetworked World: Revised Selected Papers of the 15th Workshop on e-Business, WeB 2016. editor / Ming Fan ; Jukka Heikkilä ; Hongxiu Li ; Michael J. Shaw ; Han Zhang. Cham : Springer, 2017. pp. 95-103 (Lecture Notes in Business Information Processing, Vol. 296).
-                                        (<a class="empty_link" href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/29-2017_Book_InternetworkedWorld.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
@@ -349,7 +349,7 @@ author_profile: true
                                         <strong>24. [C]</strong>.Buus Lassen, Niels ; la Cour, Lisbeth ; Milhøj, Anders ; Vatrapu, Ravi.
                                         <strong> Social Media Data as Predictors of Mikkeller Sales?</strong>
                                         In : Symposium i anvendt statistik: 23.-24. januar 2017. editor / Peter Linde. København : Danmarks Statistik, 2017. pp. 71-86.
-                                        (<a class="empty_link" href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/24-symp2017.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
@@ -382,14 +382,14 @@ author_profile: true
                                         <strong>21. [C]</strong>.Lasrado, Lester Allan ; Vatrapu, Ravi ; Andersen, Kim Normann.
                                         <strong>  A Methodological Demonstration of Set-theoretical Approach to Social Media Maturity Models Using Necessary Condition Analysis.</strong>
                                         In : PACIS 2016 Proceedings. editor / Patrick Y.K. Chau ; She-I Chang. Atlanta, GA : Association for Information Systems. AIS Electronic Library (AISeL), 2016.
-                                        (<a class="empty_link" href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/21-A_Methodological_Demonstration_of_Set-Theoretical_Approach_to_Soc.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
                                         <strong>20. [C]</strong>.Lasrado, Lester ; Vatrapu, Ravi ; Andersen, Kim Normann.
                                         <strong>  A Set Theoretical Approach to Maturity Models : Guidelines and Demonstration.</strong>
                                         In :  ICIS 2016 Proceedings. Atlanta, GA : Association for Information Systems. AIS Electronic Library (AISeL), 2016. pp. 20 (Proceedings of the International Conference on Information Systems, Vol. 37).
-                                        (<a class="empty_link" href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/20-ravi_vatrapu_a_set_theoretical_publishersversion.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
@@ -431,14 +431,14 @@ author_profile: true
                                         <strong>14. [C]</strong>.Zimmerman, Chris ; Stein, Mari-Klara ; Hardt, Daniel ; Danielsen, Christian de Fries ; Vatrapu, Ravi.
                                         <strong> emotionVis : Designing an Emotion Text Inference Tool for Visual Analytics.</strong>
                                         In : Tackling Society’s Grand Challenges with Design Science: Proceedings of the 11th International Conference, DESRIST 2016. editor / Jeffrey Parsons ; Tuure Tuunanen ; John Venable ; Brian Donnellan ; Markus Helfert ; Jim Kenneally. Chams : Springer Science+Business Media, 2016. pp. 238–244 (Lecture Notes in Computer Science, Vol. 9661).
-                                        (<a class="empty_link" href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/14-Zimmerman2016_Chapter_EmotionVisDesigningAnEmotionTe.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
                                         <strong>13. [C]</strong>.Pantazos, Kostas ; Vatrapu, Ravi.
                                         <strong> Enhancing the Professional Vision of Teachers : A Physiological Study of Teaching Analytics Dashboards of Students’ Repertory Grid Exercises in Business Education.</strong>
                                         In : Proceedings of the 49th Hawaii International Conference on System Sciences (HICSS 2016). editor / Tung Bui ; Ralph H. Sprague, Jr. Loa Alamitos, CA : IEEE, 2016. pp. 41-50 (Proceedings of the Annual Hawaii International Conference on System Sciences).
-                                        (<a class="empty_link" href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/13-conference-proceeding.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
@@ -515,7 +515,7 @@ author_profile: true
                                         <strong>2. [C]</strong>.Flesch, Benjamin ; Vatrapu, Ravi.
                                         <strong> Social Set Visualizer (SoSeVi) II : Interactive Computational Set Analysis of Big Social Data.</strong>
                                         In : 2016 IEEE 20th International Enterprise Distributed Object Computing Workshop (EDOCW 2016). editor / Stefanie Rinderle-Ma ; Luis Ferreira Pires ; Remco Dijkman. Los Alamitos, CA : IEEE, 2016. pp. 332-335 (Proceedings of the Enterprise Distributed Object Computing Conference Workshops. EDOCW, Vol. 2016).
-                                        (<a class="empty_link" href="/files/publication/" target="_blank">PDF</a>)
+                                        (<a class="empty_link" href="/files/publication/2-niels_buss_lassen_towards_a_theory_of_social_data_publishersversion.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
