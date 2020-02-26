@@ -13,8 +13,8 @@ main:
   - title: "AWARDS"
     url: awards/
 
-  - title: "SOFTWARE"
-    url: software/
+  # - title: "SOFTWARE"
+  #   url: software/
 
   - title: "PROJECTS"
     url: projects/
