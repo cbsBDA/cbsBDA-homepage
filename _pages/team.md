@@ -140,25 +140,6 @@ author_profile: true
                 <div class="inner">
                     <div class="avatar">
                     <a href="#">
-                        <img src="/images/teams/bm0108_nr3_ravi_vatrapu_5405.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
-                        </a>
-                    </div>
-                    <h5>Prof. Ravi Vatrapu</h5>
-                    <p class="subtitle">Founder Director</p>
-                </div>
-                <span class="tooltiptext">Prof. Ravi Vatrapu <br/> Founder Director </span>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="row mb-15 xs-mb-0">
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15">
-        <div class="wow bounceInUp animated animated">
-            <div class="team boxed-grey text-center">
-                <div class="inner">
-                    <div class="avatar">
-                    <a href="#">
                         <img src="/images/teams/Povl.jpg" alt='Povl' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
@@ -169,6 +150,10 @@ author_profile: true
             </div>
         </div>
     </div>
+</div>
+
+<div class="row mb-15 xs-mb-0">
+
     <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
@@ -217,9 +202,6 @@ author_profile: true
             </div>
         </div>
     </div>
-</div>
-
-<div class="row mb-15 xs-mb-0">
     <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
@@ -236,6 +218,10 @@ author_profile: true
             </div>
         </div>
     </div>
+</div>
+
+<div class="row mb-15 xs-mb-0">
+
     <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
@@ -284,9 +270,6 @@ author_profile: true
             </div>
         </div>
     </div>
-</div>
-
-<div class="row mb-15 xs-mb-0">
     <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
@@ -303,6 +286,10 @@ author_profile: true
             </div>
         </div>
     </div>
+</div>
+
+<div class="row mb-15 xs-mb-0">
+
 
 </div>
 <div class="heading-about">
