@@ -186,7 +186,7 @@ author_profile: true
                                         <strong>46. [C]</strong>.la Cour, Lisbeth ; Milhøj, Anders ; Vatrapu, Ravi ; Buus Lassen, Niels.
                                         <strong>Predicting the Daily Sales of Mikkeller Bars Using Facebook Data.</strong>
                                         In: Symposium i anvendt statistik: 22.-24. januar 2018. editor / Peter Linde. København : Københavns Universitet, 2018. pp. 125-141.
-                                        (<a class="empty_link" href="/files/publication/46-lisbeth_la_cour_et_al_predicting_the_sales_published_version.pdf" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/46-lisbeth_la_cour_et_al_predicting_the_sales_published_version.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
@@ -251,14 +251,14 @@ author_profile: true
                                         <strong>38. [C]</strong>.Sun Yin, Haohua ; Vatrapu, Ravi.
                                         <strong>A First Estimation of the Proportion of Cybercriminal Entities in the Bitcoin Ecosystem using Supervised Machine Learning.</strong>
                                         In : Proceedings. 2017 IEEE International Conference on Big Data: IEEE Big Data 2017. editor / Jian-Yun Nie ; Zoran Obradovic ; Toyotaro Suzumura ; Rumi Ghosh ; Raghunath Nambiar ; Chonggang Wang ; Hui Zang ; Ricardo Baeza-Yates ; Xiaohua Hu ; Jeremy Kepner ; Alfredo Cuzzocrea ; Jian Tang ; Masashi Toyoda. Los Alamitos, CA : IEEE, 2017. pp. 3690-3699.
-                                        (<a class="empty_link" href="/files/publication/38-Bitcoin_IEEE_BigData_2017S20207.pdf" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/38-Bitcoin_IEEE_BigData_2017S20207.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
                                         <strong>37. [C]</strong>.Mejia, Carolina ; Florian-Gaviria, Beatriz ; Vatrapu, Ravi ; Bull, Susan ; Gómez, Sergio Manuel Madero ; Fabregat, Ramon.
                                         <strong>A Novel Web-based Approach for Visualization and Inspection of Reading Difficulties on University Students.</strong>
                                         In : IEEE Transactions on Learning Technologies. 2017 ; Vol. 10, No. 1. pp. 53-67.
-                                        (<a class="empty_link" href="/files/publication/37-httptv.ida.dkvideo18030018techtopia-7-big-data-og-kunstig-intelligens.pdf" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/37-httptv.ida.dkvideo18030018techtopia-7-big-data-og-kunstig-intelligens.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
@@ -515,7 +515,7 @@ author_profile: true
                                         <strong>2. [C]</strong>.Flesch, Benjamin ; Vatrapu, Ravi.
                                         <strong> Social Set Visualizer (SoSeVi) II : Interactive Computational Set Analysis of Big Social Data.</strong>
                                         In : 2016 IEEE 20th International Enterprise Distributed Object Computing Workshop (EDOCW 2016). editor / Stefanie Rinderle-Ma ; Luis Ferreira Pires ; Remco Dijkman. Los Alamitos, CA : IEEE, 2016. pp. 332-335 (Proceedings of the Enterprise Distributed Object Computing Conference Workshops. EDOCW, Vol. 2016).
-                                        (<a class="empty_link" href="/files/publication/2-niels_buss_lassen_towards_a_theory_of_social_data_publishersversion.pdf" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2-niels_buss_lassen_towards_a_theory_of_social_data_publishersversion.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
