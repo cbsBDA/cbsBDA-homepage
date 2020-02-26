@@ -214,7 +214,7 @@ author_profile: true
                                         <strong>42. [C]</strong>.Baldin, Andrea ; Bille, Trine ; Mukkamala, Raghava Rao ; Vatrapu, Ravi.
                                         <strong>he Impact of Social Media Activities in Theater Demand.</strong>
                                         In :  Paper presented at The 20th International Conference on Cultural Economics. ACEI 2018, Melbourne, Australia.19 p.
-                                        (<a class="empty_link" href="/files/publication/42-The impact of social.pdf" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/42-The impact of social.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
