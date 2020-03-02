@@ -85,8 +85,8 @@ author_profile: true
             </div>
         </div>
     </div>
-</div>
-<div class="row mb-15 xs-mb-0">
+<!-- </div>
+<div class="row mb-15 xs-mb-0"> -->
     <div class="col-xs-6 col-sm-3 col-md-2 xs-mb-15">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
@@ -151,9 +151,9 @@ author_profile: true
             </div>
         </div>
     </div>
-</div>
+<!-- </div>
 
-<div class="row mb-15 xs-mb-0">
+<div class="row mb-15 xs-mb-0"> -->
 
     <div class="col-xs-6 col-sm-3 col-md-2 xs-mb-15">
         <div class="wow bounceInUp animated animated">
@@ -219,9 +219,9 @@ author_profile: true
             </div>
         </div>
     </div>
-</div>
+<!-- </div>
 
-<div class="row mb-15 xs-mb-0">
+<div class="row mb-15 xs-mb-0"> -->
 
     <div class="col-xs-6 col-sm-3 col-md-2 xs-mb-15">
         <div class="wow bounceInUp animated animated">
