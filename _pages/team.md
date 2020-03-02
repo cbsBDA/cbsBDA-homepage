@@ -323,7 +323,7 @@ author_profile: true
                         </a>
                     </div>
                     <h5>Kiran Kocherla</h5>
-                    <p class="subtitle">Research Assistant</p>
+                    <p class="subtitle">Research Associate</p>
                 </div>
                 <span class="tooltiptext">Kiran Kocherla<br/>Research Associate  </span>
             </div>
