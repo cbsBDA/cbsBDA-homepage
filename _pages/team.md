@@ -123,6 +123,22 @@ author_profile: true
                 <div class="inner">
                     <div class="avatar">
                     <a href="#">
+                        <img src="/images/teams/Monica.jpg" alt='Monica Mundada' class="img-responsive img-circle table-bordered himg" />
+                        </a>
+                    </div>
+                    <h5>Monica Mundada</h5>
+                    <p class="subtitle">Selds </p>
+                </div>
+                <span class="tooltiptext">Monica Mundada<br/>Postdoc </span>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
+        <div class="wow bounceInUp animated animated">
+            <div class="team boxed-grey text-center">
+                <div class="inner">
+                    <div class="avatar">
+                    <a href="#">
                         <img src="/images/teams/Rajani_Sigh.jpg" alt='Rajani Singh' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
@@ -136,19 +152,20 @@ author_profile: true
     <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
-                <div class="inner">
-                    <div class="avatar">
-                    <a href="#">
-                        <img src="/images/teams/Monica.jpg" alt='Monica Mundada' class="img-responsive img-circle table-bordered himg" />
-                        </a>
-                    </div>
-                    <h5>Monica Mundada</h5>
-                    <p class="subtitle">Selds </p>
-                </div>
-                <span class="tooltiptext">Monica Mundada<br/>Postdoc </span>
+              <div class="inner">
+                  <div class="avatar">
+                  <a href="#">
+                      <img src="/images/teams/SeldaErenKanat.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
+                      </a>
+                  </div>
+                  <h5>Selda Eren Kanat</h5>
+                  <p class="subtitle">Research Associate</p>
+              </div>
+              <span class="tooltiptext">Selda Eren Kanat<br/>Postdoc</span>
             </div>
         </div>
     </div>
+
 
     <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
@@ -280,22 +297,7 @@ author_profile: true
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
-        <div class="wow bounceInUp animated animated">
-            <div class="team boxed-grey text-center">
-              <div class="inner">
-                  <div class="avatar">
-                  <a href="#">
-                      <img src="/images/teams/SeldaErenKanat.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
-                      </a>
-                  </div>
-                  <h5>Selda Eren Kanat</h5>
-                  <p class="subtitle">Research Associate</p>
-              </div>
-              <span class="tooltiptext">Selda Eren Kanat<br/>Research Associate </span>
-            </div>
-        </div>
-    </div>
+
     <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
