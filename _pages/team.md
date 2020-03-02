@@ -79,9 +79,9 @@ author_profile: true
                         <img src="/images/teams/laster.jpg" alt='Lester Lasrado' class="img-responsive img-circle table-bordered himg" />
                     </div>
                     <h5>Lester Lasrado</h5>
-                    <p class="subtitle">Research Associate</p>
+                    <p class="subtitle">Associate professor</p>
                 </div>
-                <span class="tooltiptext">Lester Lasrado<br/>Research Associate </span>
+                <span class="tooltiptext">Lester Lasrado<br/>Associate professor </span>
             </div>
         </div>
     </div>
