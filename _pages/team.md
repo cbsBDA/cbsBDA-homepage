@@ -24,7 +24,7 @@ author_profile: true
   </div>
 <div class="row mb-15 xs-mb-0 mt-5">
 
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -40,7 +40,7 @@ author_profile: true
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -55,7 +55,7 @@ author_profile: true
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -71,7 +71,7 @@ author_profile: true
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -101,7 +101,7 @@ author_profile: true
   </div>
 </div>
 <div class="row mb-15 xs-mb-0">
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -117,7 +117,7 @@ author_profile: true
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -133,7 +133,7 @@ author_profile: true
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -143,14 +143,14 @@ author_profile: true
                         </a>
                     </div>
                     <h5>Monica Mundada</h5>
-                    <p class="subtitle">Selds</p>
+                    <p class="subtitle">Selds </p>
                 </div>
                 <span class="tooltiptext">Monica Mundada<br/>Postdoc </span>
             </div>
         </div>
     </div>
 
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -184,7 +184,7 @@ author_profile: true
 </div>
 <div class="row mb-15 xs-mb-0">
 
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -200,7 +200,7 @@ author_profile: true
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -216,7 +216,7 @@ author_profile: true
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -232,7 +232,7 @@ author_profile: true
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -264,7 +264,7 @@ author_profile: true
 </div>
 <div class="row mb-15 xs-mb-0">
 
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -280,7 +280,7 @@ author_profile: true
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
               <div class="inner">
@@ -296,7 +296,7 @@ author_profile: true
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -312,7 +312,7 @@ author_profile: true
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -349,7 +349,7 @@ author_profile: true
 </div>
 
   <div class="row mb-15 xs-mb-0 mt-5">
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -365,7 +365,7 @@ author_profile: true
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -381,7 +381,7 @@ author_profile: true
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -397,7 +397,7 @@ author_profile: true
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -418,7 +418,7 @@ author_profile: true
 
 <div class="row mb-15 xs-mb-0">
 
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -434,7 +434,7 @@ author_profile: true
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -450,7 +450,7 @@ author_profile: true
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -466,7 +466,7 @@ author_profile: true
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-15 plr-25">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
