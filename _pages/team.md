@@ -93,7 +93,7 @@ author_profile: true
     <div class="col-lg-8 col-lg-offset-2 m-0">
       <div class="wow bounceInDown m-0" data-wow-delay="0.4s">
           <div class="section-heading">
-            <h2 class="text-left">postdocs</h2>
+            <h2 class="text-left">Postdocs</h2>
           </div>
         </div>
       </div>
@@ -166,23 +166,6 @@ author_profile: true
         </div>
     </div>
 
-
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
-        <div class="wow bounceInUp animated animated">
-            <div class="team boxed-grey text-center">
-                <div class="inner">
-                    <div class="avatar">
-                    <a href="#">
-                        <img src="/images/teams/Povl.jpg" alt='Povl' class="img-responsive img-circle table-bordered himg" />
-                        </a>
-                    </div>
-                    <h5>Povl Heiberg Gad</h5>
-                    <p class="subtitle">Industrial PhD Student</p>
-                </div>
-                <span class="tooltiptext">Povl Heiberg Gad<br/>Industrial PhD Student </span>
-            </div>
-        </div>
-    </div>
 </div>
 
 
@@ -192,7 +175,7 @@ author_profile: true
     <div class="col-lg-8 col-lg-offset-2 m-0">
       <div class="wow bounceInDown m-0" data-wow-delay="0.4s">
           <div class="section-heading">
-            <h2 class="text-left">PHD students</h2>
+            <h2 class="text-left">phD students</h2>
           </div>
         </div>
       </div>
@@ -262,6 +245,22 @@ author_profile: true
                     <p class="subtitle">Industrial PhD Student<br />(Mindjumpers)</p>
                 </div>
                 <span class="tooltiptext">Chris Zimmerman<br/>Industrial PhD Student<br />(Mindjumpers) </span>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1 mt-15">
+        <div class="wow bounceInUp animated animated">
+            <div class="team boxed-grey text-center">
+                <div class="inner">
+                    <div class="avatar">
+                    <a href="#">
+                        <img src="/images/teams/Povl.jpg" alt='Povl' class="img-responsive img-circle table-bordered himg" />
+                        </a>
+                    </div>
+                    <h5>Povl Heiberg Gad</h5>
+                    <p class="subtitle">Industrial PhD Student</p>
+                </div>
+                <span class="tooltiptext">Povl Heiberg Gad<br/>Industrial PhD Student </span>
             </div>
         </div>
     </div>
