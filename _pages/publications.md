@@ -39,7 +39,7 @@ author_profile: true
                                     2019
                                     </a>
                                 </h3>
-                                <div class="accDetail panel-collapse collapse" id="publication2019">
+                                <div class="accDetail panel-collapse collapse in" id="publication2019">
                                     <p>
                                         <strong>65. [J]</strong>. Zheng, Xiaochen ; Sun, Shengjing ; Mukkamala, Raghava Rao ; Vatrapu, Ravi ; Ordieres-Meré, Joaquín.
                                         <strong>Accelerating Health Data Sharing : A Solution Based on the Internet of Things and Distributed Ledger Technologies.</strong>
@@ -124,7 +124,7 @@ author_profile: true
                                         2018
                                         </a>
                                     </h3>
-                                    <div class="accDetail panel-collapse collapse" id="publication2018">
+                                    <div class="accDetail panel-collapse collapse in" id="publication2018">
 
                                     <p>
                                         <strong>54. [C]</strong>.Sternberg, Fie ; Hedegaard Pedersen, Kasper ; Ryelund, Niklas Klve ; Mukkamala, Raghava Rao ; Vatrapu, Ravi.
@@ -238,7 +238,7 @@ author_profile: true
                                         2017
                                         </a>
                                     </h3>
-                                    <div class="accDetail panel-collapse collapse" id="publication2017">
+                                    <div class="accDetail panel-collapse collaps in" id="publication2017">
 
                                     <p>
                                         <strong>39. [C]</strong>.Flesch, Benjamin ; Vatrapu, Ravi ; Mukkamala, Raghava Rao.
@@ -375,7 +375,7 @@ author_profile: true
                                     2016
                                     </a>
                                 </h3>
-                                <div class="accDetail panel-collapse collapse" id="publication2016">
+                                <div class="accDetail panel-collapse collapse in" id="publication2016">
 
 
                                     <p>
