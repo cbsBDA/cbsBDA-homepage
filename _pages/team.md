@@ -127,7 +127,7 @@ author_profile: true
                         </a>
                     </div>
                     <h5>Monica Mundada</h5>
-                    <p class="subtitle">Selds </p>
+                    <p class="subtitle">Postdoc </p>
                 </div>
                 <span class="tooltiptext">Monica Mundada<br/>Postdoc </span>
             </div>
@@ -159,7 +159,7 @@ author_profile: true
                       </a>
                   </div>
                   <h5>Selda Eren Kanat</h5>
-                  <p class="subtitle">Research Associate</p>
+                  <p class="subtitle">Postdoc</p>
               </div>
               <span class="tooltiptext">Selda Eren Kanat<br/>Postdoc</span>
             </div>
