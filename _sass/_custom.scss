@@ -52,7 +52,10 @@ img {
   margin-left: 0px;
   margin-right: 0px;
 }
-
+.plr-25{
+  padding-left: 25px;
+  padding-right: 25px;
+}
 .mb-15{
   margin-bottom: 15px;
 }
@@ -239,7 +242,7 @@ img {
 }
 .boxed-grey{
   background: #f9f9f9;
-  padding: 20px;
+  padding: 40px;
   height: 100%;
 }
 .avatar{
@@ -249,6 +252,7 @@ img {
     margin-bottom: 10px;
     color: #52adc8;
 }
+
 .team p.subtitle {
     margin-bottom: 0px;
 }
