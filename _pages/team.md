@@ -81,7 +81,7 @@ author_profile: true
                     <h5>Lester Lasrado</h5>
                     <p class="subtitle">Associate professor</p>
                 </div>
-                <span class="tooltiptext">Lester Lasrado<br/>Associate professor </span>
+                <span class="tooltiptext">Lester Lasrado<br/>Associate professor</span>
             </div>
         </div>
     </div>
