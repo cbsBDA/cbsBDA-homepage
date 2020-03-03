@@ -81,7 +81,7 @@ author_profile: true
                     <h5>Lester Lasrado</h5>
                     <p class="subtitle">Associate Professor</p>
                 </div>
-                <span class="tooltiptext">Associate professor at Kristiania University College,<br/>Oslo </span>
+                <span class="tooltiptext">Associate Professor at Kristiania University College,<br/>Oslo </span>
             </div>
         </div>
     </div>
