@@ -298,6 +298,11 @@ a {
     display: table;
   }
 }
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .team.boxed-grey.text-center .tooltiptext {
+    display: table;
+  }
+}
 .team.boxed-grey.text-center .tooltiptext::after {
   content: "";
   position: absolute;
