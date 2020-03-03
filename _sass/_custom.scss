@@ -293,12 +293,13 @@ a {
   height: fit-content;
   width: 100%;
 }
-@-moz-document url-prefix() {
-  .team.boxed-grey.text-center .tooltiptext {
-    display: table;
-  }
+.IE .team.boxed-grey.text-center .tooltiptext {
+  display: table;
 }
-@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+.FireFox .team.boxed-grey.text-center .tooltiptext {
+  display: table;
+}
+@-moz-document url-prefix() {
   .team.boxed-grey.text-center .tooltiptext {
     display: table;
   }
