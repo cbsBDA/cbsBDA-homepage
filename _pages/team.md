@@ -51,7 +51,7 @@ author_profile: true
                     <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rvitm">Prof. Ravi Vatrapu</a></h5>
                     <p class="subtitle">Founder Director</p>
                 </div>
-                <span class="tooltiptext">Prof. Ravi Vatrapu<br/>Founder Director </span>
+                <span class="tooltiptext">Professor at Ryerson University, <br/>Canada</span>
             </div>
         </div>
     </div>
@@ -81,7 +81,7 @@ author_profile: true
                     <h5>Lester Lasrado</h5>
                     <p class="subtitle">Associate professor</p>
                 </div>
-                <span class="tooltiptext">Lester Lasrado<br/>Associate professor</span>
+                <span class="tooltiptext">Associate professor at Kristiania University College,<br/>Oslo </span>
             </div>
         </div>
     </div>
