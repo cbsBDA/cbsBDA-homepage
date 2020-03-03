@@ -79,7 +79,7 @@ author_profile: true
                         <img src="/images/teams/laster.jpg" alt='Lester Lasrado' class="img-responsive img-circle table-bordered himg" />
                     </div>
                     <h5>Lester Lasrado</h5>
-                    <p class="subtitle">Associate professor</p>
+                    <p class="subtitle">Associate Professor</p>
                 </div>
                 <span class="tooltiptext">Associate professor at Kristiania University College,<br/>Oslo </span>
             </div>
