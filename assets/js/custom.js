@@ -3,35 +3,46 @@ $(document).ready(function(){
     $(".mobile.menu-item").toggleClass("visible hidden");
   });
 
-  // Opera 8.0+
-var isOpera = (!!window.opr && !!opr.addons) || !!window.opera || navigator.userAgent.indexOf(' OPR/') >= 0;
 
-// Firefox 1.0+
-var isFirefox = typeof InstallTrigger !== 'undefined';
-
-// Safari 3.0+ "[object HTMLElementConstructor]"
-var isSafari = /constructor/i.test(window.HTMLElement) || (function (p) { return p.toString() === "[object SafariRemoteNotification]"; })(!window['safari'] || (typeof safari !== 'undefined' && safari.pushNotification));
-
-// Internet Explorer 6-11
-var isIE = /*@cc_on!@*/false || !!document.documentMode;
-
-// Edge 20+
-var isEdge = !isIE && !!window.StyleMedia;
-
-// Chrome 1 - 71
-var isChrome = !!window.chrome && (!!window.chrome.webstore || !!window.chrome.runtime);
-
-// Blink engine detection
-var isBlink = (isChrome || isOpera) && !!window.CSS;
-
-
-var output = 'Detecting browsers by ducktyping:<hr>';
-output += 'isFirefox: ' + isFirefox + '<br>';
-output += 'isChrome: ' + isChrome + '<br>';
-output += 'isSafari: ' + isSafari + '<br>';
-output += 'isOpera: ' + isOpera + '<br>';
-output += 'isIE: ' + isIE + '<br>';
-output += 'isEdge: ' + isEdge + '<br>';
-output += 'isBlink: ' + isBlink + '<br>';
-document.body.innerHTML = output;
 });
+
+var browserType ="";
+$(document).ready(function () {
+            //console.log(navigator.userAgent);
+            //Check if browser is IE or not
+            if (navigator.userAgent.search("MSIE") >= 0) {
+                browserType = 'IE';
+            }
+            else if (navigator.userAgent.search("Edge") >= 0) {
+                browserType = 'IE';
+                //$rootScope.bodyClass = 'IE';
+                $("body").addClass('IE')
+            }
+                //Check if browser is Chrome or not
+            else if (navigator.userAgent.search("Chrome") >= 0) {
+                browserType = 'Chrome';
+                $("body").addClass('Chrome')
+            }
+                //Check if browser is Firefox or not
+            else if (navigator.userAgent.search("Firefox") >= 0) {
+                browserType = 'FireFox';
+                $("body").addClass('FireFox')
+                //console.log(navigator.userAgent);
+            }
+                //Check if browser is Safari or not
+            else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) {
+                browserType = 'Safari';
+                $("body").addClass('Safari')
+            }
+                //Check if browser is Opera or not
+            else if (navigator.userAgent.search("Opera") >= 0) {
+                browserType = 'Opera';
+                $("body").addClass('Opera')
+            }
+            else if (navigator.userAgent.search("Windows") >= 0) {
+                browserType = 'IE';
+                $("body").addClass('IE')
+            }
+        //    console.log(browserType);
+
+        });
