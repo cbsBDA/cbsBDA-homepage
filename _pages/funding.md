@@ -6,3 +6,15 @@ author_profile: true
 
 {% include base_path %}
 
+
+* Social Media & Society, Carlsberg Foundation, (PI, 2018, 65,000 DKK)
+* Online Review Analytics: Jabra (PI, 2017-2018, 100,000 DKK)
+* Big Social Data Analytics for Public Health: Copenhagen Health Innovation: ReVUS (PI, 2016-2018, 3,042,000 DKK)
+* Big Social Data Analytics for Business: Industriens Fond: Big Data Tema (PI, 2015-2018, 6,200,000 DKK)
+* Rio Til Roskilde: Big Data Analytics project for Roskilde Festival w/IBM (PI, 2015-2017, 150.000 DKK)
+* Networked Business Institute: Public-Private Partnership (PI, 2014-2017, 3,363,837 DKK)
+* Novel Augmented Reality Services in Media: Nordic Innovation (Co-PI, 2012-2013, CBS: 140,000 / 1,501,500 NOK)
+* International Networking Grants: Danish Ministry of Science (PI, 2010-2012, 1,080,000 DKK)
+* NEXT-TELL: EU FP7 Large-Scale Integrating Project (Co-PI, 2010-2014, CBS: 589,954 / 8,176,135 EUR)
+* CBS Building Usage Analytics Project (PI, 2016-2017, 250.000 DKK)
+* Classrooms of the 21st Century: CBS Teach (PI, 2010-2011, 500.000 DKK)
