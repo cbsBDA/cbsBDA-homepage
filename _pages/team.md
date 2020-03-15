@@ -23,7 +23,6 @@ author_profile: true
     </div>
   </div>
 <div class="row mb-15 xs-mb-0 mt-5">
-
     <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
@@ -78,7 +77,7 @@ author_profile: true
                     <div class="avatar">
                         <img src="/images/teams/laster.jpg" alt='Lester Lasrado' class="img-responsive img-circle table-bordered himg" />
                     </div>
-                    <h5>Lester Lasrado</h5>
+                    <h5>Dr. Lester Lasrado</h5>
                     <p class="subtitle">Associate Professor</p>
                 </div>
                 <span class="tooltiptext">Associate Professor at Kristiania University College,<br/>Oslo </span>
@@ -93,7 +92,7 @@ author_profile: true
     <div class="col-lg-8 col-lg-offset-2 m-0">
       <div class="wow bounceInDown m-0" data-wow-delay="0.4s">
           <div class="section-heading">
-            <h2 class="text-left">Postdocs</h2>
+            <h2 class="text-left">Postdoctoral Researchers</h2>
           </div>
         </div>
       </div>
@@ -110,7 +109,7 @@ author_profile: true
                         <img src="/images/teams/Sonath.jpg" alt='Sonath Mazumdar' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
-                    <h5>Somnath Mazumdar</h5>
+                    <h5>Dr. Somnath Mazumdar</h5>
                     <p class="subtitle">Postdoc</p>
                 </div>
                 <span class="tooltiptext">Somnath Mazumdar<br/>Postdoc </span>
@@ -126,7 +125,7 @@ author_profile: true
                         <img src="/images/teams/Monica.jpg" alt='Monica Mundada' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
-                    <h5>Monica Mundada</h5>
+                    <h5>Dr. Monica Mundada</h5>
                     <p class="subtitle">Postdoc </p>
                 </div>
                 <span class="tooltiptext">Monica Mundada<br/>Postdoc </span>
@@ -142,7 +141,7 @@ author_profile: true
                         <img src="/images/teams/Rajani_Sigh.jpg" alt='Rajani Singh' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
-                    <h5>Rajani Singh</h5>
+                    <h5>Dr. Rajani Singh</h5>
                     <p class="subtitle">Postdoc</p>
                 </div>
                 <span class="tooltiptext">Rajani Singh<br/>Postdoc </span>
@@ -158,7 +157,7 @@ author_profile: true
                       <img src="/images/teams/SeldaErenKanat.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
                       </a>
                   </div>
-                  <h5>Selda Eren Kanat</h5>
+                  <h5>Dr. Selda Eren Kanat</h5>
                   <p class="subtitle">Postdoc</p>
               </div>
               <span class="tooltiptext">Selda Eren Kanat<br/>Postdoc</span>
