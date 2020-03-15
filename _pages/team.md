@@ -33,10 +33,10 @@ author_profile: true
                         <img src="/images/teams/raghava1.jpg" alt='Raghava Mukkamala' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Dr. Raghava Rao Mukkamala</a></h5>
-                    <p class="subtitle">Director and Associate Professor</p>
+                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Dr. Raghava Mukkamala</a></h5>
+                    <p class="subtitle">Director, Assoc. Prof.</p>
                 </div>
-                <span class="tooltiptext">Copenhagen Business School<br/>Kristiania University College, Oslo</span>
+                <span class="tooltiptext">Copenhagen Business School<br/>Kristiania University College</span>
             </div>
         </div>
     </div>
@@ -49,7 +49,7 @@ author_profile: true
                         <img src="/images/teams/bm0108_nr3_ravi_vatrapu_5405.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" /></a>
                     </div>
                     <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rvitm">Prof. Ravi Vatrapu</a></h5>
-                    <p class="subtitle">Founder Director</p>
+                    <p class="subtitle">Founding Director</p>
                 </div>
                 <span class="tooltiptext">Professor at Ryerson University, <br/>Canada</span>
             </div>
