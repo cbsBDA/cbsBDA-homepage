@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /projects/
+permalink: /funding/
 author_profile: true
 ---
 
