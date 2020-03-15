@@ -16,8 +16,8 @@ main:
   # - title: "SOFTWARE"
   #   url: software/
 
-  - title: "PROJECTS"
-    url: projects/
+  - title: "FUNDING"
+    url: funding/
 
   - title: "TEACHING"
     url: teaching/
