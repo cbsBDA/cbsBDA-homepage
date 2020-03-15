@@ -39,7 +39,7 @@ author_profile: true
               The centre comprises of people with different backgrounds, especially with a PhD in Computer Science, Mathematics, Data Mining and Machine learning backgrounds. Our research focussed on Big Data Analytics, Blockchain technology and other areas, principally on using that technology for socio-economic development, especially advancing research in the direction of achieving UN Sustainable Development Goals. As part of that, we have been also collaborating with humanitarian organizations like UNHCR (The UN Refugee Agency) and other humanitarian organisations. 
               </p>
 			        <p>
-              Our current research, education, and consulting focuses on <b>Big Social Data Analytics</b>, <b>GPS Analysis</b>, <b>Building Usage Analytics</b>, and <b>Bitcoin Blockchain Analytics</b>.
+              Our current research, education, and consulting focuses on <b>Big Social Data Analytics</b>, <b>Blockchain and Distributed Ledger Technologies</b>, <b>Artificial Intelligence</b>, and <b>Cyber Security and Information Security</b>.
               </p>
               <p>
               Our objective is not only to make seminal contributions to scientific knowledge as evidenced by peer-reviewed publications but also to create practical applications that yield meaningful facts, actionable insights, valuable outcomes, and sustainable impacts for organizations and society.</p>
