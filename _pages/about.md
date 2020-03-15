@@ -29,11 +29,20 @@ author_profile: true
         <div class="wow bounceInUp" data-wow-delay="0.2s">
           <div class="team ">
             <div class="inner">
-              <p>Center for Business Data Analytics(cbsBDA) at the Department of Digitalization of the Copenhagen Business School conducts transdisciplinary basic research at the socio-technical intersections of computer science and social science with specific applications to managers in companies, teachers in schools and residents in cities.</p>
-              <p>cbsBDA's basic research program is aimed at modelling and explaining socio-technical interactions using set theory. Our applied research program seeks to design, develop and evaluate big data analytics applications for managers (descriptive, predictive, and prescriptive analytics), teachers (teaching analytics and learning analytics), and citizens (public health analytics).</p>
-			  <p>Our current research, education, and consulting focuses on <b>Big Social Data Analytics</b>, <b>GPS Analysis</b>, <b>Building Usage Analytics</b>, and <b>Bitcoin Blockchain Analytics</b>.</p>
-              <p>cbsBDA aspires to conduct engaged scholarship in the <a href="http://www.brookings.edu/research/books/1997/pasteur" alt="Pasteur's Quadrant." target="blank">Pasteur's Quadrant</a>.</p>
-              <p>Our objective is not only to make seminal contributions to scientific knowledge as evidenced by peer-reviewed publications but also to create practical applications that yield meaningful facts, actionable insights, valuable outcomes, and sustainable impacts for organizations and society.</p>
+              <p>
+              Center for Business Data Analytics (cbsBDA) at the Department of Digitalization of the Copenhagen Business School conducts transdisciplinary basic research at the intersection of Computer Science and Social Science, mainly focused on developing applications and systems that will create an impact on society and organizations. 
+              </p>
+              <p>
+              cbsBDA's basic research program is aimed at modelling societal and organisational phenomena/challenges and exploring socio-technical interactions, using set theory and other computational modelling techniques. Our applied research program seeks to design, develop and evaluate applications/systems with a key focus on using technology for socio-economic development, particularly to advance research in the direction of achieving UN Sustainable Development Goals. 
+              </p>
+              <p>
+              The centre comprises of people with different backgrounds, especially with a PhD in Computer Science, Mathematics, Data Mining and Machine learning backgrounds. Our research focussed on Big Data Analytics, Blockchain technology and other areas, principally on using that technology for socio-economic development, especially advancing research in the direction of achieving UN Sustainable Development Goals. As part of that, we have been also collaborating with humanitarian organizations like UNHCR (The UN Refugee Agency) and other humanitarian organisations. 
+              </p>
+			        <p>
+              Our current research, education, and consulting focuses on <b>Big Social Data Analytics</b>, <b>GPS Analysis</b>, <b>Building Usage Analytics</b>, and <b>Bitcoin Blockchain Analytics</b>.
+              </p>
+              <p>
+              Our objective is not only to make seminal contributions to scientific knowledge as evidenced by peer-reviewed publications but also to create practical applications that yield meaningful facts, actionable insights, valuable outcomes, and sustainable impacts for organizations and society.</p>
             </div>
           </div>
         </div>
