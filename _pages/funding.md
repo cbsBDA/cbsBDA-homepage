@@ -6,8 +6,8 @@ author_profile: true
 
 {% include base_path %}
 
-Funding
--------
+External Funding
+----------------
 
 The centre has been involved in many external funding applications and has been quite successful in attracting a lot of funding from both private and public funding agencies. The following are the successful funding applications, where the researchers from the centre have been either a principal investigator (PI) or co-principal investigator (co-PI). 
 
