@@ -9,7 +9,7 @@ author_profile: true
 Funding
 -------
 
-The centre has been involved in many external funding applications and has quite successful in attracting a lot of funding from both private and public funding agencies.
+The centre has been involved in many external funding applications and has been quite successful in attracting a lot of funding from both private and public funding agencies. The following are the successful funding applications, where the researchers from the centre have been either a principal investigator (PI) or co-principal investigator (co-PI). 
 
 * Social Media & Society, Carlsberg Foundation, (PI, 2018, 65,000 DKK)
 * Online Review Analytics: Jabra (PI, 2017-2018, 100,000 DKK)
