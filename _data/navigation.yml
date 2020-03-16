@@ -10,15 +10,16 @@ main:
   - title: "PUBLICATIONS"
     url: publications/
 
+  - title: "FUNDING"
+    url: funding/
+
   - title: "AWARDS"
     url: awards/
 
   # - title: "SOFTWARE"
   #   url: software/
 
-  - title: "FUNDING"
-    url: funding/
-
+  
   - title: "TEACHING"
     url: teaching/
 
