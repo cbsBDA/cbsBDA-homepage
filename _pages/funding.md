@@ -11,6 +11,8 @@ External Funding
 
 The centre has been involved in many external funding applications and has been quite successful in attracting a lot of funding from both private and public funding agencies. The following are the successful funding applications, where the researchers from the centre have been either a principal investigator (PI) or co-principal investigator (co-PI). 
 
+* Advanced Blockchain for Danish Design (ABCD): Industriens Fond: (co-PI, 2019-2022, 7,900,000 DKK)
+* Machine learning based alternative credit rating for unbanked savings groups from Uddannelses-og Forskningsministeriet (PI, 2019-2020, 161,000 DKK).
 * Social Media & Society, Carlsberg Foundation, (PI, 2018, 65,000 DKK)
 * Online Review Analytics: Jabra (PI, 2017-2018, 100,000 DKK)
 * Big Social Data Analytics for Public Health: Copenhagen Health Innovation: ReVUS (PI, 2016-2018, 3,042,000 DKK)
