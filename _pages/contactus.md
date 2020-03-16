@@ -29,11 +29,11 @@ author_profile: true
         <div class="widget-contact">
           <address>
           <strong><img src="/images/teams/raghava1.jpg" alt='Raghava Mukkamala' width="80" class="img-circle table-bordered" > &nbsp;<span style="font-size:16px">Dr. Raghava Mukkamala</span></strong><br>
-          Director, Centre for Business Data Analytics (cbsBDA)<br>
-          Associate Professor, Department of Digitalization<br>
-          Copenhagen Business School<br>
-          Howitzvej 60; 2.01D<br>
-          Frederiksberg, DK-2000, Denmark<br>
+          Director, Centre for Business Data Analytics </br>
+          Associate Professor, Department of Digitalization</br>
+          Copenhagen Business School</br>
+          Howitzvej 60; 2.01D</br>
+          Frederiksberg, DK-2000, Denmark</br>
           <abbr title="Phone">P:</abbr> +45-4185-2299
           </address>
           <address>

@@ -6,6 +6,10 @@ author_profile: true
 
 {% include base_path %}
 
+Funding
+-------
+
+The centre has been involved in many external funding applications and has quite successful in attracting a lot of funding from both private and public funding agencies.
 
 * Social Media & Society, Carlsberg Foundation, (PI, 2018, 65,000 DKK)
 * Online Review Analytics: Jabra (PI, 2017-2018, 100,000 DKK)
