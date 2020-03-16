@@ -28,11 +28,11 @@ author_profile: true
       <div class="col-lg-5 col-md-5">
         <div class="widget-contact">
           <address>
-          <strong><img src="/images/teams/raghava1.jpg" alt='Raghava Mukkamala' width="80" class="img-circle table-bordered" > &nbsp;<span style="font-size:16px">Dr. Raghava Rao Mukkamala</span></strong><br>
-          Director, Centre for Business Data Analytics(cbsBDA)<br>
+          <strong><img src="/images/teams/raghava1.jpg" alt='Raghava Mukkamala' width="80" class="img-circle table-bordered" > &nbsp;<span style="font-size:16px">Dr. Raghava Mukkamala</span></strong><br>
+          Director, Centre for Business Data Analytics (cbsBDA)<br>
           Associate Professor, Department of Digitalization<br>
           Copenhagen Business School<br>
-          Howitzvej 60; 2.14<br>
+          Howitzvej 60; 2.01D<br>
           Frederiksberg, DK-2000, Denmark<br>
           <abbr title="Phone">P:</abbr> +45-4185-2299
           </address>
@@ -42,9 +42,8 @@ author_profile: true
           <address>
           <strong>Github:</strong> <a href=" https://raghavamukkamala.github.io" target="blank">Research Profile</a>
           </address>
-
           <address>
-          <strong>Skype:</strong> <a href="mailto:#">raomukkamala</a>
+          <strong>Skype:</strong> <a href="skype:raomukkamala?add">raomukkamala</a>
           </address>
           <address>
           <strong>Email:</strong> <a href="mailto:#">rrm.digi@cbs.dk</a>
