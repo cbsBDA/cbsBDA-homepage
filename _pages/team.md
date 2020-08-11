@@ -187,6 +187,22 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
+                    <a href="#">
+                        <img src="/images/teams/Mikkel.jpg" alt='Mikkel Harlev' class="img-responsive img-circle table-bordered himg" />
+                        </a>
+                    </div>
+                    <h5>Mikkel Harlev</h5>
+                    <p class="subtitle">PhD Student</p>
+                </div>
+                <span class="tooltiptext">Mikkel Harlev<br/>PhD Student</span>
+            </div>
+        </div>
+    </div>  
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
+        <div class="wow bounceInUp animated animated">
+            <div class="team boxed-grey text-center">
+                <div class="inner">
+                    <div class="avatar">
                     <a class="t-name" target="_blank" href="https://scholar.google.com/citations?user=zC39DhsAAAAJ&hl=en">
                         <img src="/images/teams/niels.jpeg" alt='Niels Buus Lassen' class="img-responsive img-circle table-bordered himg" />
                         </a>
@@ -227,22 +243,6 @@ author_profile: true
                     <p class="subtitle">Privatist PhD Student<br>(Westerdals Oslo ACT)</p>
                 </div>
                 <span class="tooltiptext">Kjeld Hansen<br/>DirPrivatist PhD Student<br>(Westerdals Oslo ACT)ector </span>
-            </div>
-        </div>
-    </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
-        <div class="wow bounceInUp animated animated">
-            <div class="team boxed-grey text-center">
-                <div class="inner">
-                    <div class="avatar">
-                    <a href="#">
-                        <img src="/images/teams/Mikkel.jpg" alt='Mikkel Harlev' class="img-responsive img-circle table-bordered himg" />
-                        </a>
-                    </div>
-                    <h5>Mikkel Harlev</h5>
-                    <p class="subtitle">Research Assistant</p>
-                </div>
-                <span class="tooltiptext">Mikkel Harlev<br/>PhD Student</span>
             </div>
         </div>
     </div>
