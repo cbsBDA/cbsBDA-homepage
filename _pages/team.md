@@ -154,13 +154,13 @@ author_profile: true
               <div class="inner">
                   <div class="avatar">
                   <a href="#">
-                      <img src="/images/teams/SeldaErenKanat.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
+                      <img src="/images/teams/sine-pic-18-web.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
                       </a>
                   </div>
-                  <h5>Dr. Selda Eren Kanat</h5>
+                  <h5>Dr. Sine Zambach</h5>
                   <p class="subtitle">Postdoc</p>
               </div>
-              <span class="tooltiptext">Selda Eren Kanat<br/>Postdoc</span>
+              <span class="tooltiptext">Sine Zambach<br/>Postdoc</span>
             </div>
         </div>
     </div>
