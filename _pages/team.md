@@ -182,7 +182,6 @@ author_profile: true
   </div>
 </div>
 <div class="row mb-15 xs-mb-0">
-
     <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
@@ -236,14 +235,14 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
-                    <a class="t-name" target="_blank"  href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/czitm">
-                        <img src="/images/teams/chriszimmerman.jpg" alt='chriszimmerman' class="img-responsive img-circle table-bordered himg" />
+                    <a href="#">
+                        <img src="/images/teams/Mikkel.jpg" alt='Mikkel Harlev' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
-                    <h5><a class="t-name" target="_blank"  href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/czitm">Chris Zimmerman</a></h5>
-                    <p class="subtitle">Industrial PhD Student<br />(Mindjumpers)</p>
+                    <h5>Mikkel Harlev</h5>
+                    <p class="subtitle">Research Assistant</p>
                 </div>
-                <span class="tooltiptext">Chris Zimmerman<br/>Industrial PhD Student<br />(Mindjumpers) </span>
+                <span class="tooltiptext">Mikkel Harlev<br/>PhD Student</span>
             </div>
         </div>
     </div>
@@ -263,6 +262,23 @@ author_profile: true
             </div>
         </div>
     </div>
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
+        <div class="wow bounceInUp animated animated">
+            <div class="team boxed-grey text-center">
+                <div class="inner">
+                    <div class="avatar">
+                    <a class="t-name" target="_blank"  href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/czitm">
+                        <img src="/images/teams/chriszimmerman.jpg" alt='chriszimmerman' class="img-responsive img-circle table-bordered himg" />
+                        </a>
+                    </div>
+                    <h5><a class="t-name" target="_blank"  href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/czitm">Chris Zimmerman</a></h5>
+                    <p class="subtitle">Industrial PhD Student<br />(Mindjumpers)</p>
+                </div>
+                <span class="tooltiptext">Chris Zimmerman<br/>Industrial PhD Student<br />(Mindjumpers) </span>
+            </div>
+        </div>
+    </div>
+
 </div>
 <div class="heading-about">
 <div class="container  w-100 p-0 m-0">
@@ -278,7 +294,6 @@ author_profile: true
   </div>
 </div>
 <div class="row mb-15 xs-mb-0">
-
     <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
@@ -295,7 +310,6 @@ author_profile: true
             </div>
         </div>
     </div>
-
     <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
@@ -417,7 +431,6 @@ author_profile: true
 
 
 <div class="row mb-15 xs-mb-0">
-
     <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
