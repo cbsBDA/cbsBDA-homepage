@@ -43,7 +43,7 @@ author_profile: true
             <ul>
               <li><b>Big Social Data Analytics</b>,</li>
               <li><b>Blockchain and Distributed Ledger Technologies</b>,</li> 
-              <li><b>Artificial Intelligence</b>,</li> and 
+              <li><b>Artificial Intelligence</b>,</li> 
               <li><b>Cyber Security and Information Security</b>.</li>
             </ul>
               </p>
