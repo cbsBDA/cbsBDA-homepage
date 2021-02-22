@@ -110,9 +110,9 @@ author_profile: true
                         </a>
                     </div>
                     <h5>Dr. Somnath Mazumdar</h5>
-                    <p class="subtitle">Postdoc</p>
+                    <p class="subtitle">Assistant Professor</p>
                 </div>
-                <span class="tooltiptext">Somnath Mazumdar<br/>Postdoc </span>
+                <span class="tooltiptext">Somnath Mazumdar<br/>Assistant Professor</span>
             </div>
         </div>
     </div>
