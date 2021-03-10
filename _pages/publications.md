@@ -140,14 +140,14 @@ author_profile: true
                                     </p>
 
                                     <p>
-                                        <strong>56. [C]</strong>.Yin, Hao Hua Sun ; Langenheldt, Klaus ; Harlev, Mikkel ; Mukkamala, Raghava Rao ; Vatrapu, Ravi.
+                                        <strong>56. [J]</strong>.Yin, Hao Hua Sun ; Langenheldt, Klaus ; Harlev, Mikkel ; Mukkamala, Raghava Rao ; Vatrapu, Ravi.
                                         <strong>Regulating Cryptocurrencies : A Supervised Machine Learning Approach to De-Anonymizing the Bitcoin Blockchain.</strong>
                                         In: In: Journal of Management Information Systems. 2019 ; Vol. 36, No. 1. pp. 37-73.
                                         (<a href="/files/publication/2019_JMIS_Regulating_Cryptocurrencies_with_appendix.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
-                                        <strong>55. [C]</strong>.Kunst, Katrine ; Vatrapu, Ravi.
+                                        <strong>55. [J]</strong>.Kunst, Katrine ; Vatrapu, Ravi.
                                         <strong>Understanding Electronic Word of Behavior : Conceptualization of the Observable Digital Traces of Consumers’ Behaviors.</strong>
                                         In:  In: Electronic Markets. 2019 ; Vol. 29, No. 3. pp. 323-336.
                                         (<a href="/files/publication/55-katrine_kunst_et_al_understanding_electronic_word_of_behavior_acceptedmanuscript.pdf" target="_blank">PDF</a>)
@@ -170,14 +170,14 @@ author_profile: true
                                     </p>
 
                                     <p>
-                                        <strong>53. [C]</strong>.Menon, Menon, Karan ; Kärkkäinen, Hannu ; Jussila, Jari ; Huhtamäki, Jukka ; Mukkamala, Raghava Rao ; Lasrado, Lester Allan ; Vatrapu, Ravi ; Hussain, Abid.
+                                        <strong>53. [J]</strong>.Menon, Menon, Karan ; Kärkkäinen, Hannu ; Jussila, Jari ; Huhtamäki, Jukka ; Mukkamala, Raghava Rao ; Lasrado, Lester Allan ; Vatrapu, Ravi ; Hussain, Abid.
                                         <strong>Analysing the Role of Crowdfunding in Entrepreneurial Ecosystems : A Social Media Event Study of Two Competing Product Launches.</strong>
                                         In: International Journal of Entrepreneurship and Small Business. 2018 ; Vol. 33, No. 4. pp. 575-606.
                                         (<a href="/files/publication/2018_IJESB_journal_paper.pdf" target="_blank">PDF</a>)
                                     </p>
 
                                     <p>
-                                        <strong>52. [C]</strong>.Jensen, Thomas ; Vatrapu, Ravi ; Bjørn-Andersen, Niels.
+                                        <strong>52. [J]</strong>.Jensen, Thomas ; Vatrapu, Ravi ; Bjørn-Andersen, Niels.
                                         <strong>Avocados Crossing Borders : The Problem of Runaway Objects and the Solution of a Shipping Information Pipeline for Improving International Trade.</strong>
                                         In:  Information Systems Journal. 2018 ; Vol. 28, No. 2. pp. 408-438.
                                         (<a href="/files/publication/52-thomas_jensen_avocados_crossing_borders_acceptedmanuscript.pdf" target="_blank">PDF</a>)
@@ -191,7 +191,7 @@ author_profile: true
                                     </p>
 
                                     <p>
-                                        <strong>50. [C]</strong>.Mukkamala, Raghava Rao ; Vatrapu, Ravi ; Ray, Pradeep Kumar ; Sengupta, Gora ; Halder, Sankar.
+                                        <strong>50. [J]</strong>.Mukkamala, Raghava Rao ; Vatrapu, Ravi ; Ray, Pradeep Kumar ; Sengupta, Gora ; Halder, Sankar.
                                         <strong>Blockchain for Social Business : Principles and Applications.</strong>
                                         In: IEEE Engineering Management Review. 2018 ; Vol. 46, No. 4. pp. 94-99.
                                         (<a href="/files/publication/2018_Blockchain-Social-business-Principles-Applications.pdf" target="_blank">PDF</a>)
@@ -541,7 +541,7 @@ author_profile: true
                                     </p>
 
                                     <p>
-                                        <strong>3. [C]</strong>.Vatrapu, Ravi ; Mukkamala, Raghava Rao ; Hussain, Abid ; Flesch, Benjamin.
+                                        <strong>3. [J]</strong>.Vatrapu, Ravi ; Mukkamala, Raghava Rao ; Hussain, Abid ; Flesch, Benjamin.
                                         <strong> Social Set Analysis : A Set Theoretical Approach to Big Data Analytics.</strong>
                                         In : IEEE Access. 2016 ; Vol. 4. pp. 2542-2571.
                                         (<a href="/files/publication/2016_IEEE_Access_Journal_SSA.pdf" target="_blank">PDF</a>)
