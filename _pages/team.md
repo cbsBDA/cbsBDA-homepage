@@ -376,7 +376,7 @@ author_profile: true
                 <div class="inner">
                     <div class="avatar">
                     <a href="#">
-                        <img src="/images/teams/default.jpg" alt='Martin' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/default.png" alt='Martin' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
                     <h5>Martin</h5>
