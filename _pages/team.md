@@ -75,12 +75,14 @@ author_profile: true
           <div class="team boxed-grey text-center">
               <div class="inner">
                   <div class="avatar">
-                      <img src="/images/teams/laster.jpg" alt='Lester Lasrado' class="img-responsive img-circle table-bordered himg" />
+                  <a href="#">
+                      <img src="/images/teams/Sonath.jpg" alt='Sonath Mazumdar' class="img-responsive img-circle table-bordered himg" />
+                      </a>
                   </div>
-                  <h5>Somnath</h5>
-                  <p class="subtitle">Associate Professor</p>
+                  <h5>Dr. Somnath Mazumdar</h5>
+                  <p class="subtitle">Assistant Professor</p>
               </div>
-              <span class="tooltiptext">Associate Professor at Kristiania University College,<br/>Oslo </span>
+              <span class="tooltiptext">Somnath Mazumdar<br/>Assistant Professor</span>
           </div>
       </div>
   </div>
@@ -142,22 +144,7 @@ author_profile: true
   </div>
 </div>
 <div class="row mb-15 xs-mb-0">
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
-        <div class="wow bounceInUp animated animated">
-            <div class="team boxed-grey text-center">
-                <div class="inner">
-                    <div class="avatar">
-                    <a href="#">
-                        <img src="/images/teams/Sonath.jpg" alt='Sonath Mazumdar' class="img-responsive img-circle table-bordered himg" />
-                        </a>
-                    </div>
-                    <h5>Dr. Somnath Mazumdar</h5>
-                    <p class="subtitle">Assistant Professor</p>
-                </div>
-                <span class="tooltiptext">Somnath Mazumdar<br/>Assistant Professor</span>
-            </div>
-        </div>
-    </div>
+
     <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
@@ -304,7 +291,7 @@ author_profile: true
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1 mt-15">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -320,7 +307,54 @@ author_profile: true
             </div>
         </div>
     </div>
-
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1 mt-15">
+        <div class="wow bounceInUp animated animated">
+            <div class="team boxed-grey text-center">
+                <div class="inner">
+                    <div class="avatar">
+                    <a href="#">
+                        <img src="/images/teams/Mikkel.jpg" alt='Mikkel Harlev' class="img-responsive img-circle table-bordered himg" />
+                        </a>
+                    </div>
+                    <h5>Mikkel Harlev</h5>
+                    <p class="subtitle">PhD Student</p>
+                </div>
+                <span class="tooltiptext">Mikkel Harlev<br/>PhD Student</span>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1 mt-15">
+        <div class="wow bounceInUp animated animated">
+            <div class="team boxed-grey text-center">
+                <div class="inner">
+                    <div class="avatar">
+                    <a href="#">
+                        <img src="/images/teams/Mikkel.jpg" alt='Mikkel Harlev' class="img-responsive img-circle table-bordered himg" />
+                        </a>
+                    </div>
+                    <h5>Mikkel Harlev</h5>
+                    <p class="subtitle">PhD Student</p>
+                </div>
+                <span class="tooltiptext">Mikkel Harlev<br/>PhD Student</span>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1 mt-15">
+        <div class="wow bounceInUp animated animated">
+            <div class="team boxed-grey text-center">
+                <div class="inner">
+                    <div class="avatar">
+                    <a href="#">
+                        <img src="/images/teams/Mikkel.jpg" alt='Mikkel Harlev' class="img-responsive img-circle table-bordered himg" />
+                        </a>
+                    </div>
+                    <h5>Mikkel Harlev</h5>
+                    <p class="subtitle">PhD Student</p>
+                </div>
+                <span class="tooltiptext">Mikkel Harlev<br/>PhD Student</span>
+            </div>
+        </div>
+    </div>
 </div>
 <div class="heading-about">
 <div class="container  w-100 p-0 m-0">
