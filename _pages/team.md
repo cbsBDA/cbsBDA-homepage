@@ -376,7 +376,7 @@ author_profile: true
                 <div class="inner">
                     <div class="avatar">
                     <a href="#">
-                        <img src="/images/teams/Martin.jpg" alt='Martin' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/default.jpg" alt='Martin' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
                     <h5>Martin</h5>
@@ -392,7 +392,7 @@ author_profile: true
                 <div class="inner">
                     <div class="avatar">
                     <a href="#">
-                        <img src="/images/teams/Tim.png" alt='Tim' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/default.png" alt='Tim' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
                     <h5>Tim</h5>
@@ -408,7 +408,7 @@ author_profile: true
                 <div class="inner">
                     <div class="avatar">
                     <a href="#">
-                        <img src="/images/teams/Henry.png" alt='Henry' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/default.png" alt='Henry' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
                     <h5>Henry</h5>
