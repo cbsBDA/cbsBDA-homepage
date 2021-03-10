@@ -217,7 +217,7 @@ author_profile: true
                 <div class="inner">
                     <div class="avatar">
                     <a href="#">
-                        <img src="/images/teams/#.jpg" alt='Mikkel Harlev' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/Mikkel.jpg" alt='Mikkel Harlev' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
                     <h5>Mikkel Harlev</h5>
@@ -555,6 +555,6 @@ author_profile: true
             </div>
         </div>
     </div>
-    
+
 </div>
 </section>
