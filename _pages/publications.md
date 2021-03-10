@@ -45,7 +45,7 @@ author_profile: true
                                         (<a href="/files/pubs/2021_HICSS_Blockchain_IoT_Product_Lifecycle.pdf" target="_blank">PDF</a>)
                                     </p>
                               </div>
-                            <h3 class="accHeader mt-0" headerindex="0h">
+                            <h3 class="accHeader" headerindex="0h">
                                 <span class="accordprefix">
                                     <i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
                                 </span> <a class="icon-collapse collapsed font-fff" data-toggle="collapse" data-parent="#accordion" href="#publication2020"><i class="pull-right fa fa-plus"></i><i class="pull-right fa fa-minus"></i>
@@ -68,7 +68,7 @@ author_profile: true
                                         <strong>66. [C]</strong>. Monica Mundada; Raghava Rao Mukkamala / <strong>Smart Cities for Sustainability : An Analytical Perspective</strong>. In: Proceedings of the World Conference on Smart Trends in Systems, Security and Sustainability (WS4 2020). ed. /Xin-She Yang; Simon James Fong; Moisés Toapanta; Ion Andronache; Niko Phillips. Los Alamos, CA : IEEE 7.2020, p. 770-775. (<a href="/files/pubs/2020_Samrt_Cities_IEE_WS4.pdf" target="_blank">PDF</a>)
                                     </p>
                               </div>
-                                <h3 class="accHeader mt-0" headerindex="0h">
+                                <h3 class="accHeader" headerindex="0h">
                                     <span class="accordprefix">
                                         <i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
                                     </span> <a class="icon-collapse collapsed font-fff" data-toggle="collapse" data-parent="#accordion" href="#publication2019"><i class="pull-right fa fa-plus"></i><i class="pull-right fa fa-minus"></i>
