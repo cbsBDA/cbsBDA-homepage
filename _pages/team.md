@@ -9,83 +9,127 @@ author_profile: true
 
 
 <section id="team" class="home-section parallax-window1">
-  <div class="heading-about">
-  <div class="container  w-100 p-0 m-0">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 m-0">
-        <div class="wow bounceInDown m-0" data-wow-delay="0.4s">
-            <div class="section-heading">
-              <h2 class="text-left">Faculty</h2>
-            </div>
+<div class="heading-about">
+<div class="container  w-100 p-0 m-0">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 m-0">
+      <div class="wow bounceInDown m-0" data-wow-delay="0.4s">
+          <div class="section-heading">
+            <h2 class="text-left">Faculty</h2>
           </div>
         </div>
       </div>
     </div>
   </div>
+</div>
 <div class="row mb-15 xs-mb-0 mt-5">
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
-        <div class="wow bounceInUp animated animated">
-            <div class="team boxed-grey text-center">
-                <div class="inner">
-                    <div class="avatar">
-                    <a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">
-                        <img src="/images/teams/raghava1.jpg" alt='Raghava Mukkamala' class="img-responsive img-circle table-bordered himg" />
-                        </a>
-                    </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Dr. Raghava Mukkamala</a></h5>
-                    <p class="subtitle">Director, Assoc. Prof.</p>
-                </div>
-                <span class="tooltiptext">Copenhagen Business School<br/>Kristiania University College</span>
-            </div>
-        </div>
-    </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
-        <div class="wow bounceInUp animated animated">
-            <div class="team boxed-grey text-center">
-                <div class="inner">
-                    <div class="avatar">
-                    <a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rvitm">
-                        <img src="/images/teams/bm0108_nr3_ravi_vatrapu_5405.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" /></a>
-                    </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rvitm">Prof. Ravi Vatrapu</a></h5>
-                    <p class="subtitle">Founding Director</p>
-                </div>
-                <span class="tooltiptext">Professor at Ryerson University, <br/>Canada</span>
-            </div>
-        </div>
-    </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
-        <div class="wow bounceInUp animated animated">
-            <div class="team boxed-grey text-center">
-                <div class="inner">
-                    <div class="avatar">
-                    <a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/ahitm">
-                        <img src="/images/teams/abid_hussain_cropped_322.jpg" alt='Dr. Abid Hussain' class="img-responsive img-circle table-bordered himg" />
-                        </a>
-                    </div>
-                    <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/ahitm">Dr. Abid Hussain</a></h5>
-                    <p class="subtitle">Associate Professor</p>
-                </div>
-                <span class="tooltiptext">Dr. Abid Hussain<br/>Associate Professor </span>
-            </div>
-        </div>
-    </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
-        <div class="wow bounceInUp animated animated">
-            <div class="team boxed-grey text-center">
-                <div class="inner">
-                    <div class="avatar">
-                        <img src="/images/teams/laster.jpg" alt='Lester Lasrado' class="img-responsive img-circle table-bordered himg" />
-                    </div>
-                    <h5>Dr. Lester Lasrado</h5>
-                    <p class="subtitle">Associate Professor</p>
-                </div>
-                <span class="tooltiptext">Associate Professor at Kristiania University College,<br/>Oslo </span>
-            </div>
-        </div>
-    </div>
+  <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
+      <div class="wow bounceInUp animated animated">
+          <div class="team boxed-grey text-center">
+              <div class="inner">
+                  <div class="avatar">
+                  <a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">
+                      <img src="/images/teams/raghava1.jpg" alt='Raghava Mukkamala' class="img-responsive img-circle table-bordered himg" />
+                      </a>
+                  </div>
+                  <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Dr. Raghava Mukkamala</a></h5>
+                  <p class="subtitle">Director, Assoc. Prof.</p>
+              </div>
+              <span class="tooltiptext">Copenhagen Business School<br/>Kristiania University College</span>
+          </div>
+      </div>
+  </div>
+  <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
+      <div class="wow bounceInUp animated animated">
+          <div class="team boxed-grey text-center">
+              <div class="inner">
+                  <div class="avatar">
+                  <a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rvitm">
+                      <img src="/images/teams/bm0108_nr3_ravi_vatrapu_5405.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" /></a>
+                  </div>
+                  <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rvitm">Prof. Ravi Vatrapu</a></h5>
+                  <p class="subtitle">Founding Director</p>
+              </div>
+              <span class="tooltiptext">Professor at Ryerson University, <br/>Canada</span>
+          </div>
+      </div>
+  </div>
+  <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
+      <div class="wow bounceInUp animated animated">
+          <div class="team boxed-grey text-center">
+              <div class="inner">
+                  <div class="avatar">
+                  <a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/ahitm">
+                      <img src="/images/teams/abid_hussain_cropped_322.jpg" alt='Dr. Abid Hussain' class="img-responsive img-circle table-bordered himg" />
+                      </a>
+                  </div>
+                  <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/ahitm">Dr. Abid Hussain</a></h5>
+                  <p class="subtitle">Associate Professor</p>
+              </div>
+              <span class="tooltiptext">Dr. Abid Hussain<br/>Associate Professor </span>
+          </div>
+      </div>
+  </div>
+  <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
+      <div class="wow bounceInUp animated animated">
+          <div class="team boxed-grey text-center">
+              <div class="inner">
+                  <div class="avatar">
+                      <img src="/images/teams/laster.jpg" alt='Lester Lasrado' class="img-responsive img-circle table-bordered himg" />
+                  </div>
+                  <h5>Somnath</h5>
+                  <p class="subtitle">Associate Professor</p>
+              </div>
+              <span class="tooltiptext">Associate Professor at Kristiania University College,<br/>Oslo </span>
+          </div>
+      </div>
+  </div>
 </div>
 
+<div class="heading-about">
+<div class="container  w-100 p-0 m-0">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 m-0">
+      <div class="wow bounceInDown m-0" data-wow-delay="0.4s">
+          <div class="section-heading">
+            <h2 class="text-left">Affiliate Faculty</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row mb-15 xs-mb-0 mt-5">
+
+  <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
+      <div class="wow bounceInUp animated animated">
+          <div class="team boxed-grey text-center">
+              <div class="inner">
+                  <div class="avatar">
+                      <img src="/images/teams/laster.jpg" alt='Lester Lasrado' class="img-responsive img-circle table-bordered himg" />
+                  </div>
+                  <h5>Bhumika Gupta</h5>
+                  <p class="subtitle">Associate Professor</p>
+              </div>
+              <span class="tooltiptext">Associate Professor at Kristiania University College,<br/>Oslo </span>
+          </div>
+      </div>
+  </div>
+  <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
+      <div class="wow bounceInUp animated animated">
+          <div class="team boxed-grey text-center">
+              <div class="inner">
+                  <div class="avatar">
+                      <img src="/images/teams/laster.jpg" alt='Lester Lasrado' class="img-responsive img-circle table-bordered himg" />
+                  </div>
+                  <h5>Dr. Lester Lasrado</h5>
+                  <p class="subtitle">Associate Professor</p>
+              </div>
+              <span class="tooltiptext">Associate Professor at Kristiania University College,<br/>Oslo </span>
+          </div>
+      </div>
+  </div>
+</div>
 <div class="heading-about">
 <div class="container  w-100 p-0 m-0">
   <div class="row">
