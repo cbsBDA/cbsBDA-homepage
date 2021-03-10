@@ -217,7 +217,7 @@ author_profile: true
                 <div class="inner">
                     <div class="avatar">
                     <a href="#">
-                        <img src="/images/teams/Mikkel.jpg" alt='Mikkel Harlev' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/#.jpg" alt='Mikkel Harlev' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
                     <h5>Mikkel Harlev</h5>
@@ -362,7 +362,7 @@ author_profile: true
     <div class="col-lg-8 col-lg-offset-2 m-0">
       <div class="wow bounceInDown m-0" data-wow-delay="0.4s">
           <div class="section-heading">
-            <h2 class="text-left">Research Associates</h2>
+            <h2 class="text-left">Research Assistants -  Staff</h2>
           </div>
         </div>
       </div>
@@ -376,13 +376,13 @@ author_profile: true
                 <div class="inner">
                     <div class="avatar">
                     <a href="#">
-                        <img src="/images/teams/Mikkel.jpg" alt='Mikkel Harlev' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/Martin.jpg" alt='Martin' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
-                    <h5>Mikkel Harlev</h5>
+                    <h5>Martin</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
-                <span class="tooltiptext">Mikkel Harlev<br/>Research Assistant </span>
+                <span class="tooltiptext">Martin<br/>Research Assistant </span>
             </div>
         </div>
     </div>
@@ -392,13 +392,29 @@ author_profile: true
                 <div class="inner">
                     <div class="avatar">
                     <a href="#">
-                        <img src="/images/teams/Rene_Madsen3.png" alt='Rene_Madsen3' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/Tim.png" alt='Tim' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
-                    <h5>Rene Madsen</h5>
+                    <h5>Tim</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
-                <span class="tooltiptext">Rene Madsen<br/>Research Assistant </span>
+                <span class="tooltiptext">Tim<br/>Research Assistant </span>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
+        <div class="wow bounceInUp animated animated">
+            <div class="team boxed-grey text-center">
+                <div class="inner">
+                    <div class="avatar">
+                    <a href="#">
+                        <img src="/images/teams/Henry.png" alt='Henry' class="img-responsive img-circle table-bordered himg" />
+                        </a>
+                    </div>
+                    <h5>Henry</h5>
+                    <p class="subtitle">Research Assistant</p>
+                </div>
+                <span class="tooltiptext">Henry<br/>Research Assistant </span>
             </div>
         </div>
     </div>
