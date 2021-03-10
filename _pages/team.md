@@ -85,7 +85,6 @@ author_profile: true
       </div>
   </div>
 </div>
-
 <div class="heading-about">
 <div class="container  w-100 p-0 m-0">
   <div class="row">
@@ -100,7 +99,6 @@ author_profile: true
   </div>
 </div>
 <div class="row mb-15 xs-mb-0 mt-5">
-
   <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
       <div class="wow bounceInUp animated animated">
           <div class="team boxed-grey text-center">
@@ -108,7 +106,7 @@ author_profile: true
                   <div class="avatar">
                       <img src="/images/teams/laster.jpg" alt='Lester Lasrado' class="img-responsive img-circle table-bordered himg" />
                   </div>
-                  <h5>Bhumika Gupta</h5>
+                  <h5>Dr. Lester Lasrado</h5>
                   <p class="subtitle">Associate Professor</p>
               </div>
               <span class="tooltiptext">Associate Professor at Kristiania University College,<br/>Oslo </span>
@@ -122,7 +120,7 @@ author_profile: true
                   <div class="avatar">
                       <img src="/images/teams/laster.jpg" alt='Lester Lasrado' class="img-responsive img-circle table-bordered himg" />
                   </div>
-                  <h5>Dr. Lester Lasrado</h5>
+                  <h5>Bhumika Gupta</h5>
                   <p class="subtitle">Associate Professor</p>
               </div>
               <span class="tooltiptext">Associate Professor at Kristiania University College,<br/>Oslo </span>
