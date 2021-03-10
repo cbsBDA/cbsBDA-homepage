@@ -6,23 +6,6 @@ author_profile: true
 
 {% include base_path %}
 
-# 2021
-
-**70. [C]**. Somnath Mazumdar; Thomas Jensen; Raghava Rao Mukkamala; Robert J. Kauffman; Jan Damsgaard / **Do Blockchain and IoT Architecture Create Informedness to Support Provenance Tracking in the Product Lifecycle?** In: Proceedings of the 54th Hawaii International Conference on System SciencesHawaii : Hawaii International Conference on System Sciences (HICSS) 2021, p. 1497-1506 (Proceedings of the Annual Hawaii International Conference on System Sciences) ([PDF](https://raghavamukkamala.github.io/files/pubs/2021_HICSS_Blockchain_IoT_Product_Lifecycle.pdf){:target="_blank" rel="noopener"})
-
-2020
-=====
-
-**69. [J]**. Aseem Kinra; Kim Sundtoft Hald; Raghava Rao Mukkamala; Ravi Vatrapu / **An Unstructured Big Data Approach for Country Logistics Performance Assessment in Global Supply Chains.**
-In: International Journal of Operations and Production Management, Vol. 40, No. 4, 2020, p. 439-458.([PDF](https://raghavamukkamala.github.io/files/pubs/2020_IJOPM-Big-data-for-logistics-Performance.pdf){:target="_blank" rel="noopener"})
-
-**68. [J]**. Gayathri Rajakumaran; Neelanarayanan Venkataraman; Raghava Rao Mukkamala / **Denial of Service Attack Prediction Using Gradient Descent Algorithm**.  In: SN Computer Science, Vol. 1, No. 1, 1.2020.
-
-**67. [C]**. Abid Hussain; Lester Allan Lasrado; Raghava Rao Mukkamala / **Sharing Is Caring – Design and Demonstration of a Data Privacy Tool for Interorganizational Transfer of Data**.Paper presented at International Conference on ENTERprise Information Systems/International Conference on Project MANagement/International Conference on Health and Social Care Information Systems and Technologies. CENTERIS/ProjMAN/HCist 2020, 2020
-
-**66. [C]**. Monica Mundada; Raghava Rao Mukkamala / **Smart Cities for Sustainability : An Analytical Perspective**. In: Proceedings of the World Conference on Smart Trends in Systems, Security and Sustainability (WS4 2020). ed. /Xin-She Yang; Simon James Fong; Moisés Toapanta; Ion Andronache; Niko Phillips. Los Alamos, CA : IEEE 7.2020, p. 770-775. ([PDF](https://raghavamukkamala.github.io/files/pubs/2020_Samrt_Cities_IEE_WS4.pdf){:target="_blank" rel="noopener"})
-
-
 
 <!-- Section: about -->
 <section id="publications" class="home-section  bg1">
@@ -49,6 +32,42 @@ In: International Journal of Operations and Production Management, Vol. 40, No. 
                         <div class="inner">
 
                             <div class="accordion" id="accordion">
+                            <h3 class="accHeader mt-0" headerindex="0h">
+                                <span class="accordprefix">
+                                    <i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
+                                </span> <a class="icon-collapse collapsed font-fff" data-toggle="collapse" data-parent="#accordion" href="#publication2021"><i class="pull-right fa fa-plus"></i><i class="pull-right fa fa-minus"></i>
+                                2021
+                                </a>
+                            </h3>
+                              <div class="accDetail panel-collapse collapse in" id="publication2021">
+                                  <p>
+                                        <strong>70. [C]</strong>. Somnath Mazumdar; Thomas Jensen; Raghava Rao Mukkamala; Robert J. Kauffman; Jan Damsgaard / <strong>Do Blockchain and IoT Architecture Create Informedness to Support Provenance Tracking in the Product Lifecycle?</strong> In: Proceedings of the 54th Hawaii International Conference on System SciencesHawaii : Hawaii International Conference on System Sciences (HICSS) 2021, p. 1497-1506 (Proceedings of the Annual Hawaii International Conference on System Sciences)
+                                        (<a href="/files/pubs/2021_HICSS_Blockchain_IoT_Product_Lifecycle.pdf" target="_blank">PDF</a>)
+                                    </p>
+                              </div>
+                            <h3 class="accHeader mt-0" headerindex="0h">
+                                <span class="accordprefix">
+                                    <i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
+                                </span> <a class="icon-collapse collapsed font-fff" data-toggle="collapse" data-parent="#accordion" href="#publication2020"><i class="pull-right fa fa-plus"></i><i class="pull-right fa fa-minus"></i>
+                                2020
+                                </a>
+                            </h3>
+                              <div class="accDetail panel-collapse collapse in" id="publication2020">
+                                  <p>
+                                        <strong>69. [J]</strong>. Aseem Kinra; Kim Sundtoft Hald; Raghava Rao Mukkamala; Ravi Vatrapu / <strong>An Unstructured Big Data Approach for Country Logistics Performance Assessment in Global Supply Chains.</strong>In: International Journal of Operations and Production Management, Vol. 40, No. 4, 2020, p. 439-458.
+                                        (<a href="/files/pubs/2020_IJOPM-Big-data-for-logistics-Performance.pdf" target="_blank">PDF</a>)
+                                    </p>
+                                    <p>
+                                        <strong>68. [J]</strong>. Gayathri Rajakumaran; Neelanarayanan Venkataraman; Raghava Rao Mukkamala / <strong>Denial of Service Attack Prediction Using Gradient Descent Algorithm</strong>.  In: SN Computer Science, Vol. 1, No. 1, 1.2020.
+
+                                    </p>
+                                    <p>
+                                        <strong>67. [C]</strong>. Abid Hussain; Lester Allan Lasrado; Raghava Rao Mukkamala / <strong>Sharing Is Caring – Design and Demonstration of a Data Privacy Tool for Interorganizational Transfer of Data</strong>.Paper presented at International Conference on ENTERprise Information Systems/International Conference on Project MANagement/International Conference on Health and Social Care Information Systems and Technologies. CENTERIS/ProjMAN/HCist 2020, 2020
+                                    </p>
+                                    <p>
+                                        <strong>66. [C]</strong>. Monica Mundada; Raghava Rao Mukkamala / <strong>Smart Cities for Sustainability : An Analytical Perspective</strong>. In: Proceedings of the World Conference on Smart Trends in Systems, Security and Sustainability (WS4 2020). ed. /Xin-She Yang; Simon James Fong; Moisés Toapanta; Ion Andronache; Niko Phillips. Los Alamos, CA : IEEE 7.2020, p. 770-775. (<a href="/files/pubs/2020_Samrt_Cities_IEE_WS4.pdf" target="_blank">PDF</a>)
+                                    </p>
+                              </div>
                                 <h3 class="accHeader mt-0" headerindex="0h">
                                     <span class="accordprefix">
                                         <i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
