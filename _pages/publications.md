@@ -42,7 +42,7 @@ author_profile: true
                               <div class="accDetail panel-collapse collapse in" id="publication2021">
                                   <p>
                                         <strong>70. [C]</strong>. Somnath Mazumdar; Thomas Jensen; Raghava Rao Mukkamala; Robert J. Kauffman; Jan Damsgaard / <strong>Do Blockchain and IoT Architecture Create Informedness to Support Provenance Tracking in the Product Lifecycle?</strong> In: Proceedings of the 54th Hawaii International Conference on System SciencesHawaii : Hawaii International Conference on System Sciences (HICSS) 2021, p. 1497-1506 (Proceedings of the Annual Hawaii International Conference on System Sciences)
-                                        (<a href="/files/pubs/2021_HICSS_Blockchain_IoT_Product_Lifecycle.pdf" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2021_HICSS_Blockchain_IoT_Product_Lifecycle.pdf" target="_blank">PDF</a>)
                                     </p>
                               </div>
                             <h3 class="accHeader" headerindex="0h">
@@ -55,7 +55,7 @@ author_profile: true
                               <div class="accDetail panel-collapse collapse in" id="publication2020">
                                   <p>
                                         <strong>69. [J]</strong>. Aseem Kinra; Kim Sundtoft Hald; Raghava Rao Mukkamala; Ravi Vatrapu / <strong>An Unstructured Big Data Approach for Country Logistics Performance Assessment in Global Supply Chains.</strong>In: International Journal of Operations and Production Management, Vol. 40, No. 4, 2020, p. 439-458.
-                                        (<a href="/files/pubs/2020_IJOPM-Big-data-for-logistics-Performance.pdf" target="_blank">PDF</a>)
+                                        (<a href="/files/publication/2020_IJOPM-Big-data-for-logistics-Performance.pdf" target="_blank">PDF</a>)
                                     </p>
                                     <p>
                                         <strong>68. [J]</strong>. Gayathri Rajakumaran; Neelanarayanan Venkataraman; Raghava Rao Mukkamala / <strong>Denial of Service Attack Prediction Using Gradient Descent Algorithm</strong>.  In: SN Computer Science, Vol. 1, No. 1, 1.2020.
@@ -65,7 +65,7 @@ author_profile: true
                                         <strong>67. [C]</strong>. Abid Hussain; Lester Allan Lasrado; Raghava Rao Mukkamala / <strong>Sharing Is Caring – Design and Demonstration of a Data Privacy Tool for Interorganizational Transfer of Data</strong>.Paper presented at International Conference on ENTERprise Information Systems/International Conference on Project MANagement/International Conference on Health and Social Care Information Systems and Technologies. CENTERIS/ProjMAN/HCist 2020, 2020
                                     </p>
                                     <p>
-                                        <strong>66. [C]</strong>. Monica Mundada; Raghava Rao Mukkamala / <strong>Smart Cities for Sustainability : An Analytical Perspective</strong>. In: Proceedings of the World Conference on Smart Trends in Systems, Security and Sustainability (WS4 2020). ed. /Xin-She Yang; Simon James Fong; Moisés Toapanta; Ion Andronache; Niko Phillips. Los Alamos, CA : IEEE 7.2020, p. 770-775. (<a href="/files/pubs/2020_Samrt_Cities_IEE_WS4.pdf" target="_blank">PDF</a>)
+                                        <strong>66. [C]</strong>. Monica Mundada; Raghava Rao Mukkamala / <strong>Smart Cities for Sustainability : An Analytical Perspective</strong>. In: Proceedings of the World Conference on Smart Trends in Systems, Security and Sustainability (WS4 2020). ed. /Xin-She Yang; Simon James Fong; Moisés Toapanta; Ion Andronache; Niko Phillips. Los Alamos, CA : IEEE 7.2020, p. 770-775. (<a href="/files/publication/2020_Samrt_Cities_IEE_WS4.pdf" target="_blank">PDF</a>)
                                     </p>
                               </div>
                                 <h3 class="accHeader" headerindex="0h">
