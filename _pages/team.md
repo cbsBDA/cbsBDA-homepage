@@ -120,12 +120,12 @@ author_profile: true
           <div class="team boxed-grey text-center">
               <div class="inner">
                   <div class="avatar">
-                      <img src="/images/teams/laster.jpg" alt='Lester Lasrado' class="img-responsive img-circle table-bordered himg" />
+                      <img src="/images/teams/Bhumika-Gupta.jpg" alt='Bhumika-Gupta' class="img-responsive img-circle table-bordered himg" />
                   </div>
                   <h5>Bhumika Gupta</h5>
                   <p class="subtitle">Associate Professor</p>
               </div>
-              <span class="tooltiptext">Associate Professor at Kristiania University College,<br/>Oslo </span>
+              <!-- <span class="tooltiptext">Associate Professor at Kristiania University College,<br/>Oslo </span> -->
           </div>
       </div>
   </div>
@@ -307,7 +307,7 @@ author_profile: true
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1 mt-15">
+    <!-- <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1 mt-15">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
                 <div class="inner">
@@ -354,7 +354,7 @@ author_profile: true
                 <span class="tooltiptext">Mikkel Harlev<br/>PhD Student</span>
             </div>
         </div>
-    </div>
+    </div> -->
 </div>
 <div class="heading-about">
 <div class="container  w-100 p-0 m-0">
