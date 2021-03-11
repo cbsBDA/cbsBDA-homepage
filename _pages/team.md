@@ -120,7 +120,7 @@ author_profile: true
           <div class="team boxed-grey text-center">
               <div class="inner">
                   <div class="avatar">
-                      <img src="/images/teams/laster.jpg" alt='Lester Lasrado' class="img-responsive img-circle table-bordered himg" />
+                      <img src="/images/teams/laster--.jpg" alt='Lester Lasrado' class="img-responsive img-circle table-bordered himg" />
                   </div>
                   <h5>Bhumika Gupta</h5>
                   <p class="subtitle">Associate Professor</p>
