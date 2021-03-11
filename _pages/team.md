@@ -120,7 +120,11 @@ author_profile: true
           <div class="team boxed-grey text-center">
               <div class="inner">
                   <div class="avatar">
+<<<<<<< HEAD
                       <img src="/images/teams/Bhumika-Gupta.jpg" alt='Bhumika-Gupta' class="img-responsive img-circle table-bordered himg" />
+=======
+                      <img src="/images/teams/Bhumika.jpg" alt='Bhumika Gupta' class="img-responsive img-circle table-bordered himg" />
+>>>>>>> f9dd3d14cd97683788ea9f0753feb3ad20c7cacf
                   </div>
                   <h5>Bhumika Gupta</h5>
                   <p class="subtitle">Associate Professor</p>
