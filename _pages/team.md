@@ -125,7 +125,7 @@ author_profile: true
                   <h5>Bhumika Gupta</h5>
                   <p class="subtitle">Associate Professor</p>
               </div>
-              <span class="tooltiptext">Associate Professor at Kristiania University College,<br/>Oslo </span>
+              
           </div>
       </div>
   </div>
