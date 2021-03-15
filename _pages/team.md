@@ -93,7 +93,7 @@ author_profile: true
     <div class="col-lg-8 col-lg-offset-2 m-0">
       <div class="wow bounceInDown m-0" data-wow-delay="0.4s">
           <div class="section-heading">
-            <h2 class="text-left">Affiliate Faculty</h2>
+            <h2 class="text-left">Research Collaborators</h2>
           </div>
         </div>
       </div>
@@ -122,11 +122,11 @@ author_profile: true
                   <div class="avatar">
                       <img src="/images/teams/Bhumika-Gupta.jpg" alt='Bhumika-Gupta' class="img-responsive img-circle table-bordered himg" />
                   </div>
-                  <h5>Bhumika Gupta</h5>
-                  <p class="subtitle">Associate Professor</p>
+                  <h5>Dr. Bhumika Gupta</h5>
+                  <p class="subtitle">Research Scientist</p>
               </div>
-              
-          </div>
+              <span class="tooltiptext">Associate Professor at Telecom Business School, France,<br/>France </span>
+            </div>
       </div>
   </div>
 </div>
