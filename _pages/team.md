@@ -125,7 +125,7 @@ author_profile: true
                   <h5>Dr. Bhumika Gupta</h5>
                   <p class="subtitle">Research Scientist</p>
               </div>
-              <span class="tooltiptext">Associate Professor at Telecom Business School, France,<br/>France </span>
+              <span class="tooltiptext">Associate Professor at Telecom Business School,<br/>France </span>
             </div>
       </div>
   </div>
