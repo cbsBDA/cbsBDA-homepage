@@ -93,49 +93,6 @@ author_profile: true
     <div class="col-lg-8 col-lg-offset-2 m-0">
       <div class="wow bounceInDown m-0" data-wow-delay="0.4s">
           <div class="section-heading">
-            <h2 class="text-left">Research Collaborators</h2>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="row mb-15 xs-mb-0 mt-5">
-  <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
-      <div class="wow bounceInUp animated animated">
-          <div class="team boxed-grey text-center">
-              <div class="inner">
-                  <div class="avatar">
-                      <img src="/images/teams/laster.jpg" alt='Lester Lasrado' class="img-responsive img-circle table-bordered himg" />
-                  </div>
-                  <h5>Dr. Lester Lasrado</h5>
-                  <p class="subtitle">Associate Professor</p>
-              </div>
-              <span class="tooltiptext">Associate Professor at Kristiania University College,<br/>Oslo </span>
-          </div>
-      </div>
-  </div>
-  <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
-      <div class="wow bounceInUp animated animated">
-          <div class="team boxed-grey text-center">
-              <div class="inner">
-                  <div class="avatar">
-                      <img src="/images/teams/Bhumika-Gupta.jpg" alt='Bhumika-Gupta' class="img-responsive img-circle table-bordered himg" />
-                  </div>
-                  <h5>Dr. Bhumika Gupta</h5>
-                  <p class="subtitle">Research Scientist</p>
-              </div>
-              <span class="tooltiptext">Associate Professor at Telecom Business School,<br/>France </span>
-            </div>
-      </div>
-  </div>
-</div>
-<div class="heading-about">
-<div class="container  w-100 p-0 m-0">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 m-0">
-      <div class="wow bounceInDown m-0" data-wow-delay="0.4s">
-          <div class="section-heading">
             <h2 class="text-left">Postdoctoral Researchers</h2>
           </div>
         </div>
@@ -144,7 +101,6 @@ author_profile: true
   </div>
 </div>
 <div class="row mb-15 xs-mb-0">
-
     <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
@@ -195,8 +151,6 @@ author_profile: true
     </div>
 
 </div>
-
-
 <div class="heading-about">
 <div class="container  w-100 p-0 m-0">
   <div class="row">
@@ -355,6 +309,49 @@ author_profile: true
             </div>
         </div>
     </div> -->
+</div>
+<div class="heading-about">
+<div class="container  w-100 p-0 m-0">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 m-0">
+      <div class="wow bounceInDown m-0" data-wow-delay="0.4s">
+          <div class="section-heading">
+            <h2 class="text-left">Research Collaborators</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row mb-15 xs-mb-0 mt-5">
+  <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
+      <div class="wow bounceInUp animated animated">
+          <div class="team boxed-grey text-center">
+              <div class="inner">
+                  <div class="avatar">
+                      <img src="/images/teams/laster.jpg" alt='Lester Lasrado' class="img-responsive img-circle table-bordered himg" />
+                  </div>
+                  <h5>Dr. Lester Lasrado</h5>
+                  <p class="subtitle">Associate Professor</p>
+              </div>
+              <span class="tooltiptext">Associate Professor at Kristiania University College,<br/>Oslo </span>
+          </div>
+      </div>
+  </div>
+  <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
+      <div class="wow bounceInUp animated animated">
+          <div class="team boxed-grey text-center">
+              <div class="inner">
+                  <div class="avatar">
+                      <img src="/images/teams/Bhumika-Gupta.jpg" alt='Bhumika-Gupta' class="img-responsive img-circle table-bordered himg" />
+                  </div>
+                  <h5>Dr. Bhumika Gupta</h5>
+                  <p class="subtitle">Research Scientist</p>
+              </div>
+              <span class="tooltiptext">Associate Professor at Telecom Business School,<br/>France </span>
+            </div>
+      </div>
+  </div>
 </div>
 <div class="heading-about">
 <div class="container  w-100 p-0 m-0">
