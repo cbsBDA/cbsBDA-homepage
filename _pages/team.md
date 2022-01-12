@@ -373,7 +373,7 @@ author_profile: true
                 <div class="inner">
                     <div class="avatar">
                     <a href="#">
-                        <img src="/images/teams/default.png" alt='Martin' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/Martin.jpg" alt='Martin' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
                     <h5>Martin</h5>
@@ -389,13 +389,13 @@ author_profile: true
                 <div class="inner">
                     <div class="avatar">
                     <a href="#">
-                        <img src="/images/teams/default.png" alt='Tim' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/Tim.jpg" alt='Tim' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
-                    <h5>Tim</h5>
+                    <h5>Tim Schurig</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
-                <span class="tooltiptext">Tim<br/>Research Assistant </span>
+                <span class="tooltiptext">Tim Schurig<br/>Research Assistant </span>
             </div>
         </div>
     </div>
