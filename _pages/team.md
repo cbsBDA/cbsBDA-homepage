@@ -405,13 +405,13 @@ author_profile: true
                 <div class="inner">
                     <div class="avatar">
                     <a href="#">
-                        <img src="/images/teams/default.png" alt='Henry' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/Henry.jpg" alt='Henry' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
-                    <h5>Henry</h5>
+                    <h5>Henry Stoll</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
-                <span class="tooltiptext">Henry<br/>Research Assistant </span>
+                <span class="tooltiptext">Henry Stoll<br/>Research Assistant </span>
             </div>
         </div>
     </div>
@@ -432,23 +432,6 @@ author_profile: true
         </div>
     </div>
 </div>
-<div class="row mb-15 xs-mb-0">
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
-        <div class="wow bounceInUp animated animated">
-            <div class="team boxed-grey text-center">
-                <div class="inner">
-                    <div class="avatar">
-                    <a href="#">
-                        <img src="/images/teams/Henry.jpg" alt='Henry Stoll' class="img-responsive img-circle table-bordered himg" />
-                        </a>
-                    </div>
-                    <h5>Henry Stoll</h5>
-                    <p class="subtitle">Research Assistant</p>
-                </div>
-                <span class="tooltiptext">Henry Stoll<br/>Research Assistant </span>
-            </div>
-        </div>
-    </div>
 
 </div>
 
