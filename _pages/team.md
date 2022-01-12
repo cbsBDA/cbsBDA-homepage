@@ -439,7 +439,7 @@ author_profile: true
                 <div class="inner">
                     <div class="avatar">
                     <a href="#">
-                        <img src="/images/teams/Henry.png" alt='Henry Stoll' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/Henry.jpg" alt='Henry Stoll' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
                     <h5>Henry Stoll</h5>
