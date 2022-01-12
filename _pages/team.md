@@ -439,10 +439,10 @@ author_profile: true
                 <div class="inner">
                     <div class="avatar">
                     <a href="#">
-                        <img src="/images/teams/default.png" alt='Profile Toronto small' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/Henry.png" alt='Henry Stoll' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
-                    <h5>Martin</h5>
+                    <h5>Henry Stoll</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
                 <span class="tooltiptext">Henry Stoll<br/>Research Assistant </span>
