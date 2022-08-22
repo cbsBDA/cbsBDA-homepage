@@ -295,7 +295,7 @@ author_profile: true
                         <img src="/images/teams/odd.jpg" alt='Odd Auglend' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
-                    <h5>Martin</h5>
+                    <h5>Odd Harald Auglend</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
                 <span class="tooltiptext">Odd Harald Auglend<br/>Research Assistant </span>
