@@ -71,36 +71,52 @@ author_profile: true
       </div>
   </div>
   <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
-      <div class="wow bounceInUp animated animated">
-          <div class="team boxed-grey text-center">
-              <div class="inner">
-                  <div class="avatar">
-                  <a href="#">
-                      <img src="/images/teams/Sonath.jpg" alt='Sonath Mazumdar' class="img-responsive img-circle table-bordered himg" />
-                      </a>
-                  </div>
-                  <h5>Dr. Somnath Mazumdar</h5>
-                  <p class="subtitle">Assistant Professor</p>
-              </div>
-              <span class="tooltiptext">Somnath Mazumdar<br/>Assistant Professor</span>
-          </div>
-      </div>
-  </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
             <div class="wow bounceInUp animated animated">
                 <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
-                    <a href="#">
+                    <a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/szdigi">
                         <img src="/images/teams/sine-pic-18-web.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
                     <h5>Dr. Sine Zambach</h5>
-                    <p class="subtitle">Postdoc</p>
+                    <p class="subtitle">Assistant Professor</p>
                 </div>
-                <span class="tooltiptext">Sine Zambach<br/>Postdoc</span>
+                <span class="tooltiptext">Sine Zambach<br/>Assistant Professor</span>
                 </div>
             </div>
+    </div>
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
+        <div class="wow bounceInUp animated animated">
+            <div class="team boxed-grey text-center">
+                <div class="inner">
+                    <div class="avatar">
+                    <a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/smadigi">
+                        <img src="/images/teams/Sonath.jpg" alt='Sonath Mazumdar' class="img-responsive img-circle table-bordered himg" />
+                        </a>
+                    </div>
+                    <h5>Dr. Somnath Mazumdar</h5>
+                    <p class="subtitle">Assistant Professor</p>
+                </div>
+                <span class="tooltiptext">Somnath Mazumdar<br/>Assistant Professor</span>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
+        <div class="wow bounceInUp animated animated">
+            <div class="team boxed-grey text-center">
+                <div class="inner">
+                    <div class="avatar">
+                    <a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rsdigi">
+                        <img src="/images/teams/Rajani_Sigh.jpg" alt='Rajani Singh' class="img-responsive img-circle table-bordered himg" />
+                        </a>
+                    </div>
+                    <h5>Dr. Rajani Singh</h5>
+                    <p class="subtitle">Assistant Professor</p>
+                </div>
+                <span class="tooltiptext">Rajani Singh<br/>Assistant Professor </span>
+            </div>
+        </div>
     </div>
 </div>
 <div class="heading-about">
