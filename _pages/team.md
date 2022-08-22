@@ -28,11 +28,11 @@ author_profile: true
           <div class="team boxed-grey text-center">
               <div class="inner">
                   <div class="avatar">
-                  <a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">
+                  <a class="t-name" target="_blank" href="https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/rrmitm">
                       <img src="/images/teams/raghava1.jpg" alt='Raghava Mukkamala' class="img-responsive img-circle table-bordered himg" />
                       </a>
                   </div>
-                  <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rrmitm">Dr. Raghava Mukkamala</a></h5>
+                  <h5><a class="t-name" target="_blank" href="https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/rrmitm">Dr. Raghava Mukkamala</a></h5>
                   <p class="subtitle">Director, Assoc. Prof.</p>
               </div>
               <span class="tooltiptext">Copenhagen Business School<br/>Kristiania University College</span>
@@ -44,10 +44,10 @@ author_profile: true
           <div class="team boxed-grey text-center">
               <div class="inner">
                   <div class="avatar">
-                  <a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rvitm">
+                  <a class="t-name" target="_blank" href="https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/rvitm">
                       <img src="/images/teams/bm0108_nr3_ravi_vatrapu_5405.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" /></a>
                   </div>
-                  <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rvitm">Prof. Ravi Vatrapu</a></h5>
+                  <h5><a class="t-name" target="_blank" href="https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/rvitm">Prof. Ravi Vatrapu</a></h5>
                   <p class="subtitle">Founding Director</p>
               </div>
               <span class="tooltiptext">Professor at Ryerson University, <br/>Canada</span>
@@ -59,11 +59,11 @@ author_profile: true
           <div class="team boxed-grey text-center">
               <div class="inner">
                   <div class="avatar">
-                  <a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/ahitm">
+                  <a class="t-name" target="_blank" href="https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/ahitm">
                       <img src="/images/teams/abid_hussain_cropped_322.jpg" alt='Dr. Abid Hussain' class="img-responsive img-circle table-bordered himg" />
                       </a>
                   </div>
-                  <h5><a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/ahitm">Dr. Abid Hussain</a></h5>
+                  <h5><a class="t-name" target="_blank" href="https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/ahitm">Dr. Abid Hussain</a></h5>
                   <p class="subtitle">Associate Professor</p>
               </div>
               <span class="tooltiptext">Dr. Abid Hussain<br/>Associate Professor </span>
@@ -75,7 +75,7 @@ author_profile: true
                 <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
-                    <a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/szdigi">
+                    <a class="t-name" target="_blank" href="https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/szdigi">
                         <img src="/images/teams/sine-pic-18-web.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
@@ -91,7 +91,7 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
-                    <a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/smadigi">
+                    <a class="t-name" target="_blank" href="https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/smadigi">
                         <img src="/images/teams/Sonath.jpg" alt='Sonath Mazumdar' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
@@ -107,7 +107,7 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
-                    <a class="t-name" target="_blank" href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/rsdigi">
+                    <a class="t-name" target="_blank" href="https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/rsdigi">
                         <img src="/images/teams/Rajani_Sigh.jpg" alt='Rajani Singh' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
@@ -138,34 +138,17 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
-                    <a href="#">
-                        <img src="/images/teams/Rajani_Sigh.jpg" alt='Rajani Singh' class="img-responsive img-circle table-bordered himg" />
+                    <a class="t-name" target="_blank" href="https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/rsdigi">
+                        <img src="/images/teams/Ashutosh.png" alt='Ashutosh Dhar Dwivedi' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
-                    <h5>Dr. Rajani Singh</h5>
+                    <h5>Dr. Ashutosh Dhar Dwivedi</h5>
                     <p class="subtitle">Postdoc</p>
                 </div>
-                <span class="tooltiptext">Rajani Singh<br/>Postdoc </span>
+                <span class="tooltiptext">Ashutosh Dhar Dwivedi<br/>Postdoc </span>
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
-        <div class="wow bounceInUp animated animated">
-            <div class="team boxed-grey text-center">
-              <div class="inner">
-                  <div class="avatar">
-                  <a href="#">
-                      <img src="/images/teams/sine-pic-18-web.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
-                      </a>
-                  </div>
-                  <h5>Dr. Sine Zambach</h5>
-                  <p class="subtitle">Postdoc</p>
-              </div>
-              <span class="tooltiptext">Sine Zambach<br/>Postdoc</span>
-            </div>
-        </div>
-    </div>
-
 </div>
 <div class="heading-about">
 <div class="container  w-100 p-0 m-0">
@@ -186,7 +169,23 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
-                    <a href="#">
+                    <a class="t-name" target="_blank" href="https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/srdigi">
+                        <img src="/images/teams/Sippo.jpg" alt='Sippo Rossi' class="img-responsive img-circle table-bordered himg" />
+                        </a>
+                    </div>
+                    <h5>Mikkel Harlev</h5>
+                    <p class="subtitle">PhD Student</p>
+                </div>
+                <span class="tooltiptext">Sippo Rossi<br/>PhD Student</span>
+            </div>
+        </div>
+    </div>  
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
+        <div class="wow bounceInUp animated animated">
+            <div class="team boxed-grey text-center">
+                <div class="inner">
+                    <div class="avatar">
+                    <a class="t-name" target="_blank" href="https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/mhadigi">
                         <img src="/images/teams/Mikkel.jpg" alt='Mikkel Harlev' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
@@ -266,11 +265,11 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
-                    <a class="t-name" target="_blank"  href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/czitm">
+                    <a class="t-name" target="_blank"  href="https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/czitm">
                         <img src="/images/teams/chriszimmerman.jpg" alt='chriszimmerman' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
-                    <h5><a class="t-name" target="_blank"  href="http://www.cbs.dk/en/research/departments-and-centres/department-of-it-management/staff/czitm">Chris Zimmerman</a></h5>
+                    <h5><a class="t-name" target="_blank"  href="https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/czitm">Chris Zimmerman</a></h5>
                     <p class="subtitle">Industrial PhD Student<br />(Mindjumpers)</p>
                 </div>
                 <span class="tooltiptext">Chris Zimmerman<br/>Industrial PhD Student<br />(Mindjumpers) </span>
