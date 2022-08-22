@@ -228,54 +228,6 @@ author_profile: true
             </div>
         </div>
     </div>
-    <!-- <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1 mt-15">
-        <div class="wow bounceInUp animated animated">
-            <div class="team boxed-grey text-center">
-                <div class="inner">
-                    <div class="avatar">
-                    <a href="#">
-                        <img src="/images/teams/Mikkel.jpg" alt='Mikkel Harlev' class="img-responsive img-circle table-bordered himg" />
-                        </a>
-                    </div>
-                    <h5>Mikkel Harlev</h5>
-                    <p class="subtitle">PhD Student</p>
-                </div>
-                <span class="tooltiptext">Mikkel Harlev<br/>PhD Student</span>
-            </div>
-        </div>
-    </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1 mt-15">
-        <div class="wow bounceInUp animated animated">
-            <div class="team boxed-grey text-center">
-                <div class="inner">
-                    <div class="avatar">
-                    <a href="#">
-                        <img src="/images/teams/Mikkel.jpg" alt='Mikkel Harlev' class="img-responsive img-circle table-bordered himg" />
-                        </a>
-                    </div>
-                    <h5>Mikkel Harlev</h5>
-                    <p class="subtitle">PhD Student</p>
-                </div>
-                <span class="tooltiptext">Mikkel Harlev<br/>PhD Student</span>
-            </div>
-        </div>
-    </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1 mt-15">
-        <div class="wow bounceInUp animated animated">
-            <div class="team boxed-grey text-center">
-                <div class="inner">
-                    <div class="avatar">
-                    <a href="#">
-                        <img src="/images/teams/Mikkel.jpg" alt='Mikkel Harlev' class="img-responsive img-circle table-bordered himg" />
-                        </a>
-                    </div>
-                    <h5>Mikkel Harlev</h5>
-                    <p class="subtitle">PhD Student</p>
-                </div>
-                <span class="tooltiptext">Mikkel Harlev<br/>PhD Student</span>
-            </div>
-        </div>
-    </div> -->
 </div>
 <div class="heading-about">
 <div class="container  w-100 p-0 m-0">
@@ -399,12 +351,6 @@ author_profile: true
         </div>
     </div>
 </div>
-
-</div>
-
-<div class="row mb-15 xs-mb-0">
-
-
 </div>
 <div class="heading-about">
   <div class="container  w-100 p-0 m-0">
@@ -419,7 +365,6 @@ author_profile: true
     </div>
   </div>
 </div>
-
   <div class="row mb-15 xs-mb-0 mt-5">
     <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
@@ -569,6 +514,5 @@ author_profile: true
             </div>
         </div>
     </div>
-
 </div>
 </section>
