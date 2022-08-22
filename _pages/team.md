@@ -228,54 +228,6 @@ author_profile: true
             </div>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
-        <div class="wow bounceInUp animated animated">
-            <div class="team boxed-grey text-center">
-                <div class="inner">
-                    <div class="avatar">
-                    <a class="t-name" target="_blank" href="https://www.researchgate.net/profile/Kjeld_Hansen">
-                        <img src="/images/teams/kjeld.jpg" alt='Kjeld Hansen' class="img-responsive img-circle table-bordered himg" />
-                        </a>
-                    </div>
-                    <h5><a class="t-name" target="_blank" href="https://www.researchgate.net/profile/Kjeld_Hansen">Kjeld Hansen</a></h5>
-                    <p class="subtitle">Privatist PhD Student<br>(Westerdals Oslo ACT)</p>
-                </div>
-                <span class="tooltiptext">Kjeld Hansen<br/>DirPrivatist PhD Student<br>(Westerdals Oslo ACT)ector </span>
-            </div>
-        </div>
-    </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1 mt-15">
-        <div class="wow bounceInUp animated animated">
-            <div class="team boxed-grey text-center">
-                <div class="inner">
-                    <div class="avatar">
-                    <a href="#">
-                        <img src="/images/teams/Povl.jpg" alt='Povl' class="img-responsive img-circle table-bordered himg" />
-                        </a>
-                    </div>
-                    <h5>Povl Heiberg Gad</h5>
-                    <p class="subtitle">Industrial PhD Student</p>
-                </div>
-                <span class="tooltiptext">Povl Heiberg Gad<br/>Industrial PhD Student </span>
-            </div>
-        </div>
-    </div>
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1 mt-15">
-        <div class="wow bounceInUp animated animated">
-            <div class="team boxed-grey text-center">
-                <div class="inner">
-                    <div class="avatar">
-                    <a class="t-name" target="_blank"  href="https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/czitm">
-                        <img src="/images/teams/chriszimmerman.jpg" alt='chriszimmerman' class="img-responsive img-circle table-bordered himg" />
-                        </a>
-                    </div>
-                    <h5><a class="t-name" target="_blank"  href="https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/czitm">Chris Zimmerman</a></h5>
-                    <p class="subtitle">Industrial PhD Student<br />(Mindjumpers)</p>
-                </div>
-                <span class="tooltiptext">Chris Zimmerman<br/>Industrial PhD Student<br />(Mindjumpers) </span>
-            </div>
-        </div>
-    </div>
     <!-- <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1 mt-15">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
@@ -469,6 +421,54 @@ author_profile: true
 </div>
 
   <div class="row mb-15 xs-mb-0 mt-5">
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
+        <div class="wow bounceInUp animated animated">
+            <div class="team boxed-grey text-center">
+                <div class="inner">
+                    <div class="avatar">
+                    <a class="t-name" target="_blank" href="https://www.researchgate.net/profile/Kjeld_Hansen">
+                        <img src="/images/teams/kjeld.jpg" alt='Kjeld Hansen' class="img-responsive img-circle table-bordered himg" />
+                        </a>
+                    </div>
+                    <h5><a class="t-name" target="_blank" href="https://www.researchgate.net/profile/Kjeld_Hansen">Kjeld Hansen</a></h5>
+                    <p class="subtitle">Privatist PhD Student<br>(Westerdals Oslo ACT)</p>
+                </div>
+                <span class="tooltiptext">Kjeld Hansen<br/>DirPrivatist PhD Student<br>(Westerdals Oslo ACT)ector </span>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1 mt-15">
+        <div class="wow bounceInUp animated animated">
+            <div class="team boxed-grey text-center">
+                <div class="inner">
+                    <div class="avatar">
+                    <a href="#">
+                        <img src="/images/teams/Povl.jpg" alt='Povl' class="img-responsive img-circle table-bordered himg" />
+                        </a>
+                    </div>
+                    <h5>Povl Heiberg Gad</h5>
+                    <p class="subtitle">Industrial PhD Student</p>
+                </div>
+                <span class="tooltiptext">Povl Heiberg Gad<br/>Industrial PhD Student </span>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1 mt-15">
+        <div class="wow bounceInUp animated animated">
+            <div class="team boxed-grey text-center">
+                <div class="inner">
+                    <div class="avatar">
+                    <a class="t-name" target="_blank"  href="https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/czitm">
+                        <img src="/images/teams/chriszimmerman.jpg" alt='chriszimmerman' class="img-responsive img-circle table-bordered himg" />
+                        </a>
+                    </div>
+                    <h5><a class="t-name" target="_blank"  href="https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/czitm">Chris Zimmerman</a></h5>
+                    <p class="subtitle">Industrial PhD Student<br />(Mindjumpers)</p>
+                </div>
+                <span class="tooltiptext">Chris Zimmerman<br/>Industrial PhD Student<br />(Mindjumpers) </span>
+            </div>
+        </div>
+    </div>  
     <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
