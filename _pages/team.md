@@ -86,6 +86,22 @@ author_profile: true
           </div>
       </div>
   </div>
+    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
+            <div class="wow bounceInUp animated animated">
+                <div class="team boxed-grey text-center">
+                <div class="inner">
+                    <div class="avatar">
+                    <a href="#">
+                        <img src="/images/teams/sine-pic-18-web.jpg" alt='Prof. Ravi Vatrapu' class="img-responsive img-circle table-bordered himg" />
+                        </a>
+                    </div>
+                    <h5>Dr. Sine Zambach</h5>
+                    <p class="subtitle">Postdoc</p>
+                </div>
+                <span class="tooltiptext">Sine Zambach<br/>Postdoc</span>
+                </div>
+            </div>
+    </div>
 </div>
 <div class="heading-about">
 <div class="container  w-100 p-0 m-0">
@@ -101,22 +117,6 @@ author_profile: true
   </div>
 </div>
 <div class="row mb-15 xs-mb-0">
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
-        <div class="wow bounceInUp animated animated">
-            <div class="team boxed-grey text-center">
-                <div class="inner">
-                    <div class="avatar">
-                    <a href="#">
-                        <img src="/images/teams/Monica.jpg" alt='Monica Mundada' class="img-responsive img-circle table-bordered himg" />
-                        </a>
-                    </div>
-                    <h5>Dr. Monica Mundada</h5>
-                    <p class="subtitle">Postdoc </p>
-                </div>
-                <span class="tooltiptext">Monica Mundada<br/>Postdoc </span>
-            </div>
-        </div>
-    </div>
     <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
