@@ -292,13 +292,13 @@ author_profile: true
                 <div class="inner">
                     <div class="avatar">
                     <a href="#">
-                        <img src="/images/teams/Martin.jpg" alt='Martin' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/Odd.jpg" alt='Odd Auglend' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
                     <h5>Martin</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
-                <span class="tooltiptext">Martin<br/>Research Assistant </span>
+                <span class="tooltiptext">Odd Harald Auglend<br/>Research Assistant </span>
             </div>
         </div>
     </div>
@@ -350,7 +350,6 @@ author_profile: true
             </div>
         </div>
     </div>
-</div>
 </div>
 <div class="heading-about">
   <div class="container  w-100 p-0 m-0">
