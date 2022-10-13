@@ -173,7 +173,7 @@ author_profile: true
                         <img src="/images/teams/Sippo.jpg" alt='Sippo Rossi' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
-                    <h5>Mikkel Harlev</h5>
+                    <h5>Sippo Rossi</h5>
                     <p class="subtitle">PhD Student</p>
                 </div>
                 <span class="tooltiptext">Sippo Rossi<br/>PhD Student</span>
