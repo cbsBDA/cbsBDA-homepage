@@ -32,6 +32,54 @@ author_profile: true
                         <div class="inner">
 
                             <div class="accordion" id="accordion">
+
+
+                            <h3 class="accHeader mt-0" headerindex="0h">
+                                <span class="accordprefix">
+                                    <i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
+                                </span> <a class="icon-collapse collapsed font-fff" data-toggle="collapse" data-parent="#accordion" href="#publication2021"><i class="pull-right fa fa-plus"></i><i class="pull-right fa fa-minus"></i>
+                                2022
+                                </a>
+                            </h3>
+                              <div class="accDetail panel-collapse collapse in" id="publication2021">
+
+
+                                    <p>
+                                    <strong>81. [J]</strong>. Ashutosh Dhar Dwivedi; Rajani Singh; Raghava Rao Mukkamala; Waleed S Alnumay / Privacy-Preserving Ledger for Blockchain and IoT enabled Cyber-Physical Systems. In: Computers and Electrical Engineering, Elsevier, 2022. (accepted). (Impact factor = 4.15)
+                                    </p>
+                                    <p>
+
+                                    <strong>80. [C]</strong>. Tim Schurig; Sine Zambach; Raghava Rao Mukkamala; Malte Petry / Aspect-based Sentiment Analysis for University Teaching Analytics. In: Proceedings of the 30th European Conference on Information Systems (ECIS), Timișoara, Romania. 2022. 
+                                    </p>
+                                    <p>
+
+                                    <strong>79. [C]</strong>. Günter Prockl; Dominik Roeck; Thomas Jensen; Somnath Mazumdar; Raghava Rao Mukkamala / Beyond Task-technology Fit : Exploring Network Value of Blockchain Technology Based on Two Supply Chain Cases. In: Proceedings of the 55th Hawaii International Conference on System Sciences (HICSS) 2022, p. 5040-5049. 
+                                    </p>
+                                    <p>
+
+                                    <strong>78. [J]</strong>. Malte Bieler; Raghava Rao Mukkamala; Tor-Morten Grønli / A Context- and Trajectory-based Destination Prediction of Public Transportation Users. In: IEEE Intelligent Transportation Systems Magazine, 11.1.2022, p. 18. (Impact factor = 3.42). 
+                                    </p>
+                                    <p>
+
+                                    <strong>77. [J]</strong>. Deepraj Chowdhury; Anik Das; Ajoy Dey; Shreya Sarkar; Ashutosh Dhar Dwivedi; Raghava Rao Mukkamala; Lakhindar Murmu / ABCanDroid : A Cloud Integrated Android App for Noninvasive Early Breast Cancer Detection Using Transfer Learning. In: Sensors, Vol. 22, No. 3, 2.2022.
+
+                                    </p>
+                                    <p>
+
+                                    <strong>76. [B]</strong>. A. Brahmananda Reddy (Editor) ; B.V. Kiranmayee (Editor) ; Raghava Rao Mukkamala (Editor) ; K. Srujan Raju (Editor) / Proceedings of Second International Conference on Advances in Computer Engineering and Communication Systems. ICACECS 2021-2022, 599 p. (Algorithms for Intelligent Systems)
+
+                                    </p>
+                                    <p>
+                                    <strong>75. [J]</strong>. Sophia Auer; Sophia Nagler; Somnath Mazumdar; Raghava Rao Mukkamala / Towards Blockchain-IoT Based Shared Mobility : Car-sharing and Leasing as a Case Study. In: Journal of Network and Computer Applications, Vol. 200, 4.2022. <span style="background-color: #00F900"> (<strong>Impact factor = 7.57<strong>) </span> 
+                                    </p>
+
+
+
+
+
+                                </div>
+
+
                             <h3 class="accHeader mt-0" headerindex="0h">
                                 <span class="accordprefix">
                                     <i class="icon-minus statusicon" title="Collapse" alt="Collapse"></i>
@@ -40,9 +88,24 @@ author_profile: true
                                 </a>
                             </h3>
                               <div class="accDetail panel-collapse collapse in" id="publication2021">
-                                  
+
+
                                 <p>
-                                  <strong>71. [J]<strong>. Ashutosh Dhar Dwivedi; Rajani Singh; Uttam Ghosh; Raghava Rao Mukkamala; Amr Tolba; Omar Said / <strong> Privacy Preserving Authentication System based on Non-interactive Zero Knowledge Proof Suitable for Internet of Things </strong> In: Journal of Ambient Intelligence and Humanized Computing. ([PDF](https://raghavamukkamala.github.io/files/pubs/2021_JAIHC_PrivacyPreservingAuthenticatio.pdf){:target="_blank" rel="noopener"})
+                                <strong>74. [BC]</strong>. Raghava Rao Mukkamala; Ravi Vatrapu / <strong> Distributed Ledger Technologies and Blockchain for FinTech. </strong> In: The Routledge Handbook of FinTech. ed. /K. Thomas Liaw. Abingdon : Routledge 2021, p. 79-98 (Routledge International Handbooks) 
+
+                                </p>
+                                
+                                <p>
+                                <strong>73. [J]</strong>. Ashutosh Dhar Dwivedi; Rajani Singh; Keshav Kaushik; Raghava Rao Mukkamala; Waleed S. Alnumay / <strong> Blockchain and Artificial Intelligence for 5G-enabled Internet of Things : Challenges, Opportunities, and Solutions. </strong> In: Transactions on Emerging Telecommunications Technologies, 14.7.2021. 
+                                </p>
+
+                                <p>
+                                <strong>72. [J]</strong>. Lukas Stockburger; Georgios Kokosioulis; Alivelu Manga Mukkamala; Raghava Rao Mukkamala; Michel Avital / <strong> Blockchain-enabled Decentralized Identity Management : The Case of Self-sovereign Identity in Public Transportation. </strong> In: Blockchain: Research and Applications, 2021. 
+                                </p>
+
+
+                                <p>
+                                  <strong>71. [J]</strong>. Ashutosh Dhar Dwivedi; Rajani Singh; Uttam Ghosh; Raghava Rao Mukkamala; Amr Tolba; Omar Said / <strong> Privacy Preserving Authentication System based on Non-interactive Zero Knowledge Proof Suitable for Internet of Things </strong> In: Journal of Ambient Intelligence and Humanized Computing. 
 
                                   </p>
                                   
