@@ -40,6 +40,12 @@ author_profile: true
                                 </a>
                             </h3>
                               <div class="accDetail panel-collapse collapse in" id="publication2021">
+                                  
+                                <p>
+                                  <strong>71. [J]<strong>. Ashutosh Dhar Dwivedi; Rajani Singh; Uttam Ghosh; Raghava Rao Mukkamala; Amr Tolba; Omar Said / <strong> Privacy Preserving Authentication System based on Non-interactive Zero Knowledge Proof Suitable for Internet of Things </strong> In: Journal of Ambient Intelligence and Humanized Computing. ([PDF](https://raghavamukkamala.github.io/files/pubs/2021_JAIHC_PrivacyPreservingAuthenticatio.pdf){:target="_blank" rel="noopener"})
+
+                                  </p>
+                                  
                                   <p>
                                         <strong>70. [C]</strong>. Somnath Mazumdar; Thomas Jensen; Raghava Rao Mukkamala; Robert J. Kauffman; Jan Damsgaard / <strong>Do Blockchain and IoT Architecture Create Informedness to Support Provenance Tracking in the Product Lifecycle?</strong> In: Proceedings of the 54th Hawaii International Conference on System SciencesHawaii : Hawaii International Conference on System Sciences (HICSS) 2021, p. 1497-1506 (Proceedings of the Annual Hawaii International Conference on System Sciences)
                                         (<a href="/files/publication/2021_HICSS_Blockchain_IoT_Product_Lifecycle.pdf" target="_blank">PDF</a>)
