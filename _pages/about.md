@@ -41,9 +41,8 @@ author_profile: true
 			        <p>
               Our current research, education, and consulting focus on 
             <ul>
-              <li><b>Big Social Data Analytics</b>,</li>
+              <li><b>Data Science and Big Data Analytics</b>,</li>
               <li><b>Blockchain and Distributed Ledger Technologies</b>,</li> 
-              <li><b>Artificial Intelligence</b>,</li> 
               <li><b>Cyber Security and Information Security</b>.</li>
             </ul>
               </p>
