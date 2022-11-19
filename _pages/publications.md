@@ -70,7 +70,7 @@ author_profile: true
 
                                     </p>
                                     <p>
-                                    <strong>75. [J]</strong>. Sophia Auer; Sophia Nagler; Somnath Mazumdar; Raghava Rao Mukkamala /<strong> Towards Blockchain-IoT Based Shared Mobility : Car-sharing and Leasing as a Case Study.</strong> In: Journal of Network and Computer Applications, Vol. 200, 4.2022. <span style="background-color: #00F900"> (<strong>Impact factor = 7.57</strong>) </span> 
+                                    <strong>75. [J]</strong>. Sophia Auer; Sophia Nagler; Somnath Mazumdar; Raghava Rao Mukkamala /<strong> Towards Blockchain-IoT Based Shared Mobility : Car-sharing and Leasing as a Case Study.</strong> In: Journal of Network and Computer Applications, Vol. 200, 4.2022.  
                                     </p>
 
                                 </div>
