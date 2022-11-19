@@ -15,7 +15,7 @@ author_profile: true
                 <div class="col-lg-8 col-lg-offset-2 m-0">
                     <div class="wow bounceInDown m-0" data-wow-delay="0.4s">
                         <div class="section-heading">
-                            <h2 class="text-left">Selected Publication</h2>
+                            <h2 class="text-left">Selected Publications</h2>
                         </div>
                     </div>
                 </div>
@@ -45,23 +45,23 @@ author_profile: true
 
 
                                     <p>
-                                    <strong>81. [J]</strong>. Ashutosh Dhar Dwivedi; Rajani Singh; Raghava Rao Mukkamala; Waleed S Alnumay / Privacy-Preserving Ledger for Blockchain and IoT enabled Cyber-Physical Systems. In: Computers and Electrical Engineering, Elsevier, 2022. (accepted). (Impact factor = 4.15)
+                                    <strong>81. [J]</strong>. Ashutosh Dhar Dwivedi; Rajani Singh; Raghava Rao Mukkamala; Waleed S Alnumay / <strong>Privacy-Preserving Ledger for Blockchain and IoT enabled Cyber-Physical Systems.</strong> In: Computers and Electrical Engineering, Elsevier, 2022. (accepted). (Impact factor = 4.15)
                                     </p>
                                     <p>
 
-                                    <strong>80. [C]</strong>. Tim Schurig; Sine Zambach; Raghava Rao Mukkamala; Malte Petry / Aspect-based Sentiment Analysis for University Teaching Analytics. In: Proceedings of the 30th European Conference on Information Systems (ECIS), Timișoara, Romania. 2022. 
+                                    <strong>80. [C]</strong>. Tim Schurig; Sine Zambach; Raghava Rao Mukkamala; Malte Petry / <strong> Aspect-based Sentiment Analysis for University Teaching Analytics. </strong> In: Proceedings of the 30th European Conference on Information Systems (ECIS), Timișoara, Romania. 2022. 
                                     </p>
                                     <p>
 
-                                    <strong>79. [C]</strong>. Günter Prockl; Dominik Roeck; Thomas Jensen; Somnath Mazumdar; Raghava Rao Mukkamala / Beyond Task-technology Fit : Exploring Network Value of Blockchain Technology Based on Two Supply Chain Cases. In: Proceedings of the 55th Hawaii International Conference on System Sciences (HICSS) 2022, p. 5040-5049. 
+                                    <strong>79. [C]</strong>. Günter Prockl; Dominik Roeck; Thomas Jensen; Somnath Mazumdar; Raghava Rao Mukkamala / <strong>Beyond Task-technology Fit : Exploring Network Value of Blockchain Technology Based on Two Supply Chain Cases.</strong> In: Proceedings of the 55th Hawaii International Conference on System Sciences (HICSS) 2022, p. 5040-5049. 
                                     </p>
                                     <p>
 
-                                    <strong>78. [J]</strong>. Malte Bieler; Raghava Rao Mukkamala; Tor-Morten Grønli / A Context- and Trajectory-based Destination Prediction of Public Transportation Users. In: IEEE Intelligent Transportation Systems Magazine, 11.1.2022, p. 18. (Impact factor = 3.42). 
+                                    <strong>78. [J]</strong>. Malte Bieler; Raghava Rao Mukkamala; Tor-Morten Grønli /<strong> A Context- and Trajectory-based Destination Prediction of Public Transportation Users.</strong> In: IEEE Intelligent Transportation Systems Magazine, 11.1.2022, p. 18. (Impact factor = 3.42). 
                                     </p>
                                     <p>
 
-                                    <strong>77. [J]</strong>. Deepraj Chowdhury; Anik Das; Ajoy Dey; Shreya Sarkar; Ashutosh Dhar Dwivedi; Raghava Rao Mukkamala; Lakhindar Murmu / ABCanDroid : A Cloud Integrated Android App for Noninvasive Early Breast Cancer Detection Using Transfer Learning. In: Sensors, Vol. 22, No. 3, 2.2022.
+                                    <strong>77. [J]</strong>. Deepraj Chowdhury; Anik Das; Ajoy Dey; Shreya Sarkar; Ashutosh Dhar Dwivedi; Raghava Rao Mukkamala; Lakhindar Murmu / <strong>ABCanDroid : A Cloud Integrated Android App for Noninvasive Early Breast Cancer Detection Using Transfer Learning.</strong> In: Sensors, Vol. 22, No. 3, 2.2022.
 
                                     </p>
                                     <p>
@@ -70,7 +70,7 @@ author_profile: true
 
                                     </p>
                                     <p>
-                                    <strong>75. [J]</strong>. Sophia Auer; Sophia Nagler; Somnath Mazumdar; Raghava Rao Mukkamala / Towards Blockchain-IoT Based Shared Mobility : Car-sharing and Leasing as a Case Study. In: Journal of Network and Computer Applications, Vol. 200, 4.2022. <span style="background-color: #00F900"> (<strong>Impact factor = 7.57</strong>) </span> 
+                                    <strong>75. [J]</strong>. Sophia Auer; Sophia Nagler; Somnath Mazumdar; Raghava Rao Mukkamala /<strong> Towards Blockchain-IoT Based Shared Mobility : Car-sharing and Leasing as a Case Study.</strong> In: Journal of Network and Computer Applications, Vol. 200, 4.2022. <span style="background-color: #00F900"> (<strong>Impact factor = 7.57</strong>) </span> 
                                     </p>
 
                                 </div>
