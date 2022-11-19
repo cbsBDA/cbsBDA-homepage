@@ -70,12 +70,8 @@ author_profile: true
 
                                     </p>
                                     <p>
-                                    <strong>75. [J]</strong>. Sophia Auer; Sophia Nagler; Somnath Mazumdar; Raghava Rao Mukkamala / Towards Blockchain-IoT Based Shared Mobility : Car-sharing and Leasing as a Case Study. In: Journal of Network and Computer Applications, Vol. 200, 4.2022. <span style="background-color: #00F900"> (<strong>Impact factor = 7.57<strong>) </span> 
+                                    <strong>75. [J]</strong>. Sophia Auer; Sophia Nagler; Somnath Mazumdar; Raghava Rao Mukkamala / Towards Blockchain-IoT Based Shared Mobility : Car-sharing and Leasing as a Case Study. In: Journal of Network and Computer Applications, Vol. 200, 4.2022. <span style="background-color: #00F900"> (<strong>Impact factor = 7.57</strong>) </span> 
                                     </p>
-
-
-
-
 
                                 </div>
 
@@ -88,7 +84,6 @@ author_profile: true
                                 </a>
                             </h3>
                               <div class="accDetail panel-collapse collapse in" id="publication2021">
-
 
                                 <p>
                                 <strong>74. [BC]</strong>. Raghava Rao Mukkamala; Ravi Vatrapu / <strong> Distributed Ledger Technologies and Blockchain for FinTech. </strong> In: The Routledge Handbook of FinTech. ed. /K. Thomas Liaw. Abingdon : Routledge 2021, p. 79-98 (Routledge International Handbooks) 
